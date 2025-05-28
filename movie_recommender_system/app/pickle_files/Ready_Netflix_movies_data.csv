@@ -1,0 +1,1465 @@
+,movieId,title,userId,avgRating,numVotes,score,genres,tag,features
+0,1,Toy Story (1995),336,3.8333333333333335,3,3.7887139533433793,Adventure|Animation|Children|Comedy|Fantasy,pixar,Adventure Animation Children Comedy Fantasy pixar
+1,2,Jumanji (1995),62,3.75,4,3.7434206370451895,Adventure|Children|Fantasy,fantasy,Adventure Children Fantasy fantasy
+2,3,Grumpier Old Men (1995),289,2.5,2,3.1688946572307475,Comedy|Romance,moldy,Comedy Romance moldy
+3,5,Father of the Bride Part II (1995),474,1.5,2,2.711680416131435,Comedy,pregnancy,Comedy pregnancy
+4,7,Sabrina (1995),474,3.0,1,3.5153039240699813,Comedy|Romance,remake,Comedy Romance remake
+5,11,"American President, The (1995)",474,2.5,2,3.1688946572307475,Comedy|Drama|Romance,politics,Comedy Drama Romance politics
+6,14,Nixon (1995),474,3.0,2,3.397501777780404,Drama,politics,Drama politics
+7,16,Casino (1995),474,4.0,1,3.811660199373625,Crime|Drama,Mafia,Crime Drama Mafia
+8,17,Sense and Sensibility (1995),474,5.0,1,4.108016474677269,Drama|Romance,Jane Austen,Drama Romance Jane Austen
+9,21,Get Shorty (1995),474,4.0,1,3.811660199373625,Comedy|Crime|Thriller,Hollywood,Comedy Crime Thriller Hollywood
+10,22,Copycat (1995),474,3.0,1,3.5153039240699813,Crime|Drama|Horror|Mystery|Thriller,serial killer,Crime Drama Horror Mystery Thriller serial killer
+11,25,Leaving Las Vegas (1995),474,3.5,1,3.6634820617218034,Drama|Romance,alcoholism,Drama Romance alcoholism
+12,26,Othello (1995),474,3.5,1,3.6634820617218034,Drama,Shakespeare,Drama Shakespeare
+13,28,Persuasion (1995),474,4.5,2,4.083323139429374,Drama|Romance,In Netflix queue,Drama Romance In Netflix queue
+14,29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",474,3.5,1,3.6634820617218034,Adventure|Drama|Fantasy|Mystery|Sci-Fi,kidnapping,Adventure Drama Fantasy Mystery Sci-Fi kidnapping
+15,31,Dangerous Minds (1995),474,3.0,2,3.397501777780404,Drama,high school,Drama high school
+16,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),424,4.35,10,4.231486055691416,Mystery|Sci-Fi|Thriller,time travel,Mystery Sci-Fi Thriller time travel
+17,34,Babe (1995),474,4.333333333333333,3,4.0678191897439895,Children|Drama,Animal movie,Children Drama Animal movie
+18,36,Dead Man Walking (1995),474,5.0,2,4.31193025997903,Crime|Drama,death penalty,Crime Drama death penalty
+19,38,It Takes Two (1995),474,1.0,1,2.922591373462694,Children|Comedy,twins,Children Comedy twins
+20,39,Clueless (1995),357,4.214285714285714,7,4.0922181131525575,Comedy|Romance,chick flick,Comedy Romance chick flick
+21,41,Richard III (1995),474,3.5,1,3.6634820617218034,Drama|War,Shakespeare,Drama War Shakespeare
+22,43,Restoration (1995),474,3.5,1,3.6634820617218034,Drama,England,Drama England
+23,45,To Die For (1995),474,4.0,1,3.811660199373625,Comedy|Drama|Thriller,Journalism,Comedy Drama Thriller Journalism
+24,46,How to Make an American Quilt (1995),474,3.0,1,3.5153039240699813,Drama|Romance,wedding,Drama Romance wedding
+25,47,Seven (a.k.a. Se7en) (1995),424,4.666666666666667,3,4.253889347344396,Mystery|Thriller,mystery,Mystery Thriller mystery
+26,50,"Usual Suspects, The (1995)",424,4.833333333333333,6,4.521174664347936,Crime|Mystery|Thriller,mindfuck,Crime Mystery Thriller mindfuck
+27,52,Mighty Aphrodite (1995),474,4.0,2,3.854716018879717,Comedy|Drama|Romance,adoption,Comedy Drama Romance adoption
+28,58,"Postman, The (Postino, Il) (1994)",474,3.5,1,3.6634820617218034,Comedy|Drama|Romance,writing,Comedy Drama Romance writing
+29,62,Mr. Holland's Opus (1995),474,2.5,1,3.3671257864181596,Drama,music,Drama music
+30,92,Mary Reilly (1996),474,3.5,1,3.6634820617218034,Drama|Horror|Thriller,Jekyll and Hyde,Drama Horror Thriller Jekyll and Hyde
+31,96,In the Bleak Midwinter (1995),474,3.5,1,3.6634820617218034,Comedy|Drama,theater,Comedy Drama theater
+32,101,Bottle Rocket (1996),474,3.1666666666666665,3,3.416573638142566,Adventure|Comedy|Crime|Romance,crime,Adventure Comedy Crime Romance crime
+33,104,Happy Gilmore (1996),167,3.3333333333333335,3,3.509608716942769,Comedy,test tag,Comedy test tag
+34,107,Muppet Treasure Island (1996),474,3.0,1,3.5153039240699813,Adventure|Children|Comedy|Musical,muppets,Adventure Children Comedy Musical muppets
+35,110,Braveheart (1995),62,4.35,10,4.231486055691416,Action|Drama|War,beautiful scenery,Action Drama War beautiful scenery
+36,111,Taxi Driver (1976),474,4.0,1,3.811660199373625,Crime|Drama|Thriller,assassination,Crime Drama Thriller assassination
+37,116,Anne Frank Remembered (1995),474,3.5,1,3.6634820617218034,Documentary,Holocaust,Documentary Holocaust
+38,122,Boomerang (1992),474,1.0,1,2.922591373462694,Comedy|Romance,dating,Comedy Romance dating
+39,140,Up Close and Personal (1996),474,2.5,1,3.3671257864181596,Drama|Romance,journalism,Drama Romance journalism
+40,147,"Basketball Diaries, The (1995)",424,3.5,4,3.5865410828231576,Drama,addiction,Drama addiction
+41,150,Apollo 13 (1995),474,4.5,3,4.160854268544193,Adventure|Drama|IMAX,moon,Adventure Drama IMAX moon
+42,153,Batman Forever (1995),474,3.0,1,3.5153039240699813,Action|Adventure|Comedy|Crime,superhero,Action Adventure Comedy Crime superhero
+43,160,Congo (1995),474,1.0,1,2.922591373462694,Action|Adventure|Mystery|Sci-Fi,Michael Crichton,Action Adventure Mystery Sci-Fi Michael Crichton
+44,161,Crimson Tide (1995),474,3.5,1,3.6634820617218034,Drama|Thriller|War,submarine,Drama Thriller War submarine
+45,162,Crumb (1994),474,3.5,1,3.6634820617218034,Documentary,In Netflix queue,Documentary In Netflix queue
+46,175,Kids (1995),424,4.5,3,4.160854268544193,Drama,controversial,Drama controversial
+47,185,"Net, The (1995)",474,3.0,1,3.5153039240699813,Action|Crime|Thriller,computers,Action Crime Thriller computers
+48,199,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",474,4.5,1,3.959838337025447,Drama|Musical|Romance,Made me cry,Drama Musical Romance Made me cry
+49,215,Before Sunrise (1995),474,3.5,1,3.6634820617218034,Drama|Romance,generation X,Drama Romance generation X
+50,216,Billy Madison (1995),474,3.0,3,3.3235385593423623,Comedy,school,Comedy school
+51,222,Circle of Friends (1995),474,4.0,1,3.811660199373625,Drama|Romance,Ireland,Drama Romance Ireland
+52,223,Clerks (1994),424,3.5,6,3.5658728698944295,Comedy,cynical,Comedy cynical
+53,224,Don Juan DeMarco (1995),474,3.5,2,3.6261088983300604,Comedy|Drama|Romance,mental illness,Comedy Drama Romance mental illness
+54,230,Dolores Claiborne (1995),474,3.5,1,3.6634820617218034,Drama|Thriller,Stephen King,Drama Thriller Stephen King
+55,232,Eat Drink Man Woman (Yin shi nan nu) (1994),474,4.0,1,3.811660199373625,Comedy|Drama|Romance,In Netflix queue,Comedy Drama Romance In Netflix queue
+56,235,Ed Wood (1994),474,4.0,1,3.811660199373625,Comedy|Drama,movie business,Comedy Drama movie business
+57,237,Forget Paris (1995),474,3.5,3,3.6026437957429724,Comedy|Romance,basketball,Comedy Romance basketball
+58,246,Hoop Dreams (1994),474,4.0,1,3.811660199373625,Documentary,basketball,Documentary basketball
+59,247,Heavenly Creatures (1994),474,4.0,1,3.811660199373625,Crime|Drama,Australia,Crime Drama Australia
+60,249,Immortal Beloved (1994),474,4.0,1,3.811660199373625,Drama|Romance,Beethoven,Drama Romance Beethoven
+61,252,I.Q. (1994),474,2.0,1,3.2189476487663375,Comedy|Romance,Einstein,Comedy Romance Einstein
+62,257,Just Cause (1995),474,3.0,1,3.5153039240699813,Mystery|Thriller,court,Mystery Thriller court
+63,260,Star Wars: Episode IV - A New Hope (1977),63,4.527777777777778,18,4.435081178252169,Action|Adventure|Sci-Fi,classic,Action Adventure Sci-Fi classic
+64,261,Little Women (1994),474,4.0,1,3.811660199373625,Drama,Louisa May Alcott,Drama Louisa May Alcott
+65,262,"Little Princess, A (1995)",474,4.0,3,3.8817490321435826,Children|Drama,England,Children Drama England
+66,272,"Madness of King George, The (1994)",474,3.5,2,3.6261088983300604,Comedy|Drama,England,Comedy Drama England
+67,277,Miracle on 34th Street (1994),474,2.0,1,3.2189476487663375,Drama,Christmas,Drama Christmas
+68,280,Murder in the First (1995),474,3.0,1,3.5153039240699813,Drama|Thriller,prison,Drama Thriller prison
+69,282,Nell (1994),474,3.0,2,3.397501777780404,Drama,disability,Drama disability
+70,288,Natural Born Killers (1994),424,4.0,6,3.924111042814494,Action|Crime|Thriller,brutality,Action Crime Thriller brutality
+71,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),166,4.928571428571429,35,4.852576968069774,Action|Crime|Drama|Thriller,assassin,Action Crime Drama Thriller assassin
+72,296,Pulp Fiction (1994),103,4.983425414364641,181,4.967226407602271,Comedy|Crime|Drama|Thriller,good dialogue,Comedy Crime Drama Thriller good dialogue
+73,300,Quiz Show (1994),474,4.0,1,3.811660199373625,Drama,TV,Drama TV
+74,307,Three Colors: Blue (Trois couleurs: Bleu) (1993),474,4.5,1,3.959838337025447,Drama,Death,Drama Death
+75,308,Three Colors: White (Trzy kolory: Bialy) (1994),474,3.25,2,3.5118053380552325,Comedy|Drama,marriage,Comedy Drama marriage
+76,316,Stargate (1994),474,3.5,1,3.6634820617218034,Action|Adventure|Sci-Fi,time travel,Action Adventure Sci-Fi time travel
+77,317,"Santa Clause, The (1994)",474,2.0,1,3.2189476487663375,Comedy|Drama|Fantasy,Christmas,Comedy Drama Fantasy Christmas
+78,318,"Shawshank Redemption, The (1994)",474,5.0,4,4.527818408155348,Crime|Drama,prison,Crime Drama prison
+79,329,Star Trek: Generations (1994),474,4.0,1,3.811660199373625,Adventure|Drama|Sci-Fi,Enterprise,Adventure Drama Sci-Fi Enterprise
+80,337,What's Eating Gilbert Grape (1993),474,4.0,1,3.811660199373625,Drama,mental illness,Drama mental illness
+81,338,Virtuosity (1995),474,3.0,1,3.5153039240699813,Action|Sci-Fi|Thriller,serial killer,Action Sci-Fi Thriller serial killer
+82,339,While You Were Sleeping (1995),474,3.5,1,3.6634820617218034,Comedy|Romance,coma,Comedy Romance coma
+83,342,Muriel's Wedding (1994),474,3.5,2,3.6261088983300604,Comedy,Australia,Comedy Australia
+84,345,"Adventures of Priscilla, Queen of the Desert, The (1994)",474,3.5,3,3.6026437957429724,Comedy|Drama,cross dressing,Comedy Drama cross dressing
+85,349,Clear and Present Danger (1994),474,3.0,1,3.5153039240699813,Action|Crime|Drama|Thriller,Tom Clancy,Action Crime Drama Thriller Tom Clancy
+86,350,"Client, The (1994)",474,3.0,1,3.5153039240699813,Drama|Mystery|Thriller,John Grisham,Drama Mystery Thriller John Grisham
+87,351,"Corrina, Corrina (1994)",474,2.0,1,3.2189476487663375,Comedy|Drama|Romance,interracial romance,Comedy Drama Romance interracial romance
+88,356,Forrest Gump (1994),474,3.6666666666666665,9,3.68037481292972,Comedy|Drama|Romance|War,shrimp,Comedy Drama Romance War shrimp
+89,357,Four Weddings and a Funeral (1994),474,3.0,1,3.5153039240699813,Comedy|Romance,wedding,Comedy Romance wedding
+90,361,It Could Happen to You (1994),474,3.5,1,3.6634820617218034,Comedy|Drama|Romance,gambling,Comedy Drama Romance gambling
+91,364,"Lion King, The (1994)",319,4.8,5,4.456243181262106,Adventure|Animation|Children|Drama|Musical|IMAX,Disney,Adventure Animation Children Drama Musical IMAX Disney
+92,371,"Paper, The (1994)",474,3.0,1,3.5153039240699813,Comedy|Drama,journalism,Comedy Drama journalism
+93,377,Speed (1994),474,4.0,1,3.811660199373625,Action|Romance|Thriller,bus,Action Romance Thriller bus
+94,380,True Lies (1994),474,4.0,1,3.811660199373625,Action|Adventure|Comedy|Romance|Thriller,spies,Action Adventure Comedy Romance Thriller spies
+95,381,When a Man Loves a Woman (1994),474,2.5,1,3.3671257864181596,Drama|Romance,alcoholism,Drama Romance alcoholism
+96,410,Addams Family Values (1993),62,4.5,6,4.282349215734559,Children|Comedy|Fantasy,black comedy,Children Comedy Fantasy black comedy
+97,412,"Age of Innocence, The (1993)",474,4.0,1,3.811660199373625,Drama,Edith Wharton,Drama Edith Wharton
+98,421,Black Beauty (1994),474,3.5,1,3.6634820617218034,Adventure|Children|Drama,horses,Adventure Children Drama horses
+99,425,Blue Sky (1994),474,3.5,2,3.6261088983300604,Drama|Romance,mental illness,Drama Romance mental illness
+100,431,Carlito's Way (1993),18,4.0,3,3.8817490321435826,Crime|Drama,Al Pacino,Crime Drama Al Pacino
+101,440,Dave (1993),474,4.5,1,3.959838337025447,Comedy|Romance,President,Comedy Romance President
+102,454,"Firm, The (1993)",474,4.0,1,3.811660199373625,Drama|Thriller,John Grisham,Drama Thriller John Grisham
+103,457,"Fugitive, The (1993)",474,5.0,1,4.108016474677269,Thriller,based on a TV show,Thriller based on a TV show
+104,471,"Hudsucker Proxy, The (1994)",474,3.0,1,3.5153039240699813,Comedy,hula hoop,Comedy hula hoop
+105,474,In the Line of Fire (1993),474,3.5,1,3.6634820617218034,Action|Thriller,assassination,Action Thriller assassination
+106,475,In the Name of the Father (1993),474,4.0,1,3.811660199373625,Drama,Ireland,Drama Ireland
+107,477,What's Love Got to Do with It? (1993),474,3.5,1,3.6634820617218034,Drama|Musical,biopic,Drama Musical biopic
+108,480,Jurassic Park (1993),474,4.5,1,3.959838337025447,Action|Adventure|Sci-Fi|Thriller,Dinosaur,Action Adventure Sci-Fi Thriller Dinosaur
+109,488,M. Butterfly (1993),474,3.0,2,3.397501777780404,Drama|Romance,Japan,Drama Romance Japan
+110,497,Much Ado About Nothing (1993),474,5.0,1,4.108016474677269,Comedy|Romance,Shakespeare,Comedy Romance Shakespeare
+111,500,Mrs. Doubtfire (1993),474,2.5,3,3.0444333229417526,Comedy|Drama,cross dressing,Comedy Drama cross dressing
+112,508,Philadelphia (1993),474,3.0,1,3.5153039240699813,Drama,AIDs,Drama AIDs
+113,513,Radioland Murders (1994),474,3.5,2,3.6261088983300604,Comedy|Mystery|Romance,radio,Comedy Mystery Romance radio
+114,515,"Remains of the Day, The (1993)",474,5.0,2,4.31193025997903,Drama|Romance,Butler,Drama Romance Butler
+115,516,Renaissance Man (1994),474,2.0,1,3.2189476487663375,Comedy|Drama,military,Comedy Drama military
+116,522,Romper Stomper (1992),474,3.5,3,3.6026437957429724,Action|Drama,Australia,Action Drama Australia
+117,524,Rudy (1993),474,2.5,1,3.3671257864181596,Drama,football,Drama football
+118,527,Schindler's List (1993),474,1.8,5,2.422156482484782,Drama|War,Holocaust,Drama War Holocaust
+119,529,Searching for Bobby Fischer (1993),474,4.0,1,3.811660199373625,Drama,chess,Drama chess
+120,534,Shadowlands (1993),474,5.0,1,4.108016474677269,Drama|Romance,C.S. Lewis,Drama Romance C.S. Lewis
+121,535,Short Cuts (1993),474,4.0,1,3.811660199373625,Drama,large cast,Drama large cast
+122,538,Six Degrees of Separation (1993),474,3.5,1,3.6634820617218034,Drama,race,Drama race
+123,539,Sleepless in Seattle (1993),474,4.5,1,3.959838337025447,Comedy|Drama|Romance,Empire State Building,Comedy Drama Romance Empire State Building
+124,541,Blade Runner (1982),474,4.333333333333333,12,4.234062031215819,Action|Sci-Fi|Thriller,robots,Action Sci-Fi Thriller robots
+125,543,So I Married an Axe Murderer (1993),474,4.5,1,3.959838337025447,Comedy|Romance|Thriller,beat poetry,Comedy Romance Thriller beat poetry
+126,551,"Nightmare Before Christmas, The (1993)",474,3.0,2,3.397501777780404,Animation|Children|Fantasy|Musical,Christmas,Animation Children Fantasy Musical Christmas
+127,552,"Three Musketeers, The (1993)",336,3.0,1,3.5153039240699813,Action|Adventure|Comedy|Romance,knights,Action Adventure Comedy Romance knights
+128,556,"War Room, The (1993)",474,3.0,1,3.5153039240699813,Documentary,politics,Documentary politics
+129,562,Welcome to the Dollhouse (1995),474,4.0,1,3.811660199373625,Comedy|Drama,adolescence,Comedy Drama adolescence
+130,586,Home Alone (1990),474,2.0,1,3.2189476487663375,Children|Comedy,christmas,Children Comedy christmas
+131,587,Ghost (1990),474,3.0,1,3.5153039240699813,Comedy|Drama|Fantasy|Romance|Thriller,overrated,Comedy Drama Fantasy Romance Thriller overrated
+132,588,Aladdin (1992),474,4.0,1,3.811660199373625,Adventure|Animation|Children|Comedy|Musical,Disney,Adventure Animation Children Comedy Musical Disney
+133,589,Terminator 2: Judgment Day (1991),424,2.625,8,2.8784304309261066,Action|Sci-Fi,apocalypse,Action Sci-Fi apocalypse
+134,590,Dances with Wolves (1990),474,3.5,2,3.6261088983300604,Adventure|Drama|Western,American Indians,Adventure Drama Western American Indians
+135,592,Batman (1989),474,4.0,1,3.811660199373625,Action|Crime|Thriller,superhero,Action Crime Thriller superhero
+136,593,"Silence of the Lambs, The (1991)",474,4.916666666666667,6,4.58088102650128,Crime|Horror|Thriller,Hannibal Lector,Crime Horror Thriller Hannibal Lector
+137,594,Snow White and the Seven Dwarfs (1937),474,3.0,1,3.5153039240699813,Animation|Children|Drama|Fantasy|Musical,Disney,Animation Children Drama Fantasy Musical Disney
+138,595,Beauty and the Beast (1991),474,5.0,1,4.108016474677269,Animation|Children|Fantasy|Musical|Romance|IMAX,Disney,Animation Children Fantasy Musical Romance IMAX Disney
+139,596,Pinocchio (1940),474,2.0,1,3.2189476487663375,Animation|Children|Fantasy|Musical,Disney,Animation Children Fantasy Musical Disney
+140,597,Pretty Woman (1990),474,4.0,1,3.811660199373625,Comedy|Romance,prostitution,Comedy Romance prostitution
+141,608,Fargo (1996),424,3.6,5,3.642608501751177,Comedy|Crime|Drama|Thriller,based on a true story,Comedy Crime Drama Thriller based on a true story
+142,616,"Aristocats, The (1970)",474,3.5,1,3.6634820617218034,Animation|Children,Disney,Animation Children Disney
+143,628,Primal Fear (1996),424,4.666666666666667,6,4.401761940041248,Crime|Drama|Mystery|Thriller,edward norton,Crime Drama Mystery Thriller edward norton
+144,638,Jack and Sarah (1995),474,3.0,1,3.5153039240699813,Romance,babies,Romance babies
+145,647,Courage Under Fire (1996),474,3.0,1,3.5153039240699813,Action|Crime|Drama|War,Gulf War,Action Crime Drama War Gulf War
+146,648,Mission: Impossible (1996),474,3.5,1,3.6634820617218034,Action|Adventure|Mystery|Thriller,based on a TV show,Action Adventure Mystery Thriller based on a TV show
+147,668,Song of the Little Road (Pather Panchali) (1955),474,3.5,1,3.6634820617218034,Drama,India,Drama India
+148,670,"World of Apu, The (Apur Sansar) (1959)",474,4.5,1,3.959838337025447,Drama,India,Drama India
+149,671,Mystery Science Theater 3000: The Movie (1996),474,3.5,1,3.6634820617218034,Comedy|Sci-Fi,spoof,Comedy Sci-Fi spoof
+150,673,Space Jam (1996),474,1.5,1,3.070769511114516,Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,Bugs Bunny,Adventure Animation Children Comedy Fantasy Sci-Fi Bugs Bunny
+151,708,"Truth About Cats & Dogs, The (1996)",474,4.5,1,3.959838337025447,Comedy|Romance,Veterinarian,Comedy Romance Veterinarian
+152,720,Wallace & Gromit: The Best of Aardman Animation (1996),474,4.0,1,3.811660199373625,Adventure|Animation|Comedy,Aardman,Adventure Animation Comedy Aardman
+153,728,Cold Comfort Farm (1995),474,3.5,1,3.6634820617218034,Comedy,In Netflix queue,Comedy In Netflix queue
+154,733,"Rock, The (1996)",474,4.0,3,3.8817490321435826,Action|Adventure|Thriller,Alcatraz,Action Adventure Thriller Alcatraz
+155,736,Twister (1996),474,2.0,1,3.2189476487663375,Action|Adventure|Romance|Thriller,Disaster,Action Adventure Romance Thriller Disaster
+156,745,Wallace & Gromit: A Close Shave (1995),474,4.0,1,3.811660199373625,Animation|Children|Comedy,Aardman,Animation Children Comedy Aardman
+157,748,"Arrival, The (1996)",474,3.5,1,3.6634820617218034,Action|Sci-Fi|Thriller,aliens,Action Sci-Fi Thriller aliens
+158,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),474,4.277777777777778,9,4.163920332987371,Comedy|War,Atomic bomb,Comedy War Atomic bomb
+159,778,Trainspotting (1996),318,4.0,4,3.9003001912672213,Comedy|Crime|Drama,based on a book,Comedy Crime Drama based on a book
+160,780,Independence Day (a.k.a. ID4) (1996),474,4.0,1,3.811660199373625,Action|Adventure|Sci-Fi|Thriller,aliens,Action Adventure Sci-Fi Thriller aliens
+161,805,"Time to Kill, A (1996)",474,3.0,1,3.5153039240699813,Drama|Thriller,John Grisham,Drama Thriller John Grisham
+162,818,"Very Brady Sequel, A (1996)",474,3.0,1,3.5153039240699813,Comedy,based on a TV show,Comedy based on a TV show
+163,830,"First Wives Club, The (1996)",474,2.0,1,3.2189476487663375,Comedy,adultery,Comedy adultery
+164,832,Ransom (1996),474,2.75,4,3.1159024201570626,Crime|Thriller,kidnapping,Crime Thriller kidnapping
+165,836,Chain Reaction (1996),573,3.0,1,3.5153039240699813,Action|Adventure|Thriller,seen at the cinema,Action Adventure Thriller seen at the cinema
+166,838,Emma (1996),474,3.0,1,3.5153039240699813,Comedy|Drama|Romance,Jane Austen,Comedy Drama Romance Jane Austen
+167,852,Tin Cup (1996),474,2.0,1,3.2189476487663375,Comedy|Drama|Romance,golf,Comedy Drama Romance golf
+168,858,"Godfather, The (1972)",474,5.0,1,4.108016474677269,Crime|Drama,Mafia,Crime Drama Mafia
+169,892,Twelfth Night (1996),474,3.0,1,3.5153039240699813,Comedy|Drama|Romance,Shakespeare,Comedy Drama Romance Shakespeare
+170,898,"Philadelphia Story, The (1940)",474,4.0,1,3.811660199373625,Comedy|Drama|Romance,divorce,Comedy Drama Romance divorce
+171,899,Singin' in the Rain (1952),474,4.0,1,3.811660199373625,Comedy|Musical|Romance,movie business,Comedy Musical Romance movie business
+172,900,"American in Paris, An (1951)",474,3.5,1,3.6634820617218034,Musical|Romance,France,Musical Romance France
+173,902,Breakfast at Tiffany's (1961),474,3.5,1,3.6634820617218034,Drama|Romance,Capote,Drama Romance Capote
+174,903,Vertigo (1958),474,3.7,5,3.710411391710421,Drama|Mystery|Romance|Thriller,falling,Drama Mystery Romance Thriller falling
+175,904,Rear Window (1954),474,3.5833333333333335,6,3.6255792320477735,Mystery|Thriller,voyeurism,Mystery Thriller voyeurism
+176,905,It Happened One Night (1934),474,5.0,1,4.108016474677269,Comedy|Romance,Screwball,Comedy Romance Screwball
+177,906,Gaslight (1944),474,5.0,1,4.108016474677269,Drama|Thriller,Brooch,Drama Thriller Brooch
+178,907,"Gay Divorcee, The (1934)",474,3.0,1,3.5153039240699813,Comedy|Musical|Romance,divorce,Comedy Musical Romance divorce
+179,908,North by Northwest (1959),474,3.8333333333333335,3,3.7887139533433793,Action|Adventure|Mystery|Romance|Thriller,Mount Rushmore,Action Adventure Mystery Romance Thriller Mount Rushmore
+180,909,"Apartment, The (1960)",474,4.0,1,3.811660199373625,Comedy|Drama|Romance,adultery,Comedy Drama Romance adultery
+181,910,Some Like It Hot (1959),474,4.0,1,3.811660199373625,Comedy|Crime,men in drag,Comedy Crime men in drag
+182,911,Charade (1963),474,3.5,1,3.6634820617218034,Comedy|Crime|Mystery|Romance|Thriller,heist,Comedy Crime Mystery Romance Thriller heist
+183,912,Casablanca (1942),474,5.0,1,4.108016474677269,Drama|Romance,start of a beautiful friendship,Drama Romance start of a beautiful friendship
+184,913,"Maltese Falcon, The (1941)",474,4.0,1,3.811660199373625,Film-Noir|Mystery,statue,Film-Noir Mystery statue
+185,914,My Fair Lady (1964),474,4.5,1,3.959838337025447,Comedy|Drama|Musical|Romance,George Bernard Shaw,Comedy Drama Musical Romance George Bernard Shaw
+186,915,Sabrina (1954),474,4.0,1,3.811660199373625,Comedy|Romance,rich guy - poor girl,Comedy Romance rich guy - poor girl
+187,916,Roman Holiday (1953),474,4.0,2,3.854716018879717,Comedy|Drama|Romance,Italy,Comedy Drama Romance Italy
+188,918,Meet Me in St. Louis (1944),474,3.5,1,3.6634820617218034,Musical,1900s,Musical 1900s
+189,919,"Wizard of Oz, The (1939)",474,4.5,2,4.083323139429374,Adventure|Children|Fantasy|Musical,Dorothy,Adventure Children Fantasy Musical Dorothy
+190,920,Gone with the Wind (1939),474,2.0,1,3.2189476487663375,Drama|Romance|War,Civil War,Drama Romance War Civil War
+191,921,My Favorite Year (1982),474,3.0,1,3.5153039240699813,Comedy,television,Comedy television
+192,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),474,4.333333333333333,3,4.0678191897439895,Drama|Film-Noir|Romance,movies,Drama Film-Noir Romance movies
+193,923,Citizen Kane (1941),474,4.5,1,3.959838337025447,Drama|Mystery,Rosebud,Drama Mystery Rosebud
+194,924,2001: A Space Odyssey (1968),474,4.951219512195122,41,4.884497659604815,Adventure|Drama|Sci-Fi,Hal,Adventure Drama Sci-Fi Hal
+195,926,All About Eve (1950),474,4.5,1,3.959838337025447,Drama,Hollywood,Drama Hollywood
+196,927,"Women, The (1939)",474,4.0,1,3.811660199373625,Comedy,divorce,Comedy divorce
+197,928,Rebecca (1940),474,5.0,1,4.108016474677269,Drama|Mystery|Romance|Thriller,Mrs. DeWinter,Drama Mystery Romance Thriller Mrs. DeWinter
+198,929,Foreign Correspondent (1940),474,3.5,3,3.6026437957429724,Drama|Film-Noir|Mystery|Thriller,Europe,Drama Film-Noir Mystery Thriller Europe
+199,930,Notorious (1946),474,4.0,1,3.811660199373625,Film-Noir|Romance|Thriller,assassination,Film-Noir Romance Thriller assassination
+200,931,Spellbound (1945),474,3.5,1,3.6634820617218034,Mystery|Romance|Thriller,amnesia,Mystery Romance Thriller amnesia
+201,934,Father of the Bride (1950),474,3.0,1,3.5153039240699813,Comedy,wedding,Comedy wedding
+202,936,Ninotchka (1939),474,4.0,2,3.854716018879717,Comedy|Romance,Cold War,Comedy Romance Cold War
+203,938,Gigi (1958),474,2.5,1,3.3671257864181596,Musical,prostitution,Musical prostitution
+204,940,"Adventures of Robin Hood, The (1938)",474,3.5,1,3.6634820617218034,Action|Adventure|Romance,swashbuckler,Action Adventure Romance swashbuckler
+205,941,"Mark of Zorro, The (1940)",474,3.5,1,3.6634820617218034,Adventure,swashbuckler,Adventure swashbuckler
+206,943,"Ghost and Mrs. Muir, The (1947)",474,3.5,1,3.6634820617218034,Drama|Fantasy|Romance,ghosts,Drama Fantasy Romance ghosts
+207,944,Lost Horizon (1937),474,4.0,1,3.811660199373625,Drama,Shangri-La,Drama Shangri-La
+208,945,Top Hat (1935),474,4.5,1,3.959838337025447,Comedy|Musical|Romance,Astaire and Rogers,Comedy Musical Romance Astaire and Rogers
+209,947,My Man Godfrey (1936),474,3.5,3,3.6026437957429724,Comedy|Romance,butler,Comedy Romance butler
+210,948,Giant (1956),474,4.0,1,3.811660199373625,Drama|Romance|Western,oil,Drama Romance Western oil
+211,950,"Thin Man, The (1934)",474,4.0,1,3.811660199373625,Comedy|Crime,Nick and Nora Charles,Comedy Crime Nick and Nora Charles
+212,951,His Girl Friday (1940),474,4.5,1,3.959838337025447,Comedy|Romance,Screwball,Comedy Romance Screwball
+213,952,Around the World in 80 Days (1956),474,3.0,1,3.5153039240699813,Adventure|Comedy,race,Adventure Comedy race
+214,953,It's a Wonderful Life (1946),474,3.5,1,3.6634820617218034,Children|Drama|Fantasy|Romance,Christmas,Children Drama Fantasy Romance Christmas
+215,954,Mr. Smith Goes to Washington (1939),474,4.5,1,3.959838337025447,Drama,Politics,Drama Politics
+216,955,Bringing Up Baby (1938),474,4.0,2,3.854716018879717,Comedy|Romance,leopard,Comedy Romance leopard
+217,956,Penny Serenade (1941),474,4.0,1,3.811660199373625,Drama|Romance,adoption,Drama Romance adoption
+218,965,"39 Steps, The (1935)",474,4.0,1,3.811660199373625,Drama|Mystery|Thriller,fugitive,Drama Mystery Thriller fugitive
+219,968,Night of the Living Dead (1968),474,4.0,1,3.811660199373625,Horror|Sci-Fi|Thriller,zombies,Horror Sci-Fi Thriller zombies
+220,969,"African Queen, The (1951)",474,5.0,1,4.108016474677269,Adventure|Comedy|Romance|War,missionary,Adventure Comedy Romance War missionary
+221,970,Beat the Devil (1953),474,3.5,1,3.6634820617218034,Adventure|Comedy|Crime|Drama|Romance,crime,Adventure Comedy Crime Drama Romance crime
+222,971,Cat on a Hot Tin Roof (1958),474,3.5,1,3.6634820617218034,Drama,Tennessee Williams,Drama Tennessee Williams
+223,973,Meet John Doe (1941),474,3.5,1,3.6634820617218034,Comedy|Drama,journalism,Comedy Drama journalism
+224,976,"Farewell to Arms, A (1932)",474,3.0,1,3.5153039240699813,Romance|War,Hemingway,Romance War Hemingway
+225,986,Fly Away Home (1996),474,4.0,1,3.811660199373625,Adventure|Children,Animal movie,Adventure Children Animal movie
+226,991,Michael Collins (1996),474,3.0,1,3.5153039240699813,Drama,Ireland,Drama Ireland
+227,994,Big Night (1996),474,3.5,1,3.6634820617218034,Comedy|Drama,food,Comedy Drama food
+228,1006,"Chamber, The (1996)",474,3.5,2,3.6261088983300604,Drama,death penalty,Drama death penalty
+229,1010,"Love Bug, The (1969)",474,3.0,2,3.397501777780404,Children|Comedy,Disney,Children Comedy Disney
+230,1013,"Parent Trap, The (1961)",474,3.0,1,3.5153039240699813,Children|Comedy|Romance,twins,Children Comedy Romance twins
+231,1022,Cinderella (1950),474,4.0,1,3.811660199373625,Animation|Children|Fantasy|Musical|Romance,Disney,Animation Children Fantasy Musical Romance Disney
+232,1025,"Sword in the Stone, The (1963)",474,3.0,2,3.397501777780404,Animation|Children|Fantasy|Musical,Disney,Animation Children Fantasy Musical Disney
+233,1028,Mary Poppins (1964),474,3.0,2,3.397501777780404,Children|Comedy|Fantasy|Musical,Disney,Children Comedy Fantasy Musical Disney
+234,1029,Dumbo (1941),474,3.0,1,3.5153039240699813,Animation|Children|Drama|Musical,Disney,Animation Children Drama Musical Disney
+235,1030,Pete's Dragon (1977),474,2.0,1,3.2189476487663375,Adventure|Animation|Children|Musical,Disney,Adventure Animation Children Musical Disney
+236,1032,Alice in Wonderland (1951),474,2.0,1,3.2189476487663375,Adventure|Animation|Children|Fantasy|Musical,Disney,Adventure Animation Children Fantasy Musical Disney
+237,1033,"Fox and the Hound, The (1981)",474,4.5,1,3.959838337025447,Animation|Children|Drama,Disney,Animation Children Drama Disney
+238,1035,"Sound of Music, The (1965)",474,5.0,1,4.108016474677269,Musical|Romance,Rogers and Hammerstein,Musical Romance Rogers and Hammerstein
+239,1041,Secrets & Lies (1996),474,4.5,1,3.959838337025447,Drama,In Netflix queue,Drama In Netflix queue
+240,1042,That Thing You Do! (1996),474,4.5,1,3.959838337025447,Comedy|Drama,Music,Comedy Drama Music
+241,1059,William Shakespeare's Romeo + Juliet (1996),357,4.5,5,4.252834511384375,Drama|Romance,Amazing Cinematography,Drama Romance Amazing Cinematography
+242,1066,Shall We Dance (1937),474,4.0,1,3.811660199373625,Comedy|Musical|Romance,Astaire and Rogers,Comedy Musical Romance Astaire and Rogers
+243,1068,Crossfire (1947),474,3.5,1,3.6634820617218034,Crime|Film-Noir,anti-Semitism,Crime Film-Noir anti-Semitism
+244,1079,"Fish Called Wanda, A (1988)",474,4.5,1,3.959838337025447,Comedy|Crime,fish,Comedy Crime fish
+245,1080,Monty Python's Life of Brian (1979),474,3.0,3,3.3235385593423623,Comedy,Bible,Comedy Bible
+246,1081,Victor/Victoria (1982),474,3.5,1,3.6634820617218034,Comedy|Musical|Romance,cross dressing,Comedy Musical Romance cross dressing
+247,1082,"Candidate, The (1972)",474,3.5,1,3.6634820617218034,Drama,politics,Drama politics
+248,1084,Bonnie and Clyde (1967),474,3.5,2,3.6261088983300604,Crime|Drama,1920s,Crime Drama 1920s
+249,1088,Dirty Dancing (1987),474,3.5,2,3.6261088983300604,Drama|Musical|Romance,dance,Drama Musical Romance dance
+250,1089,Reservoir Dogs (1992),424,3.8181818181818183,11,3.8029418480544277,Crime|Mystery|Thriller,ensemble cast,Crime Mystery Thriller ensemble cast
+251,1090,Platoon (1986),474,3.5,1,3.6634820617218034,Drama|War,Vietnam,Drama War Vietnam
+252,1093,"Doors, The (1991)",474,3.0,3,3.3235385593423623,Drama,1960s,Drama 1960s
+253,1096,Sophie's Choice (1982),474,2.5,1,3.3671257864181596,Drama,Holocaust,Drama Holocaust
+254,1097,E.T. the Extra-Terrestrial (1982),474,4.0,1,3.811660199373625,Children|Drama|Sci-Fi,aliens,Children Drama Sci-Fi aliens
+255,1101,Top Gun (1986),289,2.75,2,3.283198217505576,Action|Romance,predictable,Action Romance predictable
+256,1103,Rebel Without a Cause (1955),474,4.0,2,3.854716018879717,Drama,1950s,Drama 1950s
+257,1104,"Streetcar Named Desire, A (1951)",474,4.0,1,3.811660199373625,Drama,Tennessee Williams,Drama Tennessee Williams
+258,1120,"People vs. Larry Flynt, The (1996)",424,3.5,1,3.6634820617218034,Comedy|Drama,freedom of expression,Comedy Drama freedom of expression
+259,1124,On Golden Pond (1981),474,4.0,1,3.811660199373625,Drama,aging,Drama aging
+260,1125,"Return of the Pink Panther, The (1975)",474,3.0,1,3.5153039240699813,Comedy|Crime,Clousseau,Comedy Crime Clousseau
+261,1135,Private Benjamin (1980),474,2.0,1,3.2189476487663375,Comedy,military,Comedy military
+262,1136,Monty Python and the Holy Grail (1975),474,4.5,2,4.083323139429374,Adventure|Comedy|Fantasy,England,Adventure Comedy Fantasy England
+263,1147,When We Were Kings (1996),474,3.0,2,3.397501777780404,Documentary,boxing,Documentary boxing
+264,1148,Wallace & Gromit: The Wrong Trousers (1993),474,4.0,1,3.811660199373625,Animation|Children|Comedy|Crime,Aardman,Animation Children Comedy Crime Aardman
+265,1171,Bob Roberts (1992),474,4.0,1,3.811660199373625,Comedy,politics,Comedy politics
+266,1177,Enchanted April (1992),474,5.0,1,4.108016474677269,Drama|Romance,Italy,Drama Romance Italy
+267,1178,Paths of Glory (1957),474,3.5,2,3.6261088983300604,Drama|War,court,Drama War court
+268,1179,"Grifters, The (1990)",474,3.5,1,3.6634820617218034,Crime|Drama|Film-Noir,crime,Crime Drama Film-Noir crime
+269,1183,"English Patient, The (1996)",474,2.0,1,3.2189476487663375,Drama|Romance|War,adultery,Drama Romance War adultery
+270,1185,My Left Foot (1989),474,4.0,1,3.811660199373625,Drama,In Netflix queue,Drama In Netflix queue
+271,1187,Passion Fish (1992),474,4.0,1,3.811660199373625,Drama,disability,Drama disability
+272,1188,Strictly Ballroom (1992),474,5.0,2,4.31193025997903,Comedy|Romance,Australia,Comedy Romance Australia
+273,1189,"Thin Blue Line, The (1988)",474,4.0,2,3.854716018879717,Documentary,In Netflix queue,Documentary In Netflix queue
+274,1193,One Flew Over the Cuckoo's Nest (1975),424,3.8333333333333335,3,3.7887139533433793,Drama,emotional,Drama emotional
+275,1196,Star Wars: Episode V - The Empire Strikes Back (1980),474,5.0,10,4.756767574790556,Action|Adventure|Sci-Fi,I am your father,Action Adventure Sci-Fi I am your father
+276,1197,"Princess Bride, The (1987)",474,4.5,2,4.083323139429374,Action|Adventure|Comedy|Fantasy|Romance,Inigo Montoya,Action Adventure Comedy Fantasy Romance Inigo Montoya
+277,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),474,4.0,3,3.8817490321435826,Action|Adventure,archaeology,Action Adventure archaeology
+278,1200,Aliens (1986),474,3.5,1,3.6634820617218034,Action|Adventure|Horror|Sci-Fi,space,Action Adventure Horror Sci-Fi space
+279,1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",474,3.5,1,3.6634820617218034,Action|Adventure|Western,spaghetti western,Action Adventure Western spaghetti western
+280,1203,12 Angry Men (1957),474,4.444444444444445,9,4.295796383912185,Drama,court,Drama court
+281,1204,Lawrence of Arabia (1962),474,4.0,1,3.811660199373625,Adventure|Drama|War,Middle East,Adventure Drama War Middle East
+282,1206,"Clockwork Orange, A (1971)",474,3.5,1,3.6634820617218034,Crime|Drama|Sci-Fi|Thriller,brainwashing,Crime Drama Sci-Fi Thriller brainwashing
+283,1207,To Kill a Mockingbird (1962),474,4.0,2,3.854716018879717,Drama,Harper Lee,Drama Harper Lee
+284,1208,Apocalypse Now (1979),474,3.5,1,3.6634820617218034,Action|Drama|War,Vietnam,Action Drama War Vietnam
+285,1209,Once Upon a Time in the West (C'era una volta il West) (1968),474,3.5,1,3.6634820617218034,Action|Drama|Western,spaghetti western,Action Drama Western spaghetti western
+286,1210,Star Wars: Episode VI - Return of the Jedi (1983),474,4.0,3,3.8817490321435826,Action|Adventure|Sci-Fi,darth vader,Action Adventure Sci-Fi darth vader
+287,1212,"Third Man, The (1949)",474,4.0,3,3.8817490321435826,Film-Noir|Mystery|Thriller,ferris wheel,Film-Noir Mystery Thriller ferris wheel
+288,1213,Goodfellas (1990),474,3.5,1,3.6634820617218034,Crime|Drama,Mafia,Crime Drama Mafia
+289,1214,Alien (1979),474,4.0,1,3.811660199373625,Horror|Sci-Fi,aliens,Horror Sci-Fi aliens
+290,1217,Ran (1985),474,4.0,1,3.811660199373625,Drama|War,samurai,Drama War samurai
+291,1219,Psycho (1960),424,4.055555555555555,9,3.9880855984209522,Crime|Horror,Alfred Hitchcock,Crime Horror Alfred Hitchcock
+292,1220,"Blues Brothers, The (1980)",474,3.0,1,3.5153039240699813,Action|Comedy|Musical,Saturday Night Live,Action Comedy Musical Saturday Night Live
+293,1221,"Godfather: Part II, The (1974)",18,5.0,3,4.439959504944802,Crime|Drama,Al Pacino,Crime Drama Al Pacino
+294,1222,Full Metal Jacket (1987),474,4.5,2,4.083323139429374,Drama|War,Vietnam,Drama War Vietnam
+295,1223,"Grand Day Out with Wallace and Gromit, A (1989)",474,4.5,1,3.959838337025447,Adventure|Animation|Children|Comedy|Sci-Fi,moon,Adventure Animation Children Comedy Sci-Fi moon
+296,1224,Henry V (1989),474,4.0,1,3.811660199373625,Action|Drama|Romance|War,Shakespeare,Action Drama Romance War Shakespeare
+297,1225,Amadeus (1984),474,4.5,2,4.083323139429374,Drama,Mozart,Drama Mozart
+298,1228,Raging Bull (1980),474,3.0,1,3.5153039240699813,Drama,boxing,Drama boxing
+299,1230,Annie Hall (1977),474,4.0,1,3.811660199373625,Comedy|Romance,New York,Comedy Romance New York
+300,1231,"Right Stuff, The (1983)",474,4.0,2,3.854716018879717,Drama,NASA,Drama NASA
+301,1233,"Boot, Das (Boat, The) (1981)",474,3.5,1,3.6634820617218034,Action|Drama|War,submarine,Action Drama War submarine
+302,1234,"Sting, The (1973)",474,4.0,1,3.811660199373625,Comedy|Crime,The Entertainer,Comedy Crime The Entertainer
+303,1235,Harold and Maude (1971),474,4.0,1,3.811660199373625,Comedy|Drama|Romance,May-December romance,Comedy Drama Romance May-December romance
+304,1237,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",474,3.2142857142857144,7,3.345497040578964,Drama,chess,Drama chess
+305,1240,"Terminator, The (1984)",474,4.0,1,3.811660199373625,Action|Sci-Fi|Thriller,robots,Action Sci-Fi Thriller robots
+306,1242,Glory (1989),474,4.5,1,3.959838337025447,Drama|War,Civil War,Drama War Civil War
+307,1243,Rosencrantz and Guildenstern Are Dead (1990),474,4.0,1,3.811660199373625,Comedy|Drama,Shakespeare sort of,Comedy Drama Shakespeare sort of
+308,1244,Manhattan (1979),474,3.5,1,3.6634820617218034,Comedy|Drama|Romance,black and white,Comedy Drama Romance black and white
+309,1245,Miller's Crossing (1990),474,3.0,1,3.5153039240699813,Crime|Drama|Film-Noir|Thriller,Mafia,Crime Drama Film-Noir Thriller Mafia
+310,1246,Dead Poets Society (1989),336,4.5,2,4.083323139429374,Drama,highschool,Drama highschool
+311,1247,"Graduate, The (1967)",474,5.0,1,4.108016474677269,Comedy|Drama|Romance,Simon and Garfunkel,Comedy Drama Romance Simon and Garfunkel
+312,1249,"Femme Nikita, La (Nikita) (1990)",474,3.5,1,3.6634820617218034,Action|Crime|Romance|Thriller,hit men,Action Crime Romance Thriller hit men
+313,1250,"Bridge on the River Kwai, The (1957)",474,4.0,1,3.811660199373625,Adventure|Drama|War,POW,Adventure Drama War POW
+314,1252,Chinatown (1974),474,4.0,1,3.811660199373625,Crime|Film-Noir|Mystery|Thriller,incest,Crime Film-Noir Mystery Thriller incest
+315,1253,"Day the Earth Stood Still, The (1951)",474,4.0,1,3.811660199373625,Drama|Sci-Fi|Thriller,aliens,Drama Sci-Fi Thriller aliens
+316,1254,"Treasure of the Sierra Madre, The (1948)",474,4.5,1,3.959838337025447,Action|Adventure|Drama|Western,Cold,Action Adventure Drama Western Cold
+317,1257,Better Off Dead... (1985),474,3.0,1,3.5153039240699813,Comedy|Romance,skiing,Comedy Romance skiing
+318,1258,"Shining, The (1980)",424,4.444444444444445,9,4.295796383912185,Horror,atmospheric,Horror atmospheric
+319,1259,Stand by Me (1986),474,4.0,1,3.811660199373625,Adventure|Drama,Stephen King,Adventure Drama Stephen King
+320,1260,M (1931),474,4.0,7,3.9322064547439304,Crime|Film-Noir|Thriller,serial killer,Crime Film-Noir Thriller serial killer
+321,1262,"Great Escape, The (1963)",474,4.0,1,3.811660199373625,Action|Adventure|Drama|War,POW,Action Adventure Drama War POW
+322,1263,"Deer Hunter, The (1978)",474,3.0,1,3.5153039240699813,Drama|War,Vietnam,Drama War Vietnam
+323,1266,Unforgiven (1992),474,4.0,1,3.811660199373625,Drama|Western,revenge,Drama Western revenge
+324,1267,"Manchurian Candidate, The (1962)",474,4.0,2,3.854716018879717,Crime|Thriller|War,assassination,Crime Thriller War assassination
+325,1269,Arsenic and Old Lace (1944),474,3.5,1,3.6634820617218034,Comedy|Mystery|Thriller,murder,Comedy Mystery Thriller murder
+326,1270,Back to the Future (1985),474,4.5,1,3.959838337025447,Adventure|Comedy|Sci-Fi,time travel,Adventure Comedy Sci-Fi time travel
+327,1272,Patton (1970),474,4.0,1,3.811660199373625,Drama|War,World War II,Drama War World War II
+328,1274,Akira (1988),477,5.0,3,4.439959504944802,Action|Adventure|Animation|Sci-Fi,animation,Action Adventure Animation Sci-Fi animation
+329,1276,Cool Hand Luke (1967),474,3.5,1,3.6634820617218034,Drama,prison,Drama prison
+330,1278,Young Frankenstein (1974),474,4.0,1,3.811660199373625,Comedy|Fantasy,spoof,Comedy Fantasy spoof
+331,1281,"Great Dictator, The (1940)",474,4.0,1,3.811660199373625,Comedy|Drama|War,Nazis,Comedy Drama War Nazis
+332,1282,Fantasia (1940),474,3.0,1,3.5153039240699813,Animation|Children|Fantasy|Musical,Disney,Animation Children Fantasy Musical Disney
+333,1283,High Noon (1952),474,3.5,1,3.6634820617218034,Drama|Western,gunfight,Drama Western gunfight
+334,1284,"Big Sleep, The (1946)",474,3.5,1,3.6634820617218034,Crime|Film-Noir|Mystery,Hammett,Crime Film-Noir Mystery Hammett
+335,1285,Heathers (1989),474,4.0,1,3.811660199373625,Comedy,high school,Comedy high school
+336,1288,This Is Spinal Tap (1984),327,4.0,4,3.9003001912672213,Comedy,music,Comedy music
+337,1291,Indiana Jones and the Last Crusade (1989),474,4.0,2,3.854716018879717,Action|Adventure,archaeology,Action Adventure archaeology
+338,1292,Being There (1979),474,4.0,1,3.811660199373625,Comedy|Drama,television,Comedy Drama television
+339,1293,Gandhi (1982),474,4.0,1,3.811660199373625,Drama,India,Drama India
+340,1296,"Room with a View, A (1986)",474,4.0,1,3.811660199373625,Drama|Romance,E. M. Forster,Drama Romance E. M. Forster
+341,1299,"Killing Fields, The (1984)",474,3.5,2,3.6261088983300604,Drama|War,Cambodia,Drama War Cambodia
+342,1301,Forbidden Planet (1956),474,3.5,2,3.6261088983300604,Drama|Sci-Fi,Shakespeare sort of,Drama Sci-Fi Shakespeare sort of
+343,1302,Field of Dreams (1989),474,3.5,1,3.6634820617218034,Children|Drama|Fantasy,baseball,Children Drama Fantasy baseball
+344,1303,"Man Who Would Be King, The (1975)",474,4.0,1,3.811660199373625,Adventure|Drama,India,Adventure Drama India
+345,1304,Butch Cassidy and the Sundance Kid (1969),474,3.5,1,3.6634820617218034,Action|Western,crime,Action Western crime
+346,1307,When Harry Met Sally... (1989),474,5.0,1,4.108016474677269,Comedy|Romance,New York,Comedy Romance New York
+347,1333,"Birds, The (1963)",474,4.5,1,3.959838337025447,Horror|Thriller,birds,Horror Thriller birds
+348,1343,Cape Fear (1991),424,4.5,5,4.252834511384375,Thriller,horror,Thriller horror
+349,1344,Cape Fear (1962),474,4.5,1,3.959838337025447,Crime|Drama|Thriller,lawyer,Crime Drama Thriller lawyer
+350,1345,Carrie (1976),474,3.5,3,3.6026437957429724,Drama|Fantasy|Horror|Thriller,high school,Drama Fantasy Horror Thriller high school
+351,1348,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",474,2.5,1,3.3671257864181596,Horror,vampires,Horror vampires
+352,1350,"Omen, The (1976)",474,4.0,1,3.811660199373625,Horror|Mystery|Thriller,demons,Horror Mystery Thriller demons
+353,1353,"Mirror Has Two Faces, The (1996)",474,4.5,1,3.959838337025447,Comedy|Drama|Romance,personals ads,Comedy Drama Romance personals ads
+354,1354,Breaking the Waves (1996),474,4.5,1,3.959838337025447,Drama|Mystery,religion,Drama Mystery religion
+355,1356,Star Trek: First Contact (1996),474,5.0,1,4.108016474677269,Action|Adventure|Sci-Fi|Thriller,Borg,Action Adventure Sci-Fi Thriller Borg
+356,1357,Shine (1996),606,4.0,1,3.811660199373625,Drama|Romance,music,Drama Romance music
+357,1358,Sling Blade (1996),474,4.5,1,3.959838337025447,Drama,ex-con,Drama ex-con
+358,1363,"Preacher's Wife, The (1996)",474,2.5,1,3.3671257864181596,Drama,religion,Drama religion
+359,1366,"Crucible, The (1996)",474,4.0,1,3.811660199373625,Drama,Arthur Miller,Drama Arthur Miller
+360,1367,101 Dalmatians (1996),474,2.0,2,2.940287536681091,Adventure|Children|Comedy,dogs,Adventure Children Comedy dogs
+361,1372,Star Trek VI: The Undiscovered Country (1991),474,4.5,1,3.959838337025447,Action|Mystery|Sci-Fi,Klingons,Action Mystery Sci-Fi Klingons
+362,1374,Star Trek II: The Wrath of Khan (1982),474,4.0,1,3.811660199373625,Action|Adventure|Sci-Fi|Thriller,Captain Kirk,Action Adventure Sci-Fi Thriller Captain Kirk
+363,1376,Star Trek IV: The Voyage Home (1986),474,4.0,1,3.811660199373625,Adventure|Comedy|Sci-Fi,whales,Adventure Comedy Sci-Fi whales
+364,1377,Batman Returns (1992),474,2.0,1,3.2189476487663375,Action|Crime,superhero,Action Crime superhero
+365,1380,Grease (1978),474,4.0,1,3.811660199373625,Comedy|Musical|Romance,high school,Comedy Musical Romance high school
+366,1381,Grease 2 (1982),474,2.0,1,3.2189476487663375,Comedy|Musical|Romance,high school,Comedy Musical Romance high school
+367,1387,Jaws (1975),474,4.5,1,3.959838337025447,Action|Horror,Shark,Action Horror Shark
+368,1389,Jaws 3-D (1983),474,1.5,1,3.070769511114516,Action|Horror,shark,Action Horror shark
+369,1393,Jerry Maguire (1996),474,4.5,1,3.959838337025447,Drama|Romance,sports,Drama Romance sports
+370,1394,Raising Arizona (1987),474,4.5,1,3.959838337025447,Comedy,Coen Brothers,Comedy Coen Brothers
+371,1396,Sneakers (1992),474,4.0,1,3.811660199373625,Action|Comedy|Crime|Drama|Sci-Fi,spying,Action Comedy Crime Drama Sci-Fi spying
+372,1398,In Love and War (1996),474,2.5,1,3.3671257864181596,Romance|War,Hemingway,Romance War Hemingway
+373,1407,Scream (1996),474,4.0,2,3.854716018879717,Comedy|Horror|Mystery|Thriller,slasher,Comedy Horror Mystery Thriller slasher
+374,1408,"Last of the Mohicans, The (1992)",474,4.0,2,3.854716018879717,Action|Romance|War|Western,Hawkeye,Action Romance War Western Hawkeye
+375,1411,Hamlet (1996),474,4.0,1,3.811660199373625,Crime|Drama|Romance,Shakespeare,Crime Drama Romance Shakespeare
+376,1413,"Whole Wide World, The (1996)",474,4.5,1,3.959838337025447,Drama,Conan,Drama Conan
+377,1416,Evita (1996),474,2.0,1,3.2189476487663375,Drama|Musical,Andrew Lloyd Weber,Drama Musical Andrew Lloyd Weber
+378,1423,Hearts and Minds (1996),474,4.0,2,3.854716018879717,Drama,In Netflix queue,Drama In Netflix queue
+379,1441,Benny & Joon (1993),474,3.0,1,3.5153039240699813,Comedy|Romance,mental illness,Comedy Romance mental illness
+380,1449,Waiting for Guffman (1996),474,4.0,1,3.811660199373625,Comedy,mockumentary,Comedy mockumentary
+381,1466,Donnie Brasco (1997),474,4.0,1,3.811660199373625,Crime|Drama,Mafia,Crime Drama Mafia
+382,1474,Jungle2Jungle (a.k.a. Jungle 2 Jungle) (1997),474,2.0,1,3.2189476487663375,Children|Comedy,jungle,Children Comedy jungle
+383,1485,Liar Liar (1997),474,3.0,1,3.5153039240699813,Comedy,lawyer,Comedy lawyer
+384,1496,Anna Karenina (1997),474,4.0,1,3.811660199373625,Drama|Romance,Tolstoy,Drama Romance Tolstoy
+385,1500,Grosse Pointe Blank (1997),474,4.0,2,3.854716018879717,Comedy|Crime|Romance,hit men,Comedy Crime Romance hit men
+386,1513,Romy and Michele's High School Reunion (1997),474,3.0,1,3.5153039240699813,Comedy,reunion,Comedy reunion
+387,1537,Shall We Dance? (Shall We Dansu?) (1996),474,4.0,1,3.811660199373625,Comedy|Drama|Romance,ballroom dance,Comedy Drama Romance ballroom dance
+388,1544,"Lost World: Jurassic Park, The (1997)",474,1.0,1,2.922591373462694,Action|Adventure|Sci-Fi|Thriller,dinosaurs,Action Adventure Sci-Fi Thriller dinosaurs
+389,1545,Ponette (1996),474,4.0,1,3.811660199373625,Drama,death,Drama death
+390,1569,My Best Friend's Wedding (1997),474,4.0,1,3.811660199373625,Comedy|Romance,weddings,Comedy Romance weddings
+391,1573,Face/Off (1997),474,4.5,1,3.959838337025447,Action|Crime|Drama|Thriller,transplants,Action Crime Drama Thriller transplants
+392,1580,Men in Black (a.k.a. MIB) (1997),474,4.5,1,3.959838337025447,Action|Comedy|Sci-Fi,aliens,Action Comedy Sci-Fi aliens
+393,1586,G.I. Jane (1997),474,2.0,1,3.2189476487663375,Action|Drama,military,Action Drama military
+394,1608,Air Force One (1997),474,3.0,1,3.5153039240699813,Action|Thriller,president,Action Thriller president
+395,1610,"Hunt for Red October, The (1990)",474,4.0,1,3.811660199373625,Action|Adventure|Thriller,Tom Clancy,Action Adventure Thriller Tom Clancy
+396,1617,L.A. Confidential (1997),474,5.0,1,4.108016474677269,Crime|Film-Noir|Mystery|Thriller,Police,Crime Film-Noir Mystery Thriller Police
+397,1625,"Game, The (1997)",424,4.428571428571429,7,4.2522297715611845,Drama|Mystery|Thriller,mindfuck,Drama Mystery Thriller mindfuck
+398,1635,"Ice Storm, The (1997)",474,4.0,1,3.811660199373625,Drama,1970s,Drama 1970s
+399,1643,"Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown) (1997)",474,3.0,2,3.397501777780404,Drama|Romance,England,Drama Romance England
+400,1645,The Devil's Advocate (1997),474,2.0,1,3.2189476487663375,Drama|Mystery|Thriller,lawyers,Drama Mystery Thriller lawyers
+401,1650,Washington Square (1997),474,4.0,1,3.811660199373625,Drama,Henry James,Drama Henry James
+402,1653,Gattaca (1997),474,3.5,3,3.6026437957429724,Drama|Sci-Fi|Thriller,future,Drama Sci-Fi Thriller future
+403,1663,Stripes (1981),474,3.0,1,3.5153039240699813,Comedy|War,military,Comedy War military
+404,1674,Witness (1985),474,4.0,1,3.811660199373625,Drama|Romance|Thriller,Amish,Drama Romance Thriller Amish
+405,1680,Sliding Doors (1998),474,4.0,1,3.811660199373625,Drama|Romance,alternate universe,Drama Romance alternate universe
+406,1682,"Truman Show, The (1998)",474,4.5,1,3.959838337025447,Comedy|Drama|Sci-Fi,TV,Comedy Drama Sci-Fi TV
+407,1683,"Wings of the Dove, The (1997)",474,4.5,1,3.959838337025447,Drama|Romance,Henry James,Drama Romance Henry James
+408,1704,Good Will Hunting (1997),424,3.3333333333333335,3,3.509608716942769,Drama|Romance,inspirational,Drama Romance inspirational
+409,1711,Midnight in the Garden of Good and Evil (1997),474,2.0,1,3.2189476487663375,Crime|Drama|Mystery,Savannah,Crime Drama Mystery Savannah
+410,1717,Scream 2 (1997),474,4.0,3,3.8817490321435826,Comedy|Horror|Mystery|Thriller,sequel,Comedy Horror Mystery Thriller sequel
+411,1719,"Sweet Hereafter, The (1997)",474,4.0,2,3.854716018879717,Drama,Canada,Drama Canada
+412,1721,Titanic (1997),474,3.5,2,3.6261088983300604,Drama|Romance,shipwreck,Drama Romance shipwreck
+413,1726,"Postman, The (1997)",125,4.5,2,4.083323139429374,Action|Adventure|Drama|Sci-Fi,Kevin Costner,Action Adventure Drama Sci-Fi Kevin Costner
+414,1732,"Big Lebowski, The (1998)",474,4.953125,32,4.868802189510089,Comedy|Crime,Coen Brothers,Comedy Crime Coen Brothers
+415,1735,Great Expectations (1998),474,2.0,1,3.2189476487663375,Drama|Romance,Charles Dickens,Drama Romance Charles Dickens
+416,1748,Dark City (1998),474,4.0,1,3.811660199373625,Adventure|Film-Noir|Sci-Fi|Thriller,amnesia,Adventure Film-Noir Sci-Fi Thriller amnesia
+417,1777,"Wedding Singer, The (1998)",474,4.5,1,3.959838337025447,Comedy|Romance,1980s,Comedy Romance 1980s
+418,1797,Everest (1998),474,4.0,1,3.811660199373625,Documentary|IMAX,In Netflix queue,Documentary IMAX In Netflix queue
+419,1801,"Man in the Iron Mask, The (1998)",573,4.0,1,3.811660199373625,Action|Adventure|Drama,seen more than once,Action Adventure Drama seen more than once
+420,1810,Primary Colors (1998),474,2.5,1,3.3671257864181596,Comedy|Drama,politics,Comedy Drama politics
+421,1834,"Spanish Prisoner, The (1997)",474,4.0,1,3.811660199373625,Crime|Drama|Mystery|Thriller,twist ending,Crime Drama Mystery Thriller twist ending
+422,1893,Beyond Silence (Jenseits der Stille) (1996),474,4.5,1,3.959838337025447,Drama,In Netflix queue,Drama In Netflix queue
+423,1902,Dream for an Insomniac (1996),474,4.0,1,3.811660199373625,Drama|Romance,generation X,Drama Romance generation X
+424,1909,"X-Files: Fight the Future, The (1998)",474,4.5,1,3.959838337025447,Action|Crime|Mystery|Sci-Fi|Thriller,conspiracy,Action Crime Mystery Sci-Fi Thriller conspiracy
+425,1912,Out of Sight (1998),474,4.0,1,3.811660199373625,Comedy|Crime|Drama|Romance|Thriller,heist,Comedy Crime Drama Romance Thriller heist
+426,1913,Picnic at Hanging Rock (1975),474,4.0,1,3.811660199373625,Drama|Mystery,Australia,Drama Mystery Australia
+427,1916,Buffalo '66 (a.k.a. Buffalo 66) (1998),567,5.0,5,4.591848961180595,Drama|Romance,avant-garde romantic comedy,Drama Romance avant-garde romantic comedy
+428,1917,Armageddon (1998),474,1.5,1,3.070769511114516,Action|Romance|Sci-Fi|Thriller,space,Action Romance Sci-Fi Thriller space
+429,1921,Pi (1998),424,3.176470588235294,17,3.244591784829562,Drama|Sci-Fi|Thriller,hallucinatory,Drama Sci-Fi Thriller hallucinatory
+430,1923,There's Something About Mary (1998),327,3.875,4,3.8218604141562054,Comedy|Romance,Ben Stiller,Comedy Romance Ben Stiller
+431,1931,Mutiny on the Bounty (1935),474,4.0,1,3.811660199373625,Adventure|Drama,ships,Adventure Drama ships
+432,1938,"Lost Weekend, The (1945)",474,4.0,1,3.811660199373625,Drama,alcoholism,Drama alcoholism
+433,1940,Gentleman's Agreement (1947),474,4.0,2,3.854716018879717,Drama,anti-Semitism,Drama anti-Semitism
+434,1942,All the King's Men (1949),474,3.5,3,3.6026437957429724,Drama,Huey Long,Drama Huey Long
+435,1945,On the Waterfront (1954),474,4.0,2,3.854716018879717,Crime|Drama,boxing,Crime Drama boxing
+436,1947,West Side Story (1961),474,5.0,1,4.108016474677269,Drama|Musical|Romance,Gangs,Drama Musical Romance Gangs
+437,1948,Tom Jones (1963),606,3.5,1,3.6634820617218034,Adventure|Comedy|Romance,British,Adventure Comedy Romance British
+438,1950,In the Heat of the Night (1967),474,3.5,1,3.6634820617218034,Drama|Mystery,racism,Drama Mystery racism
+439,1951,Oliver! (1968),474,4.0,1,3.811660199373625,Drama|Musical,Dickens,Drama Musical Dickens
+440,1952,Midnight Cowboy (1969),474,4.0,1,3.811660199373625,Drama,prostitution,Drama prostitution
+441,1953,"French Connection, The (1971)",474,4.0,2,3.854716018879717,Action|Crime|Thriller,drugs,Action Crime Thriller drugs
+442,1954,Rocky (1976),474,4.0,2,3.854716018879717,Drama,boxing,Drama boxing
+443,1955,Kramer vs. Kramer (1979),474,4.5,1,3.959838337025447,Drama,divorce,Drama divorce
+444,1957,Chariots of Fire (1981),474,5.0,2,4.31193025997903,Drama,Olympics,Drama Olympics
+445,1959,Out of Africa (1985),474,4.0,2,3.854716018879717,Drama|Romance,adultery,Drama Romance adultery
+446,1960,"Last Emperor, The (1987)",474,4.0,1,3.811660199373625,Drama,China,Drama China
+447,1961,Rain Man (1988),474,4.0,1,3.811660199373625,Drama,autism,Drama autism
+448,1962,Driving Miss Daisy (1989),474,4.0,1,3.811660199373625,Drama,rasicm,Drama rasicm
+449,1975,Friday the 13th Part 2 (1981),474,2.0,1,3.2189476487663375,Horror,Jason,Horror Jason
+450,1976,Friday the 13th Part 3: 3D (1982),474,0.5,1,2.774413235810872,Horror,Jason,Horror Jason
+451,1977,Friday the 13th Part IV: The Final Chapter (1984),474,1.5,1,3.070769511114516,Horror,Jason,Horror Jason
+452,1983,Halloween II (1981),474,2.0,1,3.2189476487663375,Horror,halloween,Horror halloween
+453,1984,Halloween III: Season of the Witch (1982),474,2.0,1,3.2189476487663375,Horror,halloween,Horror halloween
+454,1994,Poltergeist (1982),474,4.0,1,3.811660199373625,Horror|Thriller,ghosts,Horror Thriller ghosts
+455,1995,Poltergeist II: The Other Side (1986),474,2.0,1,3.2189476487663375,Horror|Thriller,ghosts,Horror Thriller ghosts
+456,1996,Poltergeist III (1988),474,1.0,1,2.922591373462694,Horror|Thriller,ghosts,Horror Thriller ghosts
+457,1997,"Exorcist, The (1973)",474,4.0,1,3.811660199373625,Horror|Mystery,demons,Horror Mystery demons
+458,2006,"Mask of Zorro, The (1998)",474,4.0,2,3.854716018879717,Action|Comedy|Romance,California,Action Comedy Romance California
+459,2011,Back to the Future Part II (1989),474,2.0,1,3.2189476487663375,Adventure|Comedy|Sci-Fi,time travel,Adventure Comedy Sci-Fi time travel
+460,2019,Seven Samurai (Shichinin no samurai) (1954),474,4.0,1,3.811660199373625,Action|Adventure|Drama,samurai,Action Adventure Drama samurai
+461,2020,Dangerous Liaisons (1988),474,4.0,1,3.811660199373625,Drama|Romance,adultery,Drama Romance adultery
+462,2022,"Last Temptation of Christ, The (1988)",474,4.0,2,3.854716018879717,Drama,Bible,Drama Bible
+463,2023,"Godfather: Part III, The (1990)",62,5.0,5,4.591848961180595,Crime|Drama|Mystery|Thriller,Al Pacino,Crime Drama Mystery Thriller Al Pacino
+464,2028,Saving Private Ryan (1998),474,3.0,1,3.5153039240699813,Action|Drama|War,World War II,Action Drama War World War II
+465,2054,"Honey, I Shrunk the Kids (1989)",474,4.0,1,3.811660199373625,Adventure|Children|Comedy|Fantasy|Sci-Fi,Disney,Adventure Children Comedy Fantasy Sci-Fi Disney
+466,2058,"Negotiator, The (1998)",474,4.0,1,3.811660199373625,Action|Crime|Drama|Mystery|Thriller,police,Action Crime Drama Mystery Thriller police
+467,2059,"Parent Trap, The (1998)",474,2.0,1,3.2189476487663375,Children|Comedy|Romance,twins,Children Comedy Romance twins
+468,2064,Roger & Me (1989),474,4.0,2,3.854716018879717,Documentary,General Motors,Documentary General Motors
+469,2066,Out of the Past (1947),474,4.0,1,3.811660199373625,Film-Noir,memory,Film-Noir memory
+470,2070,Tender Mercies (1983),474,4.0,1,3.811660199373625,Drama|Romance|Western,music,Drama Romance Western music
+471,2076,Blue Velvet (1986),474,4.0,2,3.854716018879717,Drama|Mystery|Thriller,sexuality,Drama Mystery Thriller sexuality
+472,2078,"Jungle Book, The (1967)",474,4.0,1,3.811660199373625,Animation|Children|Comedy|Musical,Disney,Animation Children Comedy Musical Disney
+473,2080,Lady and the Tramp (1955),474,4.0,1,3.811660199373625,Animation|Children|Comedy|Romance,Disney,Animation Children Comedy Romance Disney
+474,2085,101 Dalmatians (One Hundred and One Dalmatians) (1961),474,4.0,1,3.811660199373625,Adventure|Animation|Children,Disney,Adventure Animation Children Disney
+475,2097,Something Wicked This Way Comes (1983),474,3.5,2,3.6261088983300604,Children|Drama|Fantasy|Mystery|Thriller,carnival,Children Drama Fantasy Mystery Thriller carnival
+476,2100,Splash (1984),474,4.0,1,3.811660199373625,Comedy|Fantasy|Romance,mermaid,Comedy Fantasy Romance mermaid
+477,2108,L.A. Story (1991),474,4.0,1,3.811660199373625,Comedy|Romance,weather forecaster,Comedy Romance weather forecaster
+478,2114,"Outsiders, The (1983)",474,4.0,1,3.811660199373625,Drama,S.E. Hinton,Drama S.E. Hinton
+479,2115,Indiana Jones and the Temple of Doom (1984),474,2.0,1,3.2189476487663375,Action|Adventure|Fantasy,archaeology,Action Adventure Fantasy archaeology
+480,2116,"Lord of the Rings, The (1978)",474,2.0,1,3.2189476487663375,Adventure|Animation|Children|Fantasy,Tolkein,Adventure Animation Children Fantasy Tolkein
+481,2118,"Dead Zone, The (1983)",474,4.0,1,3.811660199373625,Thriller,Stephen King,Thriller Stephen King
+482,2121,Cujo (1983),474,2.0,1,3.2189476487663375,Horror|Thriller,Stephen King,Horror Thriller Stephen King
+483,2122,Children of the Corn (1984),474,1.0,1,2.922591373462694,Horror|Thriller,Stephen King,Horror Thriller Stephen King
+484,2124,"Addams Family, The (1991)",62,5.0,6,4.640587388654625,Children|Comedy|Fantasy,black comedy,Children Comedy Fantasy black comedy
+485,2138,Watership Down (1978),567,4.5,2,4.083323139429374,Adventure|Animation|Children|Drama|Fantasy,atmospheric,Adventure Animation Children Drama Fantasy atmospheric
+486,2139,"Secret of NIMH, The (1982)",474,4.0,1,3.811660199373625,Adventure|Animation|Children|Drama,mice,Adventure Animation Children Drama mice
+487,2145,Pretty in Pink (1986),474,4.0,2,3.854716018879717,Comedy|Drama|Romance,1980s,Comedy Drama Romance 1980s
+488,2146,St. Elmo's Fire (1985),356,4.5,1,3.959838337025447,Drama|Romance,post-college,Drama Romance post-college
+489,2160,Rosemary's Baby (1968),424,4.416666666666667,6,4.222642853581215,Drama|Horror|Thriller,Atmospheric,Drama Horror Thriller Atmospheric
+490,2167,Blade (1998),474,2.0,1,3.2189476487663375,Action|Horror|Thriller,vampires,Action Horror Thriller vampires
+491,2171,Next Stop Wonderland (1998),474,5.0,3,4.439959504944802,Comedy|Drama|Romance,aquarium,Comedy Drama Romance aquarium
+492,2186,Strangers on a Train (1951),474,4.5,1,3.959838337025447,Crime|Drama|Film-Noir|Thriller,murder,Crime Drama Film-Noir Thriller murder
+493,2187,Stage Fright (1950),474,3.5,1,3.6634820617218034,Mystery|Romance|Thriller,theater,Mystery Romance Thriller theater
+494,2194,"Untouchables, The (1987)",474,4.0,2,3.854716018879717,Action|Crime|Drama,Capone,Action Crime Drama Capone
+495,2202,Lifeboat (1944),474,4.5,1,3.959838337025447,Drama|War,survival,Drama War survival
+496,2203,Shadow of a Doubt (1943),474,4.0,1,3.811660199373625,Crime|Drama|Thriller,small towns,Crime Drama Thriller small towns
+497,2206,Suspicion (1941),474,4.5,1,3.959838337025447,Film-Noir|Mystery|Thriller,paranoia,Film-Noir Mystery Thriller paranoia
+498,2208,"Lady Vanishes, The (1938)",474,4.0,1,3.811660199373625,Drama|Mystery|Thriller,train,Drama Mystery Thriller train
+499,2243,Broadcast News (1987),474,4.5,1,3.959838337025447,Comedy|Drama|Romance,journalism,Comedy Drama Romance journalism
+500,2247,Married to the Mob (1988),474,2.0,1,3.2189476487663375,Comedy,Mafia,Comedy Mafia
+501,2248,Say Anything... (1989),474,5.0,2,4.31193025997903,Comedy|Drama|Romance,In Your Eyes,Comedy Drama Romance In Your Eyes
+502,2249,My Blue Heaven (1990),474,2.0,1,3.2189476487663375,Comedy,Mafia,Comedy Mafia
+503,2268,"Few Good Men, A (1992)",474,4.0,2,3.854716018879717,Crime|Drama|Thriller,court,Crime Drama Thriller court
+504,2291,Edward Scissorhands (1990),474,4.5,1,3.959838337025447,Drama|Fantasy|Romance,freaks,Drama Fantasy Romance freaks
+505,2295,"Impostors, The (1998)",474,5.0,1,4.108016474677269,Comedy,Screwball,Comedy Screwball
+506,2296,"Night at the Roxbury, A (1998)",424,3.0,1,3.5153039240699813,Comedy,SNL,Comedy SNL
+507,2300,"Producers, The (1968)",474,4.5,1,3.959838337025447,Comedy,Broadway,Comedy Broadway
+508,2302,My Cousin Vinny (1992),474,2.0,1,3.2189476487663375,Comedy,court,Comedy court
+509,2310,"Mighty, The (1998)",474,4.0,1,3.811660199373625,Drama,adolescence,Drama adolescence
+510,2312,Children of a Lesser God (1986),474,2.5,1,3.3671257864181596,Drama,death penalty,Drama death penalty
+511,2313,"Elephant Man, The (1980)",474,4.5,1,3.959838337025447,Drama,freaks,Drama freaks
+512,2324,Life Is Beautiful (La Vita è bella) (1997),474,3.6875,8,3.6977614817557085,Comedy|Drama|Romance|War,Holocaust,Comedy Drama Romance War Holocaust
+513,2329,American History X (1998),424,4.3,5,4.117228731465886,Crime|Drama,thought-provoking,Crime Drama thought-provoking
+514,2334,"Siege, The (1998)",474,4.0,1,3.811660199373625,Action|Thriller,terrorism,Action Thriller terrorism
+515,2335,"Waterboy, The (1998)",474,2.0,1,3.2189476487663375,Comedy,football,Comedy football
+516,2336,Elizabeth (1998),474,4.0,1,3.811660199373625,Drama,England,Drama England
+517,2355,"Bug's Life, A (1998)",474,4.0,1,3.811660199373625,Adventure|Animation|Children|Comedy,Pixar,Adventure Animation Children Comedy Pixar
+518,2357,Central Station (Central do Brasil) (1998),474,4.5,1,3.959838337025447,Drama,South America,Drama South America
+519,2387,Very Bad Things (1998),125,4.5,2,4.083323139429374,Comedy|Crime,dark comedy,Comedy Crime dark comedy
+520,2390,Little Voice (1998),474,3.5,1,3.6634820617218034,Comedy,In Netflix queue,Comedy In Netflix queue
+521,2391,"Simple Plan, A (1998)",474,4.0,1,3.811660199373625,Crime|Drama|Thriller,heist,Crime Drama Thriller heist
+522,2393,Star Trek: Insurrection (1998),477,3.5,3,3.6026437957429724,Action|Drama|Romance|Sci-Fi,cameo:Whoopi Goldberg,Action Drama Romance Sci-Fi cameo:Whoopi Goldberg
+523,2394,"Prince of Egypt, The (1998)",474,5.0,2,4.31193025997903,Animation|Musical,Bible,Animation Musical Bible
+524,2396,Shakespeare in Love (1998),474,4.0,1,3.811660199373625,Comedy|Drama|Romance,England,Comedy Drama Romance England
+525,2410,Rocky III (1982),474,2.0,1,3.2189476487663375,Action|Drama,boxing,Action Drama boxing
+526,2411,Rocky IV (1985),474,1.0,1,2.922591373462694,Action|Drama,boxing,Action Drama boxing
+527,2412,Rocky V (1990),474,1.5,1,3.070769511114516,Action|Drama,boxing,Action Drama boxing
+528,2420,"Karate Kid, The (1984)",474,4.0,1,3.811660199373625,Drama,martial arts,Drama martial arts
+529,2421,"Karate Kid, Part II, The (1986)",474,2.0,1,3.2189476487663375,Action|Adventure|Drama,martial arts,Action Adventure Drama martial arts
+530,2422,"Karate Kid, Part III, The (1989)",474,2.0,1,3.2189476487663375,Action|Adventure|Children|Drama,martial arts,Action Adventure Children Drama martial arts
+531,2423,Christmas Vacation (National Lampoon's Christmas Vacation) (1989),474,1.5,1,3.070769511114516,Comedy,christmas,Comedy christmas
+532,2424,You've Got Mail (1998),474,5.0,2,4.31193025997903,Comedy|Romance,e-mail,Comedy Romance e-mail
+533,2431,Patch Adams (1998),474,1.0,1,2.922591373462694,Comedy|Drama,doctors,Comedy Drama doctors
+534,2442,Hilary and Jackie (1998),474,4.0,1,3.811660199373625,Drama,In Netflix queue,Drama In Netflix queue
+535,2463,Ruthless People (1986),474,2.0,1,3.2189476487663375,Comedy,kidnapping,Comedy kidnapping
+536,2467,"Name of the Rose, The (Name der Rose, Der) (1986)",474,3.5,1,3.6634820617218034,Crime|Drama|Mystery|Thriller,religion,Crime Drama Mystery Thriller religion
+537,2470,Crocodile Dundee (1986),474,2.0,1,3.2189476487663375,Adventure|Comedy,Australia,Adventure Comedy Australia
+538,2471,Crocodile Dundee II (1988),474,1.0,1,2.922591373462694,Action|Adventure|Comedy,Australia,Action Adventure Comedy Australia
+539,2491,Simply Irresistible (1999),474,2.0,1,3.2189476487663375,Comedy|Romance,food,Comedy Romance food
+540,2494,"Last Days, The (1998)",474,4.0,2,3.854716018879717,Documentary,Holocaust,Documentary Holocaust
+541,2502,Office Space (1999),474,4.0,2,3.854716018879717,Comedy|Crime,stapler,Comedy Crime stapler
+542,2505,8MM (1999),424,3.5,1,3.6634820617218034,Drama|Mystery|Thriller,Nicolas Cage,Drama Mystery Thriller Nicolas Cage
+543,2506,"Other Sister, The (1999)",474,2.0,1,3.2189476487663375,Comedy|Drama|Romance,disability,Comedy Drama Romance disability
+544,2517,Christine (1983),474,1.0,1,2.922591373462694,Horror,Stephen King,Horror Stephen King
+545,2529,Planet of the Apes (1968),474,4.0,1,3.811660199373625,Action|Drama|Sci-Fi,twist ending,Action Drama Sci-Fi twist ending
+546,2550,"Haunting, The (1963)",474,4.0,1,3.811660199373625,Horror|Thriller,ghosts,Horror Thriller ghosts
+547,2553,Village of the Damned (1960),474,3.5,1,3.6634820617218034,Horror|Sci-Fi|Thriller,evil children,Horror Sci-Fi Thriller evil children
+548,2554,Children of the Damned (1963),474,3.5,1,3.6634820617218034,Horror|Sci-Fi|Thriller,evil children,Horror Sci-Fi Thriller evil children
+549,2565,"King and I, The (1956)",474,5.0,1,4.108016474677269,Drama|Musical|Romance,Siam,Drama Musical Romance Siam
+550,2571,"Matrix, The (1999)",424,3.3,5,3.4391998318734447,Action|Sci-Fi|Thriller,martial arts,Action Sci-Fi Thriller martial arts
+551,2572,10 Things I Hate About You (1999),474,2.5,1,3.3671257864181596,Comedy|Romance,Shakespeare sort of,Comedy Romance Shakespeare sort of
+552,2579,Following (1998),184,4.0,7,3.9322064547439304,Crime|Mystery|Thriller,black and white,Crime Mystery Thriller black and white
+553,2581,Never Been Kissed (1999),474,4.0,1,3.811660199373625,Comedy|Romance,high school,Comedy Romance high school
+554,2583,Cookie's Fortune (1999),474,4.0,1,3.811660199373625,Comedy|Drama,southern US,Comedy Drama southern US
+555,2598,Pushing Tin (1999),474,2.0,1,3.2189476487663375,Comedy,golfing,Comedy golfing
+556,2600,eXistenZ (1999),474,4.0,1,3.811660199373625,Action|Sci-Fi|Thriller,virtual reality,Action Sci-Fi Thriller virtual reality
+557,2612,Mildred Pierce (1945),474,4.0,1,3.811660199373625,Drama|Film-Noir,motherhood,Drama Film-Noir motherhood
+558,2616,Dick Tracy (1990),327,3.5,1,3.6634820617218034,Action|Crime,comic book,Action Crime comic book
+559,2628,Star Wars: Episode I - The Phantom Menace (1999),474,4.0,2,3.854716018879717,Action|Adventure|Sci-Fi,prequel,Action Adventure Sci-Fi prequel
+560,2640,Superman (1978),474,4.0,1,3.811660199373625,Action|Adventure|Sci-Fi,superhero,Action Adventure Sci-Fi superhero
+561,2641,Superman II (1980),474,4.0,1,3.811660199373625,Action|Sci-Fi,superhero,Action Sci-Fi superhero
+562,2642,Superman III (1983),474,1.5,1,3.070769511114516,Action|Adventure|Sci-Fi,superhero,Action Adventure Sci-Fi superhero
+563,2648,Frankenstein (1931),474,3.5,1,3.6634820617218034,Drama|Horror|Sci-Fi,In Netflix queue,Drama Horror Sci-Fi In Netflix queue
+564,2660,"Thing from Another World, The (1951)",474,3.5,1,3.6634820617218034,Horror|Sci-Fi,aliens,Horror Sci-Fi aliens
+565,2664,Invasion of the Body Snatchers (1956),474,4.0,1,3.811660199373625,Horror|Sci-Fi|Thriller,1950s,Horror Sci-Fi Thriller 1950s
+566,2692,Run Lola Run (Lola rennt) (1998),474,4.0,1,3.811660199373625,Action|Crime,alternate endings,Action Crime alternate endings
+567,2693,Trekkies (1997),474,4.0,1,3.811660199373625,Documentary,Star Trek,Documentary Star Trek
+568,2694,Big Daddy (1999),477,4.0,1,3.811660199373625,Comedy,Adam Sandler,Comedy Adam Sandler
+569,2700,"South Park: Bigger, Longer and Uncut (1999)",424,5.0,8,4.709876309251099,Animation|Comedy|Musical,adult humor,Animation Comedy Musical adult humor
+570,2710,"Blair Witch Project, The (1999)",474,4.0,2,3.854716018879717,Drama|Horror|Thriller,claims to be true,Drama Horror Thriller claims to be true
+571,2712,Eyes Wide Shut (1999),474,4.0,1,3.811660199373625,Drama|Mystery|Thriller,sexuality,Drama Mystery Thriller sexuality
+572,2716,Ghostbusters (a.k.a. Ghost Busters) (1984),474,4.5,1,3.959838337025447,Action|Comedy|Sci-Fi,ghosts,Action Comedy Sci-Fi ghosts
+573,2717,Ghostbusters II (1989),474,0.5,1,2.774413235810872,Comedy|Fantasy|Sci-Fi,Ghosts,Comedy Fantasy Sci-Fi Ghosts
+574,2719,"Haunting, The (1999)",474,1.5,1,3.070769511114516,Horror|Thriller,remake,Horror Thriller remake
+575,2723,Mystery Men (1999),474,4.5,1,3.959838337025447,Action|Comedy|Fantasy,superhero,Action Comedy Fantasy superhero
+576,2726,"Killing, The (1956)",474,4.5,1,3.959838337025447,Crime|Film-Noir,heist,Crime Film-Noir heist
+577,2728,Spartacus (1960),474,4.0,3,3.8817490321435826,Action|Drama|Romance|War,crucifixion,Action Drama Romance War crucifixion
+578,2731,"400 Blows, The (Les quatre cents coups) (1959)",567,3.5,5,3.574805611791933,Crime|Drama,emotional,Crime Drama emotional
+579,2745,"Mission, The (1986)",474,5.0,2,4.31193025997903,Drama,Missionary,Drama Missionary
+580,2750,Radio Days (1987),474,3.5,2,3.6261088983300604,Comedy|Drama,nostalgia,Comedy Drama nostalgia
+581,2761,"Iron Giant, The (1999)",474,4.0,2,3.854716018879717,Adventure|Animation|Children|Drama|Sci-Fi,robots,Adventure Animation Children Drama Sci-Fi robots
+582,2762,"Sixth Sense, The (1999)",357,5.0,9,4.735383220328231,Drama|Horror|Mystery,Atmospheric,Drama Horror Mystery Atmospheric
+583,2787,Cat's Eye (1985),474,2.0,1,3.2189476487663375,Horror,Stephen King,Horror Stephen King
+584,2791,Airplane! (1980),474,4.0,2,3.854716018879717,Comedy,aviation,Comedy aviation
+585,2797,Big (1988),474,4.0,1,3.811660199373625,Comedy|Drama|Fantasy|Romance,children,Comedy Drama Fantasy Romance children
+586,2801,Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997),474,4.5,1,3.959838337025447,Drama|Romance,gambling,Drama Romance gambling
+587,2803,"Pelican Brief, The (1993)",474,2.5,1,3.3671257864181596,Crime|Drama|Mystery|Romance|Thriller,lawyers,Crime Drama Mystery Romance Thriller lawyers
+588,2804,"Christmas Story, A (1983)",474,4.0,1,3.811660199373625,Children|Comedy,Christmas,Children Comedy Christmas
+589,2827,"Astronaut's Wife, The (1999)",474,2.0,1,3.2189476487663375,Horror|Sci-Fi|Thriller,aliens,Horror Sci-Fi Thriller aliens
+590,2863,"Hard Day's Night, A (1964)",474,4.0,1,3.811660199373625,Adventure|Comedy|Musical,Beatles,Adventure Comedy Musical Beatles
+591,2871,Deliverance (1972),474,4.0,1,3.811660199373625,Adventure|Drama|Thriller,river,Adventure Drama Thriller river
+592,2872,Excalibur (1981),474,4.0,2,3.854716018879717,Adventure|Fantasy,England,Adventure Fantasy England
+593,2915,Risky Business (1983),474,2.0,1,3.2189476487663375,Comedy,prostitution,Comedy prostitution
+594,2918,Ferris Bueller's Day Off (1986),474,4.0,1,3.811660199373625,Comedy,High School,Comedy High School
+595,2919,"Year of Living Dangerously, The (1982)",474,4.0,3,3.8817490321435826,Drama|Romance|War,Academy award (Best Supporting Actress),Drama Romance War Academy award (Best Supporting Actress)
+596,2927,Brief Encounter (1946),474,4.0,1,3.811660199373625,Drama|Romance,adultery,Drama Romance adultery
+597,2935,"Lady Eve, The (1941)",474,4.0,1,3.811660199373625,Comedy|Romance,gambling,Comedy Romance gambling
+598,2937,"Palm Beach Story, The (1942)",474,4.5,1,3.959838337025447,Comedy,screwball,Comedy screwball
+599,2940,Gilda (1946),474,4.0,1,3.811660199373625,Drama|Film-Noir|Mystery|Romance,nightclub,Drama Film-Noir Mystery Romance nightclub
+600,2941,South Pacific (1958),474,4.0,1,3.811660199373625,Musical|Romance|War,island,Musical Romance War island
+601,2943,Indochine (1992),474,3.5,1,3.6634820617218034,Drama|Romance,Vietnam,Drama Romance Vietnam
+602,2952,Sydney (Hard Eight) (1996),474,4.0,1,3.811660199373625,Crime|Drama|Thriller,gambling,Crime Drama Thriller gambling
+603,2953,Home Alone 2: Lost in New York (1992),62,3.5,4,3.5865410828231576,Children|Comedy,family,Children Comedy family
+604,2959,Fight Club (1999),424,4.944444444444445,54,4.893394094228974,Action|Crime|Drama|Thriller,dark comedy,Action Crime Drama Thriller dark comedy
+605,2966,"Straight Story, The (1999)",474,4.0,2,3.854716018879717,Adventure|Drama,brothers,Adventure Drama brothers
+606,2967,"Bad Seed, The (1956)",474,4.0,1,3.811660199373625,Drama|Thriller,evil children,Drama Thriller evil children
+607,2968,Time Bandits (1981),474,4.0,1,3.811660199373625,Adventure|Comedy|Fantasy|Sci-Fi,time travel,Adventure Comedy Fantasy Sci-Fi time travel
+608,2987,Who Framed Roger Rabbit? (1988),474,4.0,1,3.811660199373625,Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery,live action/animation,Adventure Animation Children Comedy Crime Fantasy Mystery live action/animation
+609,3000,Princess Mononoke (Mononoke-hime) (1997),474,4.833333333333333,6,4.521174664347936,Action|Adventure|Animation|Drama|Fantasy,anime,Action Adventure Animation Drama Fantasy anime
+610,3006,"Insider, The (1999)",474,4.0,2,3.854716018879717,Drama|Thriller,tobacco,Drama Thriller tobacco
+611,3011,"They Shoot Horses, Don't They? (1969)",474,4.0,1,3.811660199373625,Drama,dance marathon,Drama dance marathon
+612,3028,"Taming of the Shrew, The (1967)",474,2.0,1,3.2189476487663375,Comedy,Shakespeare,Comedy Shakespeare
+613,3030,Yojimbo (1961),474,4.0,1,3.811660199373625,Action|Adventure,samurai,Action Adventure samurai
+614,3039,Trading Places (1983),474,4.5,2,4.083323139429374,Comedy,class,Comedy class
+615,3040,Meatballs (1979),474,1.0,1,2.922591373462694,Comedy,camp,Comedy camp
+616,3044,Dead Again (1991),474,5.0,2,4.31193025997903,Mystery|Romance|Thriller,memory,Mystery Romance Thriller memory
+617,3052,Dogma (1999),125,4.8,5,4.456243181262106,Adventure|Comedy|Fantasy,irreverent,Adventure Comedy Fantasy irreverent
+618,3071,Stand and Deliver (1988),474,2.5,1,3.3671257864181596,Comedy|Drama,high school,Comedy Drama high school
+619,3072,Moonstruck (1987),474,5.0,1,4.108016474677269,Comedy|Romance,New York,Comedy Romance New York
+620,3081,Sleepy Hollow (1999),474,2.0,1,3.2189476487663375,Fantasy|Horror|Mystery|Romance,Ichabod Crane,Fantasy Horror Mystery Romance Ichabod Crane
+621,3087,Scrooged (1988),474,1.5,2,2.711680416131435,Comedy|Fantasy|Romance,christmas,Comedy Fantasy Romance christmas
+622,3095,"Grapes of Wrath, The (1940)",474,4.5,2,4.083323139429374,Drama,depression,Drama depression
+623,3097,"Shop Around the Corner, The (1940)",474,4.0,1,3.811660199373625,Comedy|Drama|Romance,remade,Comedy Drama Romance remade
+624,3098,"Natural, The (1984)",474,3.5,2,3.6261088983300604,Drama,baseball,Drama baseball
+625,3101,Fatal Attraction (1987),474,4.0,1,3.811660199373625,Drama|Thriller,adultery,Drama Thriller adultery
+626,3108,"Fisher King, The (1991)",474,2.5,1,3.3671257864181596,Comedy|Drama|Fantasy|Romance,homeless,Comedy Drama Fantasy Romance homeless
+627,3111,Places in the Heart (1984),474,4.0,1,3.811660199373625,Drama,racism,Drama racism
+628,3114,Toy Story 2 (1999),62,3.125,8,3.2639979842576836,Adventure|Animation|Children|Comedy|Fantasy,animation,Adventure Animation Children Comedy Fantasy animation
+629,3115,Flawless (1999),474,4.0,1,3.811660199373625,Drama,men in drag,Drama men in drag
+630,3125,"End of the Affair, The (1999)",474,4.0,1,3.811660199373625,Drama,Graham Greene,Drama Graham Greene
+631,3134,Grand Illusion (La grande illusion) (1937),567,3.0,2,3.397501777780404,Drama|War,downbeat,Drama War downbeat
+632,3135,"Great Santini, The (1979)",474,4.0,1,3.811660199373625,Drama,fatherhood,Drama fatherhood
+633,3147,"Green Mile, The (1999)",474,4.0,1,3.811660199373625,Crime|Drama,Stephen King,Crime Drama Stephen King
+634,3152,"Last Picture Show, The (1971)",474,4.0,1,3.811660199373625,Drama,black-and-white,Drama black-and-white
+635,3160,Magnolia (1999),474,5.0,1,4.108016474677269,Drama,L.A.,Drama L.A.
+636,3174,Man on the Moon (1999),474,4.0,1,3.811660199373625,Comedy|Drama,Andy Kaufman,Comedy Drama Andy Kaufman
+637,3175,Galaxy Quest (1999),474,4.0,1,3.811660199373625,Adventure|Comedy|Sci-Fi,spoof,Adventure Comedy Sci-Fi spoof
+638,3176,"Talented Mr. Ripley, The (1999)",424,5.0,12,4.790610215971569,Drama|Mystery|Thriller,based on a book,Drama Mystery Thriller based on a book
+639,3178,"Hurricane, The (1999)",474,2.0,1,3.2189476487663375,Drama,boxing,Drama boxing
+640,3181,Titus (1999),474,4.5,1,3.959838337025447,Drama,Shakespeare,Drama Shakespeare
+641,3186,"Girl, Interrupted (1999)",424,3.5,6,3.5658728698944295,Drama,asylum,Drama asylum
+642,3210,Fast Times at Ridgemont High (1982),474,2.0,1,3.2189476487663375,Comedy|Drama|Romance,high school,Comedy Drama Romance high school
+643,3211,"Cry in the Dark, A (1988)",474,4.0,2,3.854716018879717,Drama,a dingo ate my baby,Drama a dingo ate my baby
+644,3247,Sister Act (1992),474,2.0,1,3.2189476487663375,Comedy|Crime,nuns,Comedy Crime nuns
+645,3258,Death Becomes Her (1992),474,2.5,1,3.3671257864181596,Comedy|Fantasy,plastic surgery,Comedy Fantasy plastic surgery
+646,3259,Far and Away (1992),474,2.5,1,3.3671257864181596,Adventure|Drama|Romance,Ireland,Adventure Drama Romance Ireland
+647,3260,Howards End (1992),474,4.5,1,3.959838337025447,Drama,E.M. Forster,Drama E.M. Forster
+648,3263,White Men Can't Jump (1992),474,2.0,1,3.2189476487663375,Comedy|Drama,basketball,Comedy Drama basketball
+649,3265,Hard-Boiled (Lat sau san taam) (1992),610,5.0,2,4.31193025997903,Action|Crime|Drama|Thriller,gun fu,Action Crime Drama Thriller gun fu
+650,3266,Man Bites Dog (C'est arrivé près de chez vous) (1992),567,5.0,6,4.640587388654625,Comedy|Crime|Drama|Thriller,black comedy,Comedy Crime Drama Thriller black comedy
+651,3270,"Cutting Edge, The (1992)",474,2.5,1,3.3671257864181596,Comedy|Drama|Romance,figure skating,Comedy Drama Romance figure skating
+652,3273,Scream 3 (2000),474,4.0,2,3.854716018879717,Comedy|Horror|Mystery|Thriller,slasher,Comedy Horror Mystery Thriller slasher
+653,3281,"Brandon Teena Story, The (1998)",474,2.0,1,3.2189476487663375,Documentary,sexuality,Documentary sexuality
+654,3306,"Circus, The (1928)",474,4.5,2,4.083323139429374,Comedy,big top,Comedy big top
+655,3307,City Lights (1931),474,4.5,1,3.959838337025447,Comedy|Drama|Romance,blind,Comedy Drama Romance blind
+656,3310,"Kid, The (1921)",474,4.0,1,3.811660199373625,Comedy|Drama,orphans,Comedy Drama orphans
+657,3317,Wonder Boys (2000),474,4.0,1,3.811660199373625,Comedy|Drama,writing,Comedy Drama writing
+658,3330,Splendor in the Grass (1961),474,4.0,2,3.854716018879717,Drama|Romance,adolescence,Drama Romance adolescence
+659,3341,Born Yesterday (1950),474,4.0,1,3.811660199373625,Comedy,remade,Comedy remade
+660,3360,Hoosiers (a.k.a. Best Shot) (1986),474,3.5,1,3.6634820617218034,Drama|Romance,basketball,Drama Romance basketball
+661,3384,"Taking of Pelham One Two Three, The (1974)",474,4.0,1,3.811660199373625,Action|Crime,subway,Action Crime subway
+662,3385,Volunteers (1985),474,2.0,1,3.2189476487663375,Comedy,Peace Corp,Comedy Peace Corp
+663,3386,JFK (1991),474,4.0,2,3.854716018879717,Drama|Mystery|Thriller,politics,Drama Mystery Thriller politics
+664,3408,Erin Brockovich (2000),474,4.0,2,3.854716018879717,Drama,scandal,Drama scandal
+665,3420,...And Justice for All (1979),474,2.5,1,3.3671257864181596,Drama|Thriller,lawyers,Drama Thriller lawyers
+666,3421,Animal House (1978),474,2.0,2,2.940287536681091,Comedy,college,Comedy college
+667,3424,Do the Right Thing (1989),474,4.0,2,3.854716018879717,Drama,racism,Drama racism
+668,3429,Creature Comforts (1989),474,3.5,1,3.6634820617218034,Animation|Comedy,aardman,Animation Comedy aardman
+669,3435,Double Indemnity (1944),474,4.0,1,3.811660199373625,Crime|Drama|Film-Noir,Insurance,Crime Drama Film-Noir Insurance
+670,3447,"Good Earth, The (1937)",474,4.0,1,3.811660199373625,Drama,Pearl S Buck,Drama Pearl S Buck
+671,3451,Guess Who's Coming to Dinner (1967),474,4.5,4,4.214059299711285,Drama,Hepburn and Tracy,Drama Hepburn and Tracy
+672,3461,Lord of the Flies (1963),474,4.0,1,3.811660199373625,Adventure|Drama|Thriller,island,Adventure Drama Thriller island
+673,3462,Modern Times (1936),474,4.5,1,3.959838337025447,Comedy|Drama|Romance,factory,Comedy Drama Romance factory
+674,3468,"Hustler, The (1961)",474,3.5,1,3.6634820617218034,Drama,pool,Drama pool
+675,3469,Inherit the Wind (1960),474,2.5,3,3.0444333229417526,Drama,court,Drama court
+676,3475,"Place in the Sun, A (1951)",474,4.0,1,3.811660199373625,Drama|Romance,class,Drama Romance class
+677,3481,High Fidelity (2000),327,5.0,2,4.31193025997903,Comedy|Drama|Romance,music,Comedy Drama Romance music
+678,3489,Hook (1991),474,4.0,1,3.811660199373625,Adventure|Comedy|Fantasy,Peter Pan,Adventure Comedy Fantasy Peter Pan
+679,3498,Midnight Express (1978),474,4.0,1,3.811660199373625,Drama,In Netflix queue,Drama In Netflix queue
+680,3499,Misery (1990),424,3.5,7,3.5588459184571333,Drama|Horror|Thriller,claustrophobic,Drama Horror Thriller claustrophobic
+681,3502,My Life (1993),474,2.5,1,3.3671257864181596,Drama,death,Drama death
+682,3504,Network (1976),474,4.0,1,3.811660199373625,Comedy|Drama,journalism,Comedy Drama journalism
+683,3512,Return to Me (2000),474,4.5,1,3.959838337025447,Drama|Romance,transplants,Drama Romance transplants
+684,3515,Me Myself I (2000),474,4.0,1,3.811660199373625,Comedy|Romance,alternate endings,Comedy Romance alternate endings
+685,3526,Parenthood (1989),474,4.0,1,3.811660199373625,Comedy|Drama,families,Comedy Drama families
+686,3527,Predator (1987),477,4.0,8,3.9387412025879445,Action|Sci-Fi|Thriller,aliens,Action Sci-Fi Thriller aliens
+687,3528,"Prince of Tides, The (1991)",474,2.0,1,3.2189476487663375,Drama|Romance,psychiatrist,Drama Romance psychiatrist
+688,3536,Keeping the Faith (2000),474,4.5,2,4.083323139429374,Comedy|Drama|Romance,priest,Comedy Drama Romance priest
+689,3546,What Ever Happened to Baby Jane? (1962),474,4.0,1,3.811660199373625,Drama|Horror|Thriller,show business,Drama Horror Thriller show business
+690,3548,Auntie Mame (1958),474,4.5,1,3.959838337025447,Comedy|Drama,1920s,Comedy Drama 1920s
+691,3549,Guys and Dolls (1955),474,5.0,1,4.108016474677269,Comedy|Musical|Romance,Gambling,Comedy Musical Romance Gambling
+692,3552,Caddyshack (1980),474,2.0,1,3.2189476487663375,Comedy,golf,Comedy golf
+693,3556,"Virgin Suicides, The (1999)",132,4.0,3,3.8817490321435826,Drama|Romance,sofia coppola,Drama Romance sofia coppola
+694,3566,"Big Kahuna, The (2000)",474,4.5,2,4.083323139429374,Comedy|Drama,business,Comedy Drama business
+695,3578,Gladiator (2000),62,4.375,8,4.227916867586627,Action|Adventure|Drama,ancient Rome,Action Adventure Drama ancient Rome
+696,3608,Pee-wee's Big Adventure (1985),474,4.0,1,3.811660199373625,Adventure|Comedy,Pee Wee Herman,Adventure Comedy Pee Wee Herman
+697,3629,"Gold Rush, The (1925)",474,4.0,1,3.811660199373625,Adventure|Comedy|Romance,mining,Adventure Comedy Romance mining
+698,3671,Blazing Saddles (1974),567,4.5,3,4.160854268544193,Comedy|Western,dark humor,Comedy Western dark humor
+699,3675,White Christmas (1954),474,4.5,1,3.959838337025447,Comedy|Musical|Romance,Christmas,Comedy Musical Romance Christmas
+700,3676,Eraserhead (1977),567,5.0,16,4.836193360033669,Drama|Horror,art house,Drama Horror art house
+701,3683,Blood Simple (1984),474,3.5,1,3.6634820617218034,Crime|Drama|Film-Noir,Coen Brothers,Crime Drama Film-Noir Coen Brothers
+702,3712,Soapdish (1991),474,2.5,1,3.3671257864181596,Comedy,television,Comedy television
+703,3723,Hamlet (1990),474,4.0,1,3.811660199373625,Drama,Shakespeare,Drama Shakespeare
+704,3724,Coming Home (1978),474,3.5,1,3.6634820617218034,Drama|War,Vietnam,Drama War Vietnam
+705,3730,"Conversation, The (1974)",474,4.0,1,3.811660199373625,Drama|Mystery,spying,Drama Mystery spying
+706,3735,Serpico (1973),474,4.0,1,3.811660199373625,Crime|Drama,police,Crime Drama police
+707,3793,X-Men (2000),184,3.6666666666666665,6,3.6852855942011176,Action|Adventure|Sci-Fi,action,Action Adventure Sci-Fi action
+708,3801,Anatomy of a Murder (1959),474,4.0,1,3.811660199373625,Drama|Mystery,court,Drama Mystery court
+709,3811,Breaker Morant (1980),474,4.0,1,3.811660199373625,Drama|War,court,Drama War court
+710,3816,"Official Story, The (La historia oficial) (1985)",474,4.0,1,3.811660199373625,Drama,missing children,Drama missing children
+711,3844,Steel Magnolias (1989),474,2.5,1,3.3671257864181596,Drama,diabetes,Drama diabetes
+712,3849,The Spiral Staircase (1945),474,4.0,1,3.811660199373625,Horror|Mystery|Thriller,disability,Horror Mystery Thriller disability
+713,3859,"Eyes of Tammy Faye, The (2000)",474,4.0,2,3.854716018879717,Documentary,In Netflix queue,Documentary In Netflix queue
+714,3877,Supergirl (1984),474,2.0,1,3.2189476487663375,Action|Adventure|Fantasy,superhero,Action Adventure Fantasy superhero
+715,3897,Almost Famous (2000),327,4.375,4,4.135619522600269,Drama,music,Drama music
+716,3910,Dancer in the Dark (2000),474,4.0,2,3.854716018879717,Drama|Musical,blindness,Drama Musical blindness
+717,3911,Best in Show (2000),424,4.0,2,3.854716018879717,Comedy,satire,Comedy satire
+718,3932,"Invisible Man, The (1933)",474,4.0,1,3.811660199373625,Horror|Sci-Fi,invisibility,Horror Sci-Fi invisibility
+719,3948,Meet the Parents (2000),424,4.5,2,4.083323139429374,Comedy,comedy,Comedy comedy
+720,3949,Requiem for a Dream (2000),474,4.0,1,3.811660199373625,Drama,drug abuse,Drama drug abuse
+721,3967,Billy Elliot (2000),474,4.0,1,3.811660199373625,Drama,ballet,Drama ballet
+722,3983,You Can Count on Me (2000),474,4.5,1,3.959838337025447,Drama|Romance,family,Drama Romance family
+723,3988,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),474,1.0,1,2.922591373462694,Children|Comedy|Fantasy,Dr. Seuss,Children Comedy Fantasy Dr. Seuss
+724,3994,Unbreakable (2000),474,4.6875,8,4.468896588418863,Drama|Sci-Fi,superhero,Drama Sci-Fi superhero
+725,3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",474,4.0,2,3.854716018879717,Action|Drama|Romance,china,Action Drama Romance china
+726,4007,Wall Street (1987),474,4.0,1,3.811660199373625,Drama,business,Drama business
+727,4012,Punchline (1988),474,2.0,1,3.2189476487663375,Comedy|Drama,stand-up comedy,Comedy Drama stand-up comedy
+728,4019,Finding Forrester (2000),474,4.0,1,3.811660199373625,Drama,writing,Drama writing
+729,4024,"House of Mirth, The (2000)",474,2.5,1,3.3671257864181596,Romance,Edith Wharton,Romance Edith Wharton
+730,4025,Miss Congeniality (2000),474,2.0,1,3.2189476487663375,Comedy|Crime,pageant,Comedy Crime pageant
+731,4027,"O Brother, Where Art Thou? (2000)",474,4.0,1,3.811660199373625,Adventure|Comedy|Crime,bluegrass,Adventure Comedy Crime bluegrass
+732,4029,State and Main (2000),474,4.5,1,3.959838337025447,Comedy|Drama,movies,Comedy Drama movies
+733,4034,Traffic (2000),305,4.5,2,4.083323139429374,Crime|Drama|Thriller,drugs,Crime Drama Thriller drugs
+734,4046,Friendly Persuasion (1956),474,4.0,1,3.811660199373625,Drama,Quakers,Drama Quakers
+735,4077,"With a Friend Like Harry... (Harry, un ami qui vous veut du bien) (2000)",474,4.0,1,3.811660199373625,Drama|Thriller,psychopaths,Drama Thriller psychopaths
+736,4105,"Evil Dead, The (1981)",474,2.0,1,3.2189476487663375,Fantasy|Horror|Thriller,zombies,Fantasy Horror Thriller zombies
+737,4113,"Glass Menagerie, The (1987)",474,4.0,1,3.811660199373625,Drama,Tennessee Williams,Drama Tennessee Williams
+738,4138,My Demon Lover (1987),474,1.0,1,2.922591373462694,Comedy|Horror,demons,Comedy Horror demons
+739,4144,In the Mood For Love (Fa yeung nin wa) (2000),567,4.5,18,4.410540478238759,Drama|Romance,atmospheric,Drama Romance atmospheric
+740,4160,"Widow of St. Pierre, The (Veuve de Saint-Pierre, La) (2000)",474,4.5,1,3.959838337025447,Drama|Romance,death penalty,Drama Romance death penalty
+741,4164,"Caveman's Valentine, The (2001)",474,4.0,2,3.854716018879717,Drama,homeless,Drama homeless
+742,4166,Series 7: The Contenders (2001),474,2.0,1,3.2189476487663375,Action|Drama,reality TV,Action Drama reality TV
+743,4171,Long Night's Journey Into Day (2000),474,4.0,1,3.811660199373625,Documentary,Eugene O'Neill,Documentary Eugene O'Neill
+744,4184,"Bishop's Wife, The (1947)",474,4.0,1,3.811660199373625,Comedy|Drama|Romance,Christmas,Comedy Drama Romance Christmas
+745,4189,"Greatest Story Ever Told, The (1965)",474,2.5,2,3.1688946572307475,Drama,Bible,Drama Bible
+746,4190,Elmer Gantry (1960),474,4.0,2,3.854716018879717,Drama,preacher,Drama preacher
+747,4191,Alfie (1966),474,4.0,1,3.811660199373625,Comedy|Drama|Romance,sexuality,Comedy Drama Romance sexuality
+748,4204,Losin' It (1983),474,1.0,1,2.922591373462694,Comedy,virginity,Comedy virginity
+749,4210,Manhunter (1986),474,3.5,2,3.6261088983300604,Action|Crime|Drama|Horror|Thriller,Hannibal Lecter,Action Crime Drama Horror Thriller Hannibal Lecter
+750,4211,Reversal of Fortune (1990),474,4.0,1,3.811660199373625,Drama,von Bulow,Drama von Bulow
+751,4214,Revenge of the Nerds (1984),474,2.0,1,3.2189476487663375,Comedy,college,Comedy college
+752,4218,River's Edge (1986),474,3.5,1,3.6634820617218034,Crime|Drama,In Netflix queue,Crime Drama In Netflix queue
+753,4221,Necessary Roughness (1991),474,2.0,1,3.2189476487663375,Comedy,football,Comedy football
+754,4223,Enemy at the Gates (2001),62,4.5,5,4.252834511384375,Drama|War,Ed Harris,Drama War Ed Harris
+755,4226,Memento (2000),184,4.5,13,4.381446658295082,Mystery|Thriller,dark,Mystery Thriller dark
+756,4232,Spy Kids (2001),474,4.0,1,3.811660199373625,Action|Adventure|Children|Comedy,spying,Action Adventure Children Comedy spying
+757,4246,Bridget Jones's Diary (2001),474,4.5,1,3.959838337025447,Comedy|Drama|Romance,singletons,Comedy Drama Romance singletons
+758,4259,"Luzhin Defence, The (2000)",474,4.0,1,3.811660199373625,Drama|Romance,Nabokov,Drama Romance Nabokov
+759,4262,Scarface (1983),424,3.5,1,3.6634820617218034,Action|Crime|Drama,Al Pacino,Action Crime Drama Al Pacino
+760,4263,Days of Wine and Roses (1962),474,4.0,1,3.811660199373625,Drama,alcoholism,Drama alcoholism
+761,4292,Norma Rae (1979),474,4.0,1,3.811660199373625,Drama,Union,Drama Union
+762,4296,Love Story (1970),474,2.0,1,3.2189476487663375,Drama|Romance,death,Drama Romance death
+763,4306,Shrek (2001),474,4.5,1,3.959838337025447,Adventure|Animation|Children|Comedy|Fantasy|Romance,fairy tales,Adventure Animation Children Comedy Fantasy Romance fairy tales
+764,4316,Ice Castles (1978),474,2.5,1,3.3671257864181596,Drama,figure skating,Drama figure skating
+765,4326,Mississippi Burning (1988),474,2.5,2,3.1688946572307475,Crime|Drama|Thriller,race,Crime Drama Thriller race
+766,4333,Throw Momma from the Train (1987),474,4.0,1,3.811660199373625,Comedy|Crime,Strangers on a Train,Comedy Crime Strangers on a Train
+767,4347,Divided We Fall (Musíme si pomáhat) (2000),474,4.0,1,3.811660199373625,Comedy|Drama,Holocaust,Comedy Drama Holocaust
+768,4356,Gentlemen Prefer Blondes (1953),474,3.0,1,3.5153039240699813,Comedy|Musical|Romance,In Netflix queue,Comedy Musical Romance In Netflix queue
+769,4359,"Seven Year Itch, The (1955)",474,4.0,1,3.811660199373625,Comedy,adultery,Comedy adultery
+770,4361,Tootsie (1982),474,4.0,1,3.811660199373625,Comedy|Romance,men in drag,Comedy Romance men in drag
+771,4370,A.I. Artificial Intelligence (2001),357,4.1,5,3.981622951547398,Adventure|Drama|Sci-Fi,android(s)/cyborg(s),Adventure Drama Sci-Fi android(s)/cyborg(s)
+772,4380,"Princess and the Warrior, The (Krieger und die Kaiserin, Der) (2000)",474,4.0,1,3.811660199373625,Drama|Romance,accident,Drama Romance accident
+773,4396,"Cannonball Run, The (1981)",474,1.0,1,2.922591373462694,Action|Comedy,race,Action Comedy race
+774,4447,Legally Blonde (2001),474,4.0,1,3.811660199373625,Comedy|Romance,lawyers,Comedy Romance lawyers
+775,4448,"Score, The (2001)",474,4.0,1,3.811660199373625,Action|Drama,heist,Action Drama heist
+776,4454,More (1998),477,5.0,7,4.678927527317524,Animation|Drama|Sci-Fi|IMAX,claymation,Animation Drama Sci-Fi IMAX claymation
+777,4465,"Accused, The (1988)",474,4.0,1,3.811660199373625,Drama,rape,Drama rape
+778,4476,Big Business (1988),474,2.0,1,3.2189476487663375,Comedy,twins,Comedy twins
+779,4477,Big Top Pee-Wee (1988),474,1.0,1,2.922591373462694,Adventure|Children|Comedy,circus,Adventure Children Comedy circus
+780,4489,Coming to America (1988),474,2.0,2,2.940287536681091,Comedy|Romance,Africa,Comedy Romance Africa
+781,4495,Crossing Delancey (1988),474,5.0,1,4.108016474677269,Comedy|Romance,New York,Comedy Romance New York
+782,4526,My Stepmother Is an Alien (1988),474,1.5,1,3.070769511114516,Comedy|Romance|Sci-Fi,aliens,Comedy Romance Sci-Fi aliens
+783,4537,Running on Empty (1988),474,4.5,1,3.959838337025447,Drama,hippies,Drama hippies
+784,4545,Short Circuit (1986),474,2.0,1,3.2189476487663375,Comedy|Sci-Fi,robots,Comedy Sci-Fi robots
+785,4546,"Vanishing, The (Spoorloos) (1988)",474,4.0,2,3.854716018879717,Drama|Thriller,kidnapping,Drama Thriller kidnapping
+786,4552,"Tetsuo, the Ironman (Tetsuo) (1988)",567,3.5,6,3.5658728698944295,Action|Horror|Sci-Fi|Thriller,"""artsy""","Action Horror Sci-Fi Thriller ""artsy"""
+787,4558,Twins (1988),474,2.0,1,3.2189476487663375,Comedy,twins,Comedy twins
+788,4571,Bill & Ted's Excellent Adventure (1989),474,4.5,1,3.959838337025447,Adventure|Comedy|Sci-Fi,time travel,Adventure Comedy Sci-Fi time travel
+789,4600,Gross Anatomy (a.k.a. A Cut Above) (1989),474,2.5,1,3.3671257864181596,Comedy|Drama,doctors,Comedy Drama doctors
+790,4612,Jesus of Montreal (Jésus de Montréal) (1989),318,4.5,1,3.959838337025447,Drama,reciprocal spectator,Drama reciprocal spectator
+791,4621,Look Who's Talking (1989),474,2.0,1,3.2189476487663375,Comedy|Romance,babies,Comedy Romance babies
+792,4623,Major League (1989),474,2.0,1,3.2189476487663375,Comedy,baseball,Comedy baseball
+793,4638,Jurassic Park III (2001),474,2.0,1,3.2189476487663375,Action|Adventure|Sci-Fi|Thriller,dinosaurs,Action Adventure Sci-Fi Thriller dinosaurs
+794,4639,America's Sweethearts (2001),474,2.5,2,3.1688946572307475,Comedy|Romance,Hollywood,Comedy Romance Hollywood
+795,4641,Ghost World (2001),474,4.0,1,3.811660199373625,Comedy|Drama,adolescence,Comedy Drama adolescence
+796,4677,Turner & Hooch (1989),474,1.5,1,3.070769511114516,Comedy|Crime,dogs,Comedy Crime dogs
+797,4678,UHF (1989),474,4.0,1,3.811660199373625,Comedy,television,Comedy television
+798,4708,Marat/Sade (1966),318,5.0,1,4.108016474677269,Drama|Musical,reciprocal spectator,Drama Musical reciprocal spectator
+799,4725,Session 9 (2001),477,4.0,4,3.9003001912672213,Horror|Thriller,mental hospital,Horror Thriller mental hospital
+800,4787,Little Man Tate (1991),474,4.0,1,3.811660199373625,Drama,prodigies,Drama prodigies
+801,4801,"Little Foxes, The (1941)",474,4.0,1,3.811660199373625,Drama,family,Drama family
+802,4808,"Vanishing, The (1993)",474,2.0,1,3.2189476487663375,Mystery|Thriller,remake,Mystery Thriller remake
+803,4809,Silkwood (1983),474,4.0,2,3.854716018879717,Drama,Nuclear disaster,Drama Nuclear disaster
+804,4812,SpaceCamp (1986),474,2.0,2,2.940287536681091,Adventure|Sci-Fi,NASA,Adventure Sci-Fi NASA
+805,4816,Zoolander (2001),424,3.0,6,3.207634696974364,Comedy,ben stiller,Comedy ben stiller
+806,4823,Serendipity (2001),474,4.0,1,3.811660199373625,Comedy|Romance,wedding,Comedy Romance wedding
+807,4835,Coal Miner's Daughter (1980),474,4.0,1,3.811660199373625,Drama,Loretta Lynn,Drama Loretta Lynn
+808,4857,Fiddler on the Roof (1971),474,4.0,2,3.854716018879717,Drama|Musical,Judaism,Drama Musical Judaism
+809,4874,K-PAX (2001),474,2.5,2,3.1688946572307475,Drama|Fantasy|Mystery|Sci-Fi,aliens,Drama Fantasy Mystery Sci-Fi aliens
+810,4878,Donnie Darko (2001),193,4.035714285714286,28,4.0119996713345705,Drama|Mystery|Sci-Fi|Thriller,atmospheric,Drama Mystery Sci-Fi Thriller atmospheric
+811,4881,"Man Who Wasn't There, The (2001)",474,4.0,1,3.811660199373625,Crime|Drama,Coen Brothers,Crime Drama Coen Brothers
+812,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),106,4.0,7,3.9322064547439304,Adventure|Children|Fantasy,Everything you want is here,Adventure Children Fantasy Everything you want is here
+813,4902,"Devil's Backbone, The (Espinazo del diablo, El) (2001)",474,4.0,1,3.811660199373625,Drama|Fantasy|Horror|Thriller|War,ghosts,Drama Fantasy Horror Thriller War ghosts
+814,4920,"Now, Voyager (1942)",474,4.0,1,3.811660199373625,Drama|Romance,psychology,Drama Romance psychology
+815,4963,Ocean's Eleven (2001),474,4.0,1,3.811660199373625,Crime|Thriller,heist,Crime Thriller heist
+816,4969,And Then There Were None (1945),474,3.5,1,3.6634820617218034,Crime|Mystery,In Netflix queue,Crime Mystery In Netflix queue
+817,4970,"Blue Angel, The (Blaue Engel, Der) (1930)",474,4.0,2,3.854716018879717,Drama,nightclub,Drama nightclub
+818,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",474,5.0,1,4.108016474677269,Comedy|Romance,whimsical,Comedy Romance whimsical
+819,4979,"Royal Tenenbaums, The (2001)",474,4.0,1,3.811660199373625,Comedy|Drama,new york,Comedy Drama new york
+820,4980,Bill & Ted's Bogus Journey (1991),474,4.0,1,3.811660199373625,Adventure|Comedy|Fantasy|Sci-Fi,time travel,Adventure Comedy Fantasy Sci-Fi time travel
+821,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",474,5.0,1,4.108016474677269,Adventure|Fantasy,Tolkein,Adventure Fantasy Tolkein
+822,4995,"Beautiful Mind, A (2001)",305,5.0,1,4.108016474677269,Drama|Romance,mathematics,Drama Romance mathematics
+823,4998,"Defiant Ones, The (1958)",474,3.5,1,3.6634820617218034,Adventure|Crime|Drama|Thriller,racism,Adventure Crime Drama Thriller racism
+824,5008,Witness for the Prosecution (1957),474,4.0,2,3.854716018879717,Drama|Mystery|Thriller,Agatha Christie,Drama Mystery Thriller Agatha Christie
+825,5012,Yentl (1983),474,4.0,2,3.854716018879717,Drama|Musical|Romance,cross dressing,Drama Musical Romance cross dressing
+826,5015,Monster's Ball (2001),474,4.0,1,3.811660199373625,Drama|Romance,race,Drama Romance race
+827,5034,"Truly, Madly, Deeply (1991)",474,5.0,1,4.108016474677269,Drama|Romance,Ghost,Drama Romance Ghost
+828,5064,The Count of Monte Cristo (2002),474,4.0,3,3.8817490321435826,Action|Adventure|Drama|Thriller,Dumas,Action Adventure Drama Thriller Dumas
+829,5088,"Going Places (Valseuses, Les) (1974)",125,5.0,1,4.108016474677269,Comedy|Crime|Drama,irreverent,Comedy Crime Drama irreverent
+830,5114,"Bad and the Beautiful, The (1952)",474,4.0,1,3.811660199373625,Drama,movie business,Drama movie business
+831,5135,Monsoon Wedding (2001),474,4.0,1,3.811660199373625,Comedy|Romance,India,Comedy Romance India
+832,5213,"Oh, God! Book II (1980)",474,1.5,1,3.070769511114516,Comedy,religion,Comedy religion
+833,5224,Promises (2001),474,4.0,1,3.811660199373625,Documentary,In Netflix queue,Documentary In Netflix queue
+834,5238,Return of the Secaucus 7 (1980),474,3.5,1,3.6634820617218034,Drama,In Netflix queue,Drama In Netflix queue
+835,5254,Blade II (2002),573,4.5,2,4.083323139429374,Action|Horror|Thriller,Great movie,Action Horror Thriller Great movie
+836,5266,Panic Room (2002),474,4.0,1,3.811660199373625,Thriller,crime,Thriller crime
+837,5291,Rashomon (Rashômon) (1950),474,4.0,2,3.854716018879717,Crime|Drama|Mystery,In Netflix queue,Crime Drama Mystery In Netflix queue
+838,5294,Frailty (2001),474,4.0,1,3.811660199373625,Crime|Drama|Thriller,religion,Crime Drama Thriller religion
+839,5316,Enigma (2001),474,2.5,1,3.3671257864181596,Romance|Thriller,World War II,Romance Thriller World War II
+840,5349,Spider-Man (2002),474,4.5,1,3.959838337025447,Action|Adventure|Sci-Fi|Thriller,superhero,Action Adventure Sci-Fi Thriller superhero
+841,5353,Butterflies Are Free (1972),474,3.0,1,3.5153039240699813,Comedy|Drama,blind,Comedy Drama blind
+842,5377,About a Boy (2002),474,5.0,1,4.108016474677269,Comedy|Drama|Romance,Nick Hornby,Comedy Drama Romance Nick Hornby
+843,5379,"Believer, The (2001)",474,4.5,2,4.083323139429374,Drama,anti-Semitism,Drama anti-Semitism
+844,5388,Insomnia (2002),62,4.071428571428571,7,3.9855436742134724,Action|Crime|Drama|Mystery|Thriller,Al Pacino,Action Crime Drama Mystery Thriller Al Pacino
+845,5398,Requiem for a Heavyweight (1962),474,4.0,1,3.811660199373625,Drama,boxing,Drama boxing
+846,5404,84 Charing Cross Road (1987),474,4.0,1,3.811660199373625,Drama|Romance,books,Drama Romance books
+847,5445,Minority Report (2002),474,4.5,1,3.959838337025447,Action|Crime|Mystery|Sci-Fi|Thriller,future,Action Crime Mystery Sci-Fi Thriller future
+848,5446,Rabbit-Proof Fence (2002),474,4.5,1,3.959838337025447,Adventure|Drama,Australia,Adventure Drama Australia
+849,5450,Lovely & Amazing (2001),474,4.0,2,3.854716018879717,Comedy|Drama|Romance,sisterhood,Comedy Drama Romance sisterhood
+850,5451,Pumpkin (2002),474,2.5,2,3.1688946572307475,Comedy|Drama|Romance,disability,Comedy Drama Romance disability
+851,5459,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),477,3.0,3,3.3235385593423623,Action|Comedy|Sci-Fi,crappy sequel,Action Comedy Sci-Fi crappy sequel
+852,5464,Road to Perdition (2002),357,4.0,2,3.854716018879717,Crime|Drama,cinematography,Crime Drama cinematography
+853,5470,The Importance of Being Earnest (1952),474,4.5,1,3.959838337025447,Comedy|Romance,Oscar Wilde,Comedy Romance Oscar Wilde
+854,5475,Z (1969),474,3.5,1,3.6634820617218034,Drama|Mystery|Thriller,In Netflix queue,Drama Mystery Thriller In Netflix queue
+855,5483,"Kid Stays in the Picture, The (2002)",474,4.5,1,3.959838337025447,Documentary,movie business,Documentary movie business
+856,5502,Signs (2002),474,4.5,1,3.959838337025447,Horror|Sci-Fi|Thriller,aliens,Horror Sci-Fi Thriller aliens
+857,5505,"Good Girl, The (2002)",474,4.5,2,4.083323139429374,Comedy|Drama,adultery,Comedy Drama adultery
+858,5527,Possession (2002),474,4.0,2,3.854716018879717,Drama|Romance,AS Byatt,Drama Romance AS Byatt
+859,5528,One Hour Photo (2002),474,4.0,2,3.854716018879717,Drama|Thriller,photography,Drama Thriller photography
+860,5548,Down and Out in Beverly Hills (1986),474,2.0,1,3.2189476487663375,Comedy,homeless,Comedy homeless
+861,5577,Igby Goes Down (2002),474,4.0,1,3.811660199373625,Comedy|Drama,adolescence,Comedy Drama adolescence
+862,5601,"Yearling, The (1946)",474,4.0,1,3.811660199373625,Children|Drama,Animal movie,Children Drama Animal movie
+863,5603,"Lavender Hill Mob, The (1951)",474,4.0,2,3.854716018879717,Comedy|Crime,crime,Comedy Crime crime
+864,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),474,4.5,1,3.959838337025447,Adventure|Animation|Fantasy,anime,Adventure Animation Fantasy anime
+865,5629,Jonah: A VeggieTales Movie (2002),474,2.0,1,3.2189476487663375,Animation|Children|Musical,Bible,Animation Children Musical Bible
+866,5630,Red Dragon (2002),474,3.5,1,3.6634820617218034,Crime|Mystery|Thriller,Hannibal Lecter,Crime Mystery Thriller Hannibal Lecter
+867,5633,Heaven (2002),474,4.0,1,3.811660199373625,Drama,bombs,Drama bombs
+868,5644,"Pride of the Yankees, The (1942)",474,4.0,2,3.854716018879717,Drama,baseball,Drama baseball
+869,5669,Bowling for Columbine (2002),474,4.0,1,3.811660199373625,Documentary,violence in america,Documentary violence in america
+870,5673,Punch-Drunk Love (2002),474,3.576923076923077,13,3.6009241773994,Comedy|Drama|Romance,pudding,Comedy Drama Romance pudding
+871,5682,"Grey Zone, The (2001)",474,4.0,1,3.811660199373625,Drama,Holocaust,Drama Holocaust
+872,5685,Real Women Have Curves (2002),474,4.5,1,3.959838337025447,Comedy|Drama,Girl Power,Comedy Drama Girl Power
+873,5690,Grave of the Fireflies (Hotaru no haka) (1988),474,4.111111111111111,9,4.032044282062557,Animation|Drama|War,made me cry,Animation Drama War made me cry
+874,5694,Staying Alive (1983),606,3.0,1,3.5153039240699813,Comedy|Drama|Musical,70mm,Comedy Drama Musical 70mm
+875,5747,Gallipoli (1981),474,4.5,1,3.959838337025447,Drama|War,World War I,Drama War World War I
+876,5791,Frida (2002),474,4.0,1,3.811660199373625,Drama|Romance,art,Drama Romance art
+877,5792,Roger Dodger (2002),474,2.5,1,3.3671257864181596,Comedy|Drama,dating,Comedy Drama dating
+878,5802,"World of Henry Orient, The (1964)",474,4.0,1,3.811660199373625,Comedy,teenagers,Comedy teenagers
+879,5812,Far from Heaven (2002),474,4.5,1,3.959838337025447,Drama|Romance,salute to Douglas Sirk,Drama Romance salute to Douglas Sirk
+880,5816,Harry Potter and the Chamber of Secrets (2002),474,4.5,2,4.083323139429374,Adventure|Fantasy,Magic,Adventure Fantasy Magic
+881,5820,Standing in the Shadows of Motown (2002),474,4.0,1,3.811660199373625,Documentary|Musical,music business,Documentary Musical music business
+882,5875,Personal Velocity (2002),474,2.5,1,3.3671257864181596,Drama,short films,Drama short films
+883,5876,"Quiet American, The (2002)",474,4.0,1,3.811660199373625,Drama|Thriller|War,Graham Greene,Drama Thriller War Graham Greene
+884,5878,Talk to Her (Hable con Ella) (2002),474,4.0,1,3.811660199373625,Drama|Romance,coma,Drama Romance coma
+885,5899,Zulu (1964),474,3.0,1,3.5153039240699813,Action|Drama|War,Africa,Action Drama War Africa
+886,5952,"Lord of the Rings: The Two Towers, The (2002)",439,4.5,2,4.083323139429374,Adventure|Fantasy,Myth,Adventure Fantasy Myth
+887,5954,25th Hour (2002),474,4.0,2,3.854716018879717,Crime|Drama,crime,Crime Drama crime
+888,5971,My Neighbor Totoro (Tonari no Totoro) (1988),474,4.0,1,3.811660199373625,Animation|Children|Drama|Fantasy,anime,Animation Children Drama Fantasy anime
+889,5989,Catch Me If You Can (2002),474,4.875,8,4.613484420918205,Crime|Drama,crime,Crime Drama crime
+890,5991,Chicago (2002),474,4.0,3,3.8817490321435826,Comedy|Crime|Drama|Musical,court,Comedy Crime Drama Musical court
+891,5994,Nicholas Nickleby (2002),474,4.0,1,3.811660199373625,Drama|Romance,Dickens,Drama Romance Dickens
+892,5995,"Pianist, The (2002)",18,4.5,3,4.160854268544193,Drama|War,holocaust,Drama War holocaust
+893,6002,Love Liza (2002),474,3.5,3,3.6026437957429724,Drama,drugs,Drama drugs
+894,6003,Confessions of a Dangerous Mind (2002),474,3.5,1,3.6634820617218034,Comedy|Crime|Drama|Thriller,television,Comedy Crime Drama Thriller television
+895,6016,City of God (Cidade de Deus) (2002),474,4.0,3,3.8817490321435826,Action|Adventure|Crime|Drama|Thriller,crime,Action Adventure Crime Drama Thriller crime
+896,6020,Alice Adams (1935),474,3.5,1,3.6634820617218034,Comedy|Drama,class,Comedy Drama class
+897,6031,Imitation of Life (1959),474,4.0,2,3.854716018879717,Drama|Romance,motherhood,Drama Romance motherhood
+898,6041,Amen. (2002),474,4.0,1,3.811660199373625,Drama,In Netflix queue,Drama In Netflix queue
+899,6058,Final Destination 2 (2003),62,3.5,2,3.6261088983300604,Horror|Thriller,sequel,Horror Thriller sequel
+900,6063,May (2002),474,2.5,1,3.3671257864181596,Drama|Horror,doll,Drama Horror doll
+901,6090,Kiss Me Goodbye (1982),474,3.5,1,3.6634820617218034,Comedy,ghosts,Comedy ghosts
+902,6101,Missing (1982),474,4.0,3,3.8817490321435826,Drama|Mystery|Thriller,Chile,Drama Mystery Thriller Chile
+903,6104,Monty Python Live at the Hollywood Bowl (1982),474,4.0,1,3.811660199373625,Comedy,spoof,Comedy spoof
+904,6107,"Night of the Shooting Stars (Notte di San Lorenzo, La) (1982)",606,4.0,1,3.811660199373625,Drama|War,World War II,Drama War World War II
+905,6156,Shanghai Knights (2003),474,3.5,1,3.6634820617218034,Action|Adventure|Comedy,England,Action Adventure Comedy England
+906,6159,All the Real Girls (2003),474,3.5,1,3.6634820617218034,Drama|Romance,adolescence,Drama Romance adolescence
+907,6163,He Loves Me... He Loves Me Not (À la folie... pas du tout) (2002),474,4.5,1,3.959838337025447,Romance|Thriller,obsession,Romance Thriller obsession
+908,6170,"Black Stallion, The (1979)",474,3.5,1,3.6634820617218034,Adventure|Children|Drama,horses,Adventure Children Drama horses
+909,6178,"Patch of Blue, A (1965)",474,4.0,3,3.8817490321435826,Drama|Romance,blind,Drama Romance blind
+910,6181,"Red Badge of Courage, The (1951)",474,4.0,2,3.854716018879717,Drama|War,Civil War,Drama War Civil War
+911,6183,Pillow Talk (1959),474,4.0,2,3.854716018879717,Comedy|Musical|Romance,Day and Hudson,Comedy Musical Romance Day and Hudson
+912,6188,Old School (2003),424,4.5,2,4.083323139429374,Comedy,comedy,Comedy comedy
+913,6195,Stone Reader (2002),474,4.0,2,3.854716018879717,Documentary,books,Documentary books
+914,6197,Spider (2002),474,3.5,1,3.6634820617218034,Drama|Mystery,mental illness,Drama Mystery mental illness
+915,6201,Lady Jane (1986),474,5.0,1,4.108016474677269,Drama|Romance,England,Drama Romance England
+916,6214,Irreversible (Irréversible) (2002),567,3.0,2,3.397501777780404,Crime|Drama|Mystery|Thriller,dark,Crime Drama Mystery Thriller dark
+917,6216,Nowhere in Africa (Nirgendwo in Afrika) (2001),474,3.5,1,3.6634820617218034,Drama,World War II,Drama World War II
+918,6218,Bend It Like Beckham (2002),474,4.0,1,3.811660199373625,Comedy|Drama|Romance,soccer,Comedy Drama Romance soccer
+919,6228,"Talk of the Town, The (1942)",474,4.0,1,3.811660199373625,Comedy|Romance|Thriller,In Netflix queue,Comedy Romance Thriller In Netflix queue
+920,6232,Born Free (1966),474,4.0,2,3.854716018879717,Adventure|Children|Drama,animal movie,Adventure Children Drama animal movie
+921,6235,Europa Europa (Hitlerjunge Salomon) (1990),474,3.5,2,3.6261088983300604,Drama|War,Holocaust,Drama War Holocaust
+922,6238,Green Card (1990),474,3.5,1,3.6634820617218034,Comedy|Drama|Romance,immigrants,Comedy Drama Romance immigrants
+923,6242,Ringu (Ring) (1998),474,3.5,1,3.6634820617218034,Horror|Mystery|Thriller,television,Horror Mystery Thriller television
+924,6244,Salaam Bombay! (1988),474,3.0,1,3.5153039240699813,Drama,In Netflix queue,Drama In Netflix queue
+925,6245,Sweet Charity (1969),474,3.5,1,3.6634820617218034,Comedy|Drama|Musical|Romance,prostitution,Comedy Drama Musical Romance prostitution
+926,6254,"Awful Truth, The (1937)",474,4.5,1,3.959838337025447,Comedy|Romance,screwball,Comedy Romance screwball
+927,6268,Raising Victor Vargas (2002),474,3.5,1,3.6634820617218034,Comedy|Drama|Romance,adolescence,Comedy Drama Romance adolescence
+928,6269,Stevie (2002),474,4.5,1,3.959838337025447,Documentary,Big Brothers,Documentary Big Brothers
+929,6273,In a Lonely Place (1950),474,3.5,1,3.6634820617218034,Drama|Film-Noir|Mystery|Romance,L.A.,Drama Film-Noir Mystery Romance L.A.
+930,6281,Phone Booth (2002),474,3.5,1,3.6634820617218034,Drama|Thriller,crime,Drama Thriller crime
+931,6283,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),184,4.0,3,3.8817490321435826,Action|Animation|Sci-Fi|Thriller,amazing artwork,Action Animation Sci-Fi Thriller amazing artwork
+932,6286,"Man Without a Past, The (Mies vailla menneisyyttä) (2002)",474,4.0,1,3.811660199373625,Comedy|Crime|Drama,amnesia,Comedy Crime Drama amnesia
+933,6288,Better Luck Tomorrow (2002),474,3.5,1,3.6634820617218034,Crime|Drama,gangs,Crime Drama gangs
+934,6289,Ghosts of the Abyss (2003),474,3.5,1,3.6634820617218034,Documentary|IMAX,Titanic,Documentary IMAX Titanic
+935,6290,House of 1000 Corpses (2003),424,4.5,1,3.959838337025447,Horror,Rob Zombie,Horror Rob Zombie
+936,6291,Lilya 4-Ever (Lilja 4-ever) (2002),474,3.25,4,3.429661528601126,Crime|Drama,prostitution,Crime Drama prostitution
+937,6296,"Mighty Wind, A (2003)",474,4.0,1,3.811660199373625,Comedy|Musical,mockumentary,Comedy Musical mockumentary
+938,6297,Holes (2003),474,3.5,1,3.6634820617218034,Adventure|Children|Comedy|Mystery,children,Adventure Children Comedy Mystery children
+939,6299,"Winged Migration (Peuple migrateur, Le) (2001)",474,3.5,1,3.6634820617218034,Documentary,birds,Documentary birds
+940,6305,Fahrenheit 451 (1966),474,4.5,1,3.959838337025447,Drama|Sci-Fi,Ray Bradbury,Drama Sci-Fi Ray Bradbury
+941,6308,Legal Eagles (1986),474,2.0,1,3.2189476487663375,Comedy|Crime|Romance,lawyers,Comedy Crime Romance lawyers
+942,6323,Identity (2003),132,3.0,1,3.5153039240699813,Crime|Horror|Mystery|Thriller,John Cusack,Crime Horror Mystery Thriller John Cusack
+943,6327,"Decade Under the Influence, A (2003)",474,3.5,2,3.6261088983300604,Documentary,1970s,Documentary 1970s
+944,6331,Spellbound (2002),474,4.0,1,3.811660199373625,Documentary,spelling bee,Documentary spelling bee
+945,6333,X2: X-Men United (2003),474,5.0,5,4.591848961180595,Action|Adventure|Sci-Fi|Thriller,Jean Grey,Action Adventure Sci-Fi Thriller Jean Grey
+946,6334,Blue Car (2002),474,4.0,1,3.811660199373625,Drama,teachers,Drama teachers
+947,6337,Owning Mahowny (2003),474,3.5,1,3.6634820617218034,Crime|Drama|Thriller,gambling,Crime Drama Thriller gambling
+948,6339,"Man on the Train (Homme du train, L') (2002)",474,3.5,1,3.6634820617218034,Comedy|Drama,trains,Comedy Drama trains
+949,6341,"Shape of Things, The (2003)",474,3.5,1,3.6634820617218034,Drama,art,Drama art
+950,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),474,4.0,1,3.811660199373625,Action|Adventure|Animation|Children|Fantasy|Sci-Fi,anime,Action Adventure Animation Children Fantasy Sci-Fi anime
+951,6367,Down with Love (2003),132,3.3333333333333335,3,3.509608716942769,Comedy|Romance,Ewan McGregor,Comedy Romance Ewan McGregor
+952,6368,Cinemania (2002),474,3.5,1,3.6634820617218034,Documentary,movies,Documentary movies
+953,6373,Bruce Almighty (2003),474,3.5,2,3.6261088983300604,Comedy|Drama|Fantasy|Romance,religion,Comedy Drama Fantasy Romance religion
+954,6377,Finding Nemo (2003),474,3.6666666666666665,3,3.695678874543176,Adventure|Animation|Children|Comedy,Disney,Adventure Animation Children Comedy Disney
+955,6378,"Italian Job, The (2003)",474,3.5,1,3.6634820617218034,Action|Crime,heist,Action Crime heist
+956,6380,Capturing the Friedmans (2003),474,4.5,1,3.959838337025447,Documentary,child abuse,Documentary child abuse
+957,6385,Whale Rider (2002),474,5.0,1,4.108016474677269,Drama,Girl Power,Drama Girl Power
+958,6390,Silk Stockings (1957),474,3.5,1,3.6634820617218034,Musical,Ninotchka remake,Musical Ninotchka remake
+959,6400,Murder on a Sunday Morning (Un coupable idéal) (2001),474,3.5,1,3.6634820617218034,Documentary,crime,Documentary crime
+960,6407,"Walk, Don't Run (1966)",474,2.0,2,2.940287536681091,Comedy|Romance,Olympics,Comedy Romance Olympics
+961,6422,Shenandoah (1965),474,4.0,1,3.811660199373625,Drama|War|Western,Civil War,Drama War Western Civil War
+962,6440,Barton Fink (1991),474,3.5,1,3.6634820617218034,Drama|Thriller,movie business,Drama Thriller movie business
+963,6454,Music Box (1989),474,3.5,1,3.6634820617218034,Drama,Nazis,Drama Nazis
+964,6466,Mississippi Masala (1991),474,4.5,1,3.959838337025447,Drama|Romance,In Netflix queue,Drama Romance In Netflix queue
+965,6502,28 Days Later (2002),305,4.75,2,4.197626699704202,Action|Horror|Sci-Fi,zombies,Action Horror Sci-Fi zombies
+966,6515,You Only Live Once (1937),474,4.5,1,3.959838337025447,Crime|Film-Noir,fugitive,Crime Film-Noir fugitive
+967,6534,Hulk (2003),62,3.5,4,3.5865410828231576,Action|Adventure|Sci-Fi,dogs,Action Adventure Sci-Fi dogs
+968,6535,"Legally Blonde 2: Red, White & Blonde (2003)",474,2.0,1,3.2189476487663375,Comedy,politics,Comedy politics
+969,6536,Sinbad: Legend of the Seven Seas (2003),474,3.5,1,3.6634820617218034,Adventure|Animation|Children|Fantasy,swashbuckler,Adventure Animation Children Fantasy swashbuckler
+970,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),474,3.5,1,3.6634820617218034,Action|Adventure|Comedy|Fantasy,swashbuckler,Action Adventure Comedy Fantasy swashbuckler
+971,6541,"League of Extraordinary Gentlemen, The (a.k.a. LXG) (2003)",62,3.5,6,3.5658728698944295,Action|Fantasy|Sci-Fi,captain nemo,Action Fantasy Sci-Fi captain nemo
+972,6545,I Capture the Castle (2003),474,4.5,1,3.959838337025447,Drama|Romance,Dodie Smith,Drama Romance Dodie Smith
+973,6547,Northfork (2003),474,2.5,1,3.3671257864181596,Drama|Fantasy,flood,Drama Fantasy flood
+974,6552,Dirty Pretty Things (2002),474,4.0,1,3.811660199373625,Crime|Drama|Thriller,immigration,Crime Drama Thriller immigration
+975,6564,Lara Croft Tomb Raider: The Cradle of Life (2003),62,3.5,3,3.6026437957429724,Action|Adventure|Comedy|Romance|Thriller,adventure,Action Adventure Comedy Romance Thriller adventure
+976,6565,Seabiscuit (2003),474,3.5,1,3.6634820617218034,Drama,horses,Drama horses
+977,6579,"One, Two, Three (1961)",474,3.5,1,3.6634820617218034,Comedy,Japan,Comedy Japan
+978,6591,"Magdalene Sisters, The (2002)",474,4.0,1,3.811660199373625,Drama,religion,Drama religion
+979,6592,"Secret Lives of Dentists, The (2002)",474,4.0,1,3.811660199373625,Drama,marriage,Drama marriage
+980,6603,"Double Life, A (1947)",474,2.5,1,3.3671257864181596,Crime|Drama|Film-Noir,Othello,Crime Drama Film-Noir Othello
+981,6609,"Gospel According to St. Matthew, The (Vangelo secondo Matteo, Il) (1964)",474,3.5,1,3.6634820617218034,Drama,Bible,Drama Bible
+982,6620,American Splendor (2003),474,4.5,1,3.959838337025447,Comedy|Drama,cancer,Comedy Drama cancer
+983,6636,"Sure Thing, The (1985)",474,3.5,1,3.6634820617218034,Comedy|Romance,road trip,Comedy Romance road trip
+984,6639,Wait Until Dark (1967),474,3.5,1,3.6634820617218034,Drama|Thriller,blindness,Drama Thriller blindness
+985,6650,Kind Hearts and Coronets (1949),474,4.0,3,3.8817490321435826,Comedy|Drama,family,Comedy Drama family
+986,6660,"Red Shoes, The (1948)",474,3.5,1,3.6634820617218034,Drama|Fantasy|Musical|Romance,ballet,Drama Fantasy Musical Romance ballet
+987,6662,"Pink Panther, The (1963)",474,2.5,1,3.3671257864181596,Comedy|Crime,Clousseau,Comedy Crime Clousseau
+988,6667,Waco: The Rules of Engagement (1997),474,3.5,1,3.6634820617218034,Documentary,FBI,Documentary FBI
+989,6669,Ikiru (1952),474,3.6,5,3.642608501751177,Drama,terminal illness,Drama terminal illness
+990,6708,Matchstick Men (2003),474,3.5,2,3.6261088983300604,Comedy|Crime|Drama,con men,Comedy Crime Drama con men
+991,6710,Dummy (2002),474,3.5,1,3.6634820617218034,Comedy|Drama|Romance,vertriloquism,Comedy Drama Romance vertriloquism
+992,6711,Lost in Translation (2003),300,4.25,2,3.9690195791545455,Comedy|Drama|Romance,atmospheric,Comedy Drama Romance atmospheric
+993,6713,Millennium Actress (Sennen joyû) (2001),474,3.5,1,3.6634820617218034,Animation|Drama|Romance,In Netflix queue,Animation Drama Romance In Netflix queue
+994,6724,Paper Moon (1973),474,3.5,1,3.6634820617218034,Comedy|Crime|Drama,In Netflix queue,Comedy Crime Drama In Netflix queue
+995,6732,"Hello, Dolly! (1969)",474,2.5,1,3.3671257864181596,Comedy|Musical|Romance,matchmaker,Comedy Musical Romance matchmaker
+996,6744,Once Bitten (1985),474,2.5,1,3.3671257864181596,Comedy|Horror,vampire,Comedy Horror vampire
+997,6753,Secondhand Lions (2003),474,3.5,1,3.6634820617218034,Children|Comedy|Drama,Animal movie,Children Comedy Drama Animal movie
+998,6768,Luther (2003),474,4.0,1,3.811660199373625,Drama,religion,Drama religion
+999,6770,My Life Without Me (2003),474,3.5,2,3.6261088983300604,Drama|Romance,adultery,Drama Romance adultery
+1000,6773,"Triplets of Belleville, The (Les triplettes de Belleville) (2003)",474,3.5,1,3.6634820617218034,Animation|Comedy|Fantasy,biking,Animation Comedy Fantasy biking
+1001,6776,Lagaan: Once Upon a Time in India (2001),474,4.5,1,3.959838337025447,Comedy|Drama|Musical|Romance,India,Comedy Drama Musical Romance India
+1002,6785,Seven Brides for Seven Brothers (1954),474,4.5,1,3.959838337025447,Comedy|Musical|Romance|Western,Lonesome Polecat,Comedy Musical Romance Western Lonesome Polecat
+1003,6787,All the President's Men (1976),474,4.166666666666667,3,3.974784110943786,Drama|Thriller,journalism,Drama Thriller journalism
+1004,6788,Angie (1994),474,2.0,1,3.2189476487663375,Comedy|Drama|Romance,pregnancy,Comedy Drama Romance pregnancy
+1005,6791,Babette's Feast (Babettes gæstebud) (1987),474,5.0,1,4.108016474677269,Drama,Food,Drama Food
+1006,6807,Monty Python's The Meaning of Life (1983),474,3.5,1,3.6634820617218034,Comedy,british comedy,Comedy british comedy
+1007,6810,Sleeping with the Enemy (1991),474,3.5,1,3.6634820617218034,Drama|Thriller,domestic violence,Drama Thriller domestic violence
+1008,6818,Come and See (Idi i smotri) (1985),567,5.0,5,4.591848961180595,Drama|War,atmospheric,Drama War atmospheric
+1009,6820,Ginger Snaps (2000),474,4.0,1,3.811660199373625,Drama|Horror|Thriller,werewolf,Drama Horror Thriller werewolf
+1010,6832,Regarding Henry (1991),474,3.5,1,3.6634820617218034,Drama,amnesia,Drama amnesia
+1011,6852,In Cold Blood (1967),474,3.5,5,3.574805611791933,Crime|Drama,black and white,Crime Drama black and white
+1012,6856,Yankee Doodle Dandy (1942),474,4.0,1,3.811660199373625,Drama|Musical,biopic,Drama Musical biopic
+1013,6863,School of Rock (2003),474,3.5,1,3.6634820617218034,Comedy|Musical,school,Comedy Musical school
+1014,6867,"Station Agent, The (2003)",474,4.0,1,3.811660199373625,Comedy|Drama,trains,Comedy Drama trains
+1015,6870,Mystic River (2003),474,3.5,2,3.6261088983300604,Crime|Drama|Mystery,child abuse,Crime Drama Mystery child abuse
+1016,6874,Kill Bill: Vol. 1 (2003),474,4.0,2,3.854716018879717,Action|Crime|Thriller,martial arts,Action Crime Thriller martial arts
+1017,6881,Pieces of April (2003),474,4.5,1,3.959838337025447,Comedy|Drama,Thanksgiving,Comedy Drama Thanksgiving
+1018,6890,Elephant (2003),474,4.0,2,3.854716018879717,Drama,adolescence,Drama adolescence
+1019,6909,"Eye, The (Gin gwai) (Jian gui) (2002)",474,4.0,1,3.811660199373625,Thriller,transplants,Thriller transplants
+1020,6912,You'll Never Get Rich (1941),474,3.5,1,3.6634820617218034,Comedy|Musical|Romance,Rita Hayworth can dance!,Comedy Musical Romance Rita Hayworth can dance!
+1021,6918,"Unvanquished, The (Aparajito) (1957)",474,4.0,1,3.811660199373625,Drama,India,Drama India
+1022,6932,Shattered Glass (2003),474,4.5,1,3.959838337025447,Crime|Drama,journalism,Crime Drama journalism
+1023,6936,Elf (2003),474,4.0,1,3.811660199373625,Children|Comedy|Fantasy,christmas,Children Comedy Fantasy christmas
+1024,6938,Billabong Odyssey (2003),226,4.0,2,3.854716018879717,Documentary,big wave,Documentary big wave
+1025,6944,Father of the Bride (1991),474,2.0,2,2.940287536681091,Comedy,remake,Comedy remake
+1026,6948,Tupac: Resurrection (2003),474,4.0,2,3.854716018879717,Documentary,music business,Documentary music business
+1027,6953,21 Grams (2003),305,1.0,1,2.922591373462694,Crime|Drama|Mystery|Romance|Thriller,DEPRESSING,Crime Drama Mystery Romance Thriller DEPRESSING
+1028,6963,Devil's Playground (2002),474,4.5,1,3.959838337025447,Documentary,Amish,Documentary Amish
+1029,6970,Desk Set (1957),474,3.5,1,3.6634820617218034,Comedy|Romance,Hepburn and Tracy,Comedy Romance Hepburn and Tracy
+1030,6979,WarGames (1983),474,4.0,1,3.811660199373625,Drama|Sci-Fi|Thriller,Cold War,Drama Sci-Fi Thriller Cold War
+1031,6981,"Ordet (Word, The) (1955)",474,4.0,1,3.811660199373625,Drama,religion,Drama religion
+1032,6984,"Tale of Two Cities, A (1935)",474,4.0,1,3.811660199373625,Drama,Dickens,Drama Dickens
+1033,6985,"Passion of Joan of Arc, The (Passion de Jeanne d'Arc, La) (1928)",474,4.5,1,3.959838337025447,Drama,saint,Drama saint
+1034,6993,Hannah and Her Sisters (1986),474,4.0,1,3.811660199373625,Comedy|Drama|Romance,family,Comedy Drama Romance family
+1035,7013,"Night of the Hunter, The (1955)",474,4.5,1,3.959838337025447,Drama|Film-Noir|Thriller,good and evil,Drama Film-Noir Thriller good and evil
+1036,7018,Presumed Innocent (1990),474,2.5,2,3.1688946572307475,Crime|Drama|Thriller,court,Crime Drama Thriller court
+1037,7022,Battle Royale (Batoru rowaiaru) (2000),125,5.0,10,4.756767574790556,Action|Drama|Horror|Thriller,based on a book,Action Drama Horror Thriller based on a book
+1038,7024,"Salo, or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma) (1976)",567,4.0,7,3.9322064547439304,Drama,bleak,Drama bleak
+1039,7049,Flying Down to Rio (1933),474,3.0,1,3.5153039240699813,Comedy|Musical|Romance,Astaire and Rogers,Comedy Musical Romance Astaire and Rogers
+1040,7050,Follow the Fleet (1936),474,3.5,1,3.6634820617218034,Comedy|Musical|Romance,Astaire and Rogers,Comedy Musical Romance Astaire and Rogers
+1041,7053,Roberta (1935),474,4.0,1,3.811660199373625,Comedy|Musical|Romance,Astaire and Rogers,Comedy Musical Romance Astaire and Rogers
+1042,7055,Swing Time (1936),474,4.0,1,3.811660199373625,Comedy|Musical|Romance,Astaire and Rogers,Comedy Musical Romance Astaire and Rogers
+1043,7059,National Velvet (1944),474,4.0,1,3.811660199373625,Children|Drama,horses,Children Drama horses
+1044,7061,Dark Victory (1939),474,4.0,1,3.811660199373625,Drama|Romance,terminal illness,Drama Romance terminal illness
+1045,7062,Birdman of Alcatraz (1962),474,4.0,2,3.854716018879717,Drama,birds,Drama birds
+1046,7069,"Macbeth (a.k.a. Tragedy of Macbeth, The) (1971)",474,3.5,2,3.6261088983300604,Drama,In Netflix queue,Drama In Netflix queue
+1047,7070,Red River (1948),474,4.0,1,3.811660199373625,Action|Adventure|Western,cattle drive,Action Adventure Western cattle drive
+1048,7073,"Shot in the Dark, A (1964)",474,2.5,1,3.3671257864181596,Comedy|Crime|Mystery,Clousseau,Comedy Crime Mystery Clousseau
+1049,7078,Jezebel (1938),357,5.0,2,4.31193025997903,Drama,Bette Davis,Drama Bette Davis
+1050,7079,"Hunchback of Notre Dame, The (1939)",474,2.5,1,3.3671257864181596,Drama,disability,Drama disability
+1051,7086,Pygmalion (1938),474,3.5,1,3.6634820617218034,Comedy|Drama,George Bernard Shaw,Comedy Drama George Bernard Shaw
+1052,7087,"Passage to India, A (1984)",474,4.0,1,3.811660199373625,Adventure|Drama,E.M. Forster,Adventure Drama E.M. Forster
+1053,7090,Hero (Ying xiong) (2002),474,4.0,1,3.811660199373625,Action|Adventure|Drama,martial arts,Action Adventure Drama martial arts
+1054,7121,Adam's Rib (1949),474,5.0,1,4.108016474677269,Comedy|Romance,Hepburn and Tracy,Comedy Romance Hepburn and Tracy
+1055,7132,"Night at the Opera, A (1935)",474,3.5,2,3.6261088983300604,Comedy|Musical|Romance,Marx brothers,Comedy Musical Romance Marx brothers
+1056,7139,In America (2002),474,4.0,1,3.811660199373625,Drama|Romance,immigrants,Drama Romance immigrants
+1057,7141,My Flesh and Blood (2003),474,4.0,1,3.811660199373625,Documentary,In Netflix queue,Documentary In Netflix queue
+1058,7147,Big Fish (2003),193,3.5,4,3.5865410828231576,Drama|Fantasy|Romance,dreamlike,Drama Fantasy Romance dreamlike
+1059,7153,"Lord of the Rings: The Return of the King, The (2003)",62,5.0,10,4.756767574790556,Action|Adventure|Drama|Fantasy,Adventure,Action Adventure Drama Fantasy Adventure
+1060,7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",474,4.0,1,3.811660199373625,Documentary|War,Vietnam,Documentary War Vietnam
+1061,7158,House of Sand and Fog (2003),474,4.5,1,3.959838337025447,Drama,real estate,Drama real estate
+1062,7160,Monster (2003),474,4.0,1,3.811660199373625,Crime|Drama,serial killer,Crime Drama serial killer
+1063,7162,Cold Mountain (2003),474,4.0,1,3.811660199373625,Drama|Romance|War,Civil War,Drama Romance War Civil War
+1064,7190,Jane Eyre (1970),474,3.5,1,3.6634820617218034,Drama,Charlotte Bronte,Drama Charlotte Bronte
+1065,7212,I Was a Male War Bride (1949),474,4.0,2,3.854716018879717,Comedy|Romance,cross dressing,Comedy Romance cross dressing
+1066,7217,Dark Passage (1947),474,4.0,1,3.811660199373625,Crime|Drama|Film-Noir|Romance|Thriller,amnesia,Crime Drama Film-Noir Romance Thriller amnesia
+1067,7219,They Drive by Night (1940),474,4.0,1,3.811660199373625,Drama,truckers,Drama truckers
+1068,7234,"Strada, La (1954)",474,4.5,1,3.959838337025447,Drama,circus,Drama circus
+1069,7254,The Butterfly Effect (2004),125,5.0,4,4.527818408155348,Drama|Sci-Fi|Thriller,alternate reality,Drama Sci-Fi Thriller alternate reality
+1070,7256,Touching the Void (2003),474,4.0,1,3.811660199373625,Adventure|Documentary,mountain climbing,Adventure Documentary mountain climbing
+1071,7285,Thirteen (2003),474,4.0,1,3.811660199373625,Drama,adolescence,Drama adolescence
+1072,7301,Diary of a Country Priest (Journal d'un curé de campagne) (1951),474,3.5,2,3.6261088983300604,Drama,priest,Drama priest
+1073,7318,"Passion of the Christ, The (2004)",474,4.0,1,3.811660199373625,Drama,religion,Drama religion
+1074,7323,"Good bye, Lenin! (2003)",474,4.0,1,3.811660199373625,Comedy|Drama,Cold War,Comedy Drama Cold War
+1075,7361,Eternal Sunshine of the Spotless Mind (2004),474,4.816666666666666,30,4.737142404103842,Drama|Romance|Sci-Fi,memory,Drama Romance Sci-Fi memory
+1076,7371,Dogville (2003),474,4.5,1,3.959838337025447,Drama|Mystery|Thriller,Grace,Drama Mystery Thriller Grace
+1077,7382,I'm Not Scared (Io non ho paura) (2003),474,4.166666666666667,3,3.974784110943786,Drama|Mystery|Thriller,adolescence,Drama Mystery Thriller adolescence
+1078,7438,Kill Bill: Vol. 2 (2004),474,4.5,1,3.959838337025447,Action|Drama|Thriller,revenge,Action Drama Thriller revenge
+1079,7439,"Punisher, The (2004)",477,3.0,1,3.5153039240699813,Action|Crime|Thriller,comic book,Action Crime Thriller comic book
+1080,7440,Paper Clips (2004),474,4.0,1,3.811660199373625,Documentary,Holocaust,Documentary Holocaust
+1081,7444,13 Going on 30 (2004),357,4.5,1,3.959838337025447,Comedy|Fantasy|Romance,Mark Ruffalo,Comedy Fantasy Romance Mark Ruffalo
+1082,7451,Mean Girls (2004),357,4.5,4,4.214059299711285,Comedy,clever,Comedy clever
+1083,7479,Watch on the Rhine (1943),474,4.0,1,3.811660199373625,Drama,World War II,Drama World War II
+1084,7493,"Three Faces of Eve, The (1957)",474,4.0,1,3.811660199373625,Drama,multiple personalities,Drama multiple personalities
+1085,7572,Wit (2001),474,4.5,1,3.959838337025447,Drama,cancer,Drama cancer
+1086,7584,Woman of the Year (1942),474,4.0,2,3.854716018879717,Comedy|Romance,Hepburn and Tracy,Comedy Romance Hepburn and Tracy
+1087,7614,Oklahoma! (1955),474,4.0,1,3.811660199373625,Musical|Romance|Western,Rogers and Hammerstein,Musical Romance Western Rogers and Hammerstein
+1088,7618,Chaplin (1992),474,3.5,2,3.6261088983300604,Drama,biopic,Drama biopic
+1089,7619,"Miracle Worker, The (1962)",474,4.0,2,3.854716018879717,Drama,blindness,Drama blindness
+1090,7646,Rose Red (2002),474,2.0,1,3.2189476487663375,Horror|Mystery|Thriller,Stephen King,Horror Mystery Thriller Stephen King
+1091,7649,Babylon 5: In the Beginning (1998),474,4.0,1,3.811660199373625,Adventure|Sci-Fi,space station,Adventure Sci-Fi space station
+1092,7700,"Wages of Fear, The (Salaire de la peur, Le) (1953)",474,4.0,1,3.811660199373625,Action|Adventure|Drama|Thriller,In Netflix queue,Action Adventure Drama Thriller In Netflix queue
+1093,7705,Pat and Mike (1952),474,4.0,2,3.854716018879717,Comedy|Romance,Hepburn and Tracy,Comedy Romance Hepburn and Tracy
+1094,7713,Cat People (1942),474,4.0,1,3.811660199373625,Drama|Horror|Romance|Thriller,sexuality,Drama Horror Romance Thriller sexuality
+1095,7714,Camelot (1967),474,4.0,1,3.811660199373625,Drama|Musical|Romance,King Arthur,Drama Musical Romance King Arthur
+1096,7728,"Postman Always Rings Twice, The (1946)",474,4.0,1,3.811660199373625,Crime|Drama|Film-Noir|Thriller,adultery,Crime Drama Film-Noir Thriller adultery
+1097,7766,Throne of Blood (Kumonosu jô) (1957),474,4.0,1,3.811660199373625,Action|Drama|Thriller|War,MacBeth,Action Drama Thriller War MacBeth
+1098,7789,"11'09""01 - September 11 (2002)",474,4.0,1,3.811660199373625,Drama,terrorism,Drama terrorism
+1099,7831,Another Thin Man (1939),474,3.5,1,3.6634820617218034,Comedy|Crime|Drama|Mystery|Romance,Nick and Nora Charles,Comedy Crime Drama Mystery Romance Nick and Nora Charles
+1100,7832,"Thin Man Goes Home, The (1945)",474,3.5,1,3.6634820617218034,Comedy|Crime|Mystery,Nick and Nora Charles,Comedy Crime Mystery Nick and Nora Charles
+1101,7833,Shadow of the Thin Man (1941),474,3.5,1,3.6634820617218034,Comedy|Crime|Mystery,Nick and Nora Charles,Comedy Crime Mystery Nick and Nora Charles
+1102,7834,After the Thin Man (1936),474,4.0,1,3.811660199373625,Comedy|Crime|Mystery|Romance,Nick and Nora Charles,Comedy Crime Mystery Romance Nick and Nora Charles
+1103,7835,Song of the Thin Man (1947),474,3.5,1,3.6634820617218034,Comedy|Crime|Drama|Musical|Mystery|Romance,Nick and Nora Charles,Comedy Crime Drama Musical Mystery Romance Nick and Nora Charles
+1104,7932,Dark Days (2000),474,4.0,6,3.924111042814494,Documentary,Amtrak,Documentary Amtrak
+1105,7934,Zelig (1983),474,4.0,1,3.811660199373625,Comedy,psychology,Comedy psychology
+1106,7981,Infernal Affairs (Mou gaan dou) (2002),474,4.0,1,3.811660199373625,Crime|Drama|Thriller,police,Crime Drama Thriller police
+1107,7983,Broadway Danny Rose (1984),474,4.0,1,3.811660199373625,Comedy,show business,Comedy show business
+1108,8011,"Weather Underground, The (2002)",474,4.0,1,3.811660199373625,Documentary,politics,Documentary politics
+1109,8019,Dark Water (Honogurai mizu no soko kara) (2002),474,4.0,1,3.811660199373625,Drama|Horror|Mystery|Thriller,remade,Drama Horror Mystery Thriller remade
+1110,8094,Bad Day at Black Rock (1955),474,3.5,1,3.6634820617218034,Drama|Thriller|Western,In Netflix queue,Drama Thriller Western In Netflix queue
+1111,8153,Lust for Life (1956),474,2.5,1,3.3671257864181596,Drama,Van Gogh,Drama Van Gogh
+1112,8167,Captain Blood (1935),474,4.0,1,3.811660199373625,Action|Adventure|Romance,swashbuckler,Action Adventure Romance swashbuckler
+1113,8191,Anne of the Thousand Days (1969),474,4.0,1,3.811660199373625,Drama,Anne Boleyn,Drama Anne Boleyn
+1114,8207,"Day of the Jackal, The (1973)",474,4.0,1,3.811660199373625,Crime|Thriller,assassination,Crime Thriller assassination
+1115,8228,"Maltese Falcon, The (a.k.a. Dangerous Female) (1931)",474,4.0,1,3.811660199373625,Mystery,heist,Mystery heist
+1116,8235,Safety Last! (1923),474,5.0,1,4.108016474677269,Action|Comedy|Romance,Clock,Action Comedy Romance Clock
+1117,8266,Purple Rain (1984),474,2.5,1,3.3671257864181596,Drama|Musical,Prince,Drama Musical Prince
+1118,8275,College (1927),474,3.5,1,3.6634820617218034,Comedy,In Netflix queue,Comedy In Netflix queue
+1119,8335,Make Way for Tomorrow (1937),567,3.5,1,3.6634820617218034,Drama,heartbreaking,Drama heartbreaking
+1120,8337,"Caine Mutiny, The (1954)",474,4.0,1,3.811660199373625,Drama|War,military,Drama War military
+1121,8338,Black Narcissus (1947),474,4.0,2,3.854716018879717,Drama,convent,Drama convent
+1122,8341,Oliver Twist (1948),474,3.5,1,3.6634820617218034,Adventure|Crime|Drama,Dickens,Adventure Crime Drama Dickens
+1123,8360,Shrek 2 (2004),474,4.0,1,3.811660199373625,Adventure|Animation|Children|Comedy|Musical|Romance,ogres,Adventure Animation Children Comedy Musical Romance ogres
+1124,8366,Saved! (2004),474,4.0,2,3.854716018879717,Comedy|Drama,pregnancy,Comedy Drama pregnancy
+1125,8368,Harry Potter and the Prisoner of Azkaban (2004),474,5.0,2,4.31193025997903,Adventure|Fantasy|IMAX,Magic,Adventure Fantasy IMAX Magic
+1126,8375,"Hunting of the President, The (2004)",474,2.5,1,3.3671257864181596,Documentary,politics,Documentary politics
+1127,8376,Napoleon Dynamite (2004),474,4.0,1,3.811660199373625,Comedy,high school,Comedy high school
+1128,8382,Hello Again (1987),474,2.5,1,3.3671257864181596,Comedy,death,Comedy death
+1129,8424,"Divorcee, The (1930)",474,4.0,1,3.811660199373625,Drama|Romance,divorce,Drama Romance divorce
+1130,8446,Sands of Iwo Jima (1949),474,2.5,1,3.3671257864181596,Action|Drama|Romance|War,World War II,Action Drama Romance War World War II
+1131,8463,Johnny Belinda (1948),474,4.0,1,3.811660199373625,Drama,deafness,Drama deafness
+1132,8464,Super Size Me (2004),474,4.0,2,3.854716018879717,Comedy|Documentary|Drama,food,Comedy Documentary Drama food
+1133,8477,"Jetée, La (1962)",567,5.0,1,4.108016474677269,Romance|Sci-Fi,post-apocalyptic,Romance Sci-Fi post-apocalyptic
+1134,8507,Freaks (1932),474,4.0,1,3.811660199373625,Crime|Drama|Horror,circus,Crime Drama Horror circus
+1135,8530,Dear Frankie (2004),474,4.0,1,3.811660199373625,Drama|Romance,Ireland,Drama Romance Ireland
+1136,8533,"Notebook, The (2004)",537,1.5,3,2.4862228501405323,Drama|Romance,memory loss,Drama Romance memory loss
+1137,8607,Tokyo Godfathers (2003),474,4.0,1,3.811660199373625,Adventure|Animation|Drama,In Netflix queue,Adventure Animation Drama In Netflix queue
+1138,8609,Our Hospitality (1923),474,3.5,1,3.6634820617218034,Comedy,In Netflix queue,Comedy In Netflix queue
+1139,8622,Fahrenheit 9/11 (2004),474,4.0,2,3.854716018879717,Documentary,politics,Documentary politics
+1140,8636,Spider-Man 2 (2004),474,5.0,1,4.108016474677269,Action|Adventure|Sci-Fi|IMAX,Doc Ock,Action Adventure Sci-Fi IMAX Doc Ock
+1141,8638,Before Sunset (2004),474,4.0,1,3.811660199373625,Drama|Romance,generation X,Drama Romance generation X
+1142,8641,Anchorman: The Legend of Ron Burgundy (2004),62,4.142857142857143,7,4.038880893683015,Comedy,hilarious,Comedy hilarious
+1143,8645,"Maria Full of Grace (Maria, Llena eres de gracia) (2004)",474,4.0,2,3.854716018879717,Crime|Drama,drugs,Crime Drama drugs
+1144,8695,"Bachelor and the Bobby-Soxer, The (1947)",474,2.5,1,3.3671257864181596,Comedy,court,Comedy court
+1145,8714,Night and Day (1946),474,2.5,1,3.3671257864181596,Drama|Musical,Cole Porter,Drama Musical Cole Porter
+1146,8754,"Prime of Miss Jean Brodie, The (1969)",474,4.0,1,3.811660199373625,Drama,Oscar (Best Actress),Drama Oscar (Best Actress)
+1147,8783,"Village, The (2004)",477,4.5,3,4.160854268544193,Drama|Mystery|Thriller,Atmospheric,Drama Mystery Thriller Atmospheric
+1148,8784,Garden State (2004),474,4.0,1,3.811660199373625,Comedy|Drama|Romance,psychology,Comedy Drama Romance psychology
+1149,8796,"Funny Thing Happened on the Way to the Forum, A (1966)",474,2.5,1,3.3671257864181596,Comedy|Musical,Rome,Comedy Musical Rome
+1150,8809,Danny Deckchair (2003),474,4.0,1,3.811660199373625,Comedy|Romance,Australia,Comedy Romance Australia
+1151,8827,"Bill Cosby, Himself (1983)",474,4.0,1,3.811660199373625,Comedy|Documentary,Stand Up,Comedy Documentary Stand Up
+1152,8874,Shaun of the Dead (2004),474,4.0,1,3.811660199373625,Comedy|Horror,zombies,Comedy Horror zombies
+1153,8875,"Come Back, Little Sheba (1952)",474,4.0,2,3.854716018879717,Drama,alcoholism,Drama alcoholism
+1154,8879,Murder on the Orient Express (1974),474,3.0,3,3.3235385593423623,Crime|Mystery|Thriller,Agatha Christie,Crime Mystery Thriller Agatha Christie
+1155,8880,Mask (1985),474,4.0,1,3.811660199373625,Drama,disability,Drama disability
+1156,8914,Primer (2004),474,4.0,1,3.811660199373625,Drama|Sci-Fi,time travel,Drama Sci-Fi time travel
+1157,8920,"Country Girl, The (1954)",474,3.5,1,3.6634820617218034,Drama,Oscar (Best Actress),Drama Oscar (Best Actress)
+1158,8938,Tarnation (2003),474,4.0,2,3.854716018879717,Documentary,parenthood,Documentary parenthood
+1159,8943,Being Julia (2004),474,2.5,1,3.3671257864181596,Comedy|Drama,stage,Comedy Drama stage
+1160,8949,Sideways (2004),474,4.0,1,3.811660199373625,Comedy|Drama|Romance,wine,Comedy Drama Romance wine
+1161,8950,The Machinist (2004),424,4.428571428571429,7,4.2522297715611845,Drama|Mystery|Thriller,Christian Bale,Drama Mystery Thriller Christian Bale
+1162,8951,Vera Drake (2004),474,4.0,1,3.811660199373625,Drama,abortion,Drama abortion
+1163,8957,Saw (2004),125,5.0,7,4.678927527317524,Horror|Mystery|Thriller,brutal,Horror Mystery Thriller brutal
+1164,8958,Ray (2004),474,4.0,1,3.811660199373625,Drama,biopic,Drama biopic
+1165,8961,"Incredibles, The (2004)",474,4.0,4,3.9003001912672213,Action|Adventure|Animation|Children|Comedy,Disney,Action Adventure Animation Children Comedy Disney
+1166,8970,Finding Neverland (2004),474,4.0,1,3.811660199373625,Drama,Peter Pan,Drama Peter Pan
+1167,8979,Guerrilla: The Taking of Patty Hearst (2004),474,4.0,1,3.811660199373625,Documentary,Hearst,Documentary Hearst
+1168,8983,House of Flying Daggers (Shi mian mai fu) (2004),474,4.0,1,3.811660199373625,Action|Drama|Romance,martial arts,Action Drama Romance martial arts
+1169,9010,Love Me If You Dare (Jeux d'enfants) (2003),125,5.0,1,4.108016474677269,Drama|Romance,cruel characters,Drama Romance cruel characters
+1170,9018,Control Room (2004),474,4.0,1,3.811660199373625,Documentary|War,journalism,Documentary War journalism
+1171,25753,Greed (1924),474,4.0,1,3.811660199373625,Drama,gold,Drama gold
+1172,25771,"Andalusian Dog, An (Chien andalou, Un) (1929)",567,5.0,3,4.439959504944802,Fantasy,mindfuck,Fantasy mindfuck
+1173,25825,Fury (1936),474,4.5,1,3.959838337025447,Drama|Film-Noir,revenge,Drama Film-Noir revenge
+1174,25841,Stage Door (1937),474,4.0,1,3.811660199373625,Drama,show business,Drama show business
+1175,25865,"Letter, The (1940)",474,4.0,1,3.811660199373625,Drama|Film-Noir,In Netflix queue,Drama Film-Noir In Netflix queue
+1176,25886,Random Harvest (1942),474,4.5,1,3.959838337025447,Drama|Romance,made me cry,Drama Romance made me cry
+1177,25940,"Lady from Shanghai, The (1947)",474,3.5,1,3.6634820617218034,Drama|Film-Noir|Mystery,mirrors,Drama Film-Noir Mystery mirrors
+1178,25952,"Letter to Three Wives, A (1949)",474,4.0,1,3.811660199373625,Comedy|Drama,In Netflix queue,Comedy Drama In Netflix queue
+1179,26151,Au Hasard Balthazar (1966),474,3.5,1,3.6634820617218034,Crime|Drama,donkey,Crime Drama donkey
+1180,26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),474,4.0,1,3.811660199373625,Adventure|Animation|Children|Drama|Fantasy,anime,Adventure Animation Children Drama Fantasy anime
+1181,26717,Begotten (1990),567,0.5,3,1.9280123773393123,Drama|Horror,boring,Drama Horror boring
+1182,26776,Porco Rosso (Crimson Pig) (Kurenai no buta) (1992),474,3.5,1,3.6634820617218034,Adventure|Animation|Comedy|Fantasy|Romance,In Netflix queue,Adventure Animation Comedy Fantasy Romance In Netflix queue
+1183,27020,Gia (1998),424,3.5,2,3.6261088983300604,Drama|Romance,drugs,Drama Romance drugs
+1184,27156,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",184,4.5,5,4.252834511384375,Action|Animation|Drama|Fantasy|Sci-Fi,anime,Action Animation Drama Fantasy Sci-Fi anime
+1185,27660,"Animatrix, The (2003)",62,4.5,6,4.282349215734559,Action|Animation|Drama|Sci-Fi,animation,Action Animation Drama Sci-Fi animation
+1186,27706,Lemony Snicket's A Series of Unfortunate Events (2004),62,4.0,5,3.913820061588154,Adventure|Children|Comedy|Fantasy,dark comedy,Adventure Children Comedy Fantasy dark comedy
+1187,27731,"Cat Returns, The (Neko no ongaeshi) (2002)",474,4.0,1,3.811660199373625,Adventure|Animation|Children|Fantasy,In Netflix queue,Adventure Animation Children Fantasy In Netflix queue
+1188,27741,"Twilight Samurai, The (Tasogare Seibei) (2002)",474,3.5,1,3.6634820617218034,Drama|Romance,In Netflix queue,Drama Romance In Netflix queue
+1189,27773,Old Boy (2003),567,4.5,8,4.324308755919522,Mystery|Thriller,bizarre,Mystery Thriller bizarre
+1190,27790,Millions (2004),474,4.0,2,3.854716018879717,Children|Comedy|Crime|Drama|Fantasy,religion,Children Comedy Crime Drama Fantasy religion
+1191,27808,Spanglish (2004),62,4.0,3,3.8817490321435826,Comedy|Drama|Romance,Adam Sandler,Comedy Drama Romance Adam Sandler
+1192,27820,"Story of the Weeping Camel, The (Geschichte vom weinenden Kamel, Die) (2003)",474,4.0,2,3.854716018879717,Documentary|Drama,Animal movie,Documentary Drama Animal movie
+1193,27831,Layer Cake (2004),62,4.5,7,4.305566991030727,Crime|Drama|Thriller,British gangster,Crime Drama Thriller British gangster
+1194,27834,"Return, The (Vozvrashcheniye) (2003)",474,4.0,1,3.811660199373625,Drama,fatherhood,Drama fatherhood
+1195,27838,Mean Creek (2004),474,4.5,1,3.959838337025447,Drama|Thriller,revenge,Drama Thriller revenge
+1196,27878,Born into Brothels (2004),474,4.0,1,3.811660199373625,Documentary,India,Documentary India
+1197,27882,Riding Giants (2004),474,4.0,1,3.811660199373625,Documentary,surfing,Documentary surfing
+1198,30707,Million Dollar Baby (2004),474,4.0,1,3.811660199373625,Drama,boxing,Drama boxing
+1199,30749,Hotel Rwanda (2004),474,4.5,1,3.959838337025447,Drama|War,genocide,Drama War genocide
+1200,30793,Charlie and the Chocolate Factory (2005),474,4.0,1,3.811660199373625,Adventure|Children|Comedy|Fantasy|IMAX,roald dahl,Adventure Children Comedy Fantasy IMAX roald dahl
+1201,30810,"Life Aquatic with Steve Zissou, The (2004)",567,4.0,6,3.924111042814494,Adventure|Comedy|Fantasy,heartwarming,Adventure Comedy Fantasy heartwarming
+1202,30812,"Aviator, The (2004)",474,4.0,3,3.8817490321435826,Drama,biopic,Drama biopic
+1203,30820,"Woodsman, The (2004)",474,4.5,1,3.959838337025447,Drama,child abuse,Drama child abuse
+1204,30822,In Good Company (2004),474,4.5,1,3.959838337025447,Comedy|Drama,busniess,Comedy Drama busniess
+1205,30825,Meet the Fockers (2004),424,3.5,2,3.6261088983300604,Comedy,Ben Stiller,Comedy Ben Stiller
+1206,30850,"Merchant of Venice, The (2004)",474,4.5,1,3.959838337025447,Drama,Shakespeare,Drama Shakespeare
+1207,31030,I Remember Mama (1948),474,4.0,1,3.811660199373625,Children|Drama,motherhood,Children Drama motherhood
+1208,31437,Nobody Knows (Dare mo shiranai) (2004),474,4.0,1,3.811660199373625,Drama,orphans,Drama orphans
+1209,31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),62,3.6666666666666665,6,3.6852855942011176,Adventure|Animation|Fantasy|Romance,anime,Adventure Animation Fantasy Romance anime
+1210,31903,Zelary (2003),474,4.0,1,3.811660199373625,Drama|Romance,marriage,Drama Romance marriage
+1211,32582,"Wild Parrots of Telegraph Hill, The (2003)",474,4.5,2,4.083323139429374,Documentary,birds,Documentary birds
+1212,32584,"Ballad of Jack and Rose, The (2005)",474,4.0,1,3.811660199373625,Drama,fatherhood,Drama fatherhood
+1213,32587,Sin City (2005),336,4.0,1,3.811660199373625,Action|Crime|Film-Noir|Mystery|Thriller,cult,Action Crime Film-Noir Mystery Thriller cult
+1214,33154,Enron: The Smartest Guys in the Room (2005),474,3.5,3,3.6026437957429724,Documentary,business,Documentary business
+1215,33162,Kingdom of Heaven (2005),62,4.0,4,3.9003001912672213,Action|Drama|Romance|War,David Thewlis,Action Drama Romance War David Thewlis
+1216,33166,Crash (2004),474,4.0,1,3.811660199373625,Crime|Drama,racism,Crime Drama racism
+1217,33493,Star Wars: Episode III - Revenge of the Sith (2005),474,4.5,2,4.083323139429374,Action|Adventure|Sci-Fi,space,Action Adventure Sci-Fi space
+1218,33660,Cinderella Man (2005),336,4.25,2,3.9690195791545455,Drama|Romance,boksdrama,Drama Romance boksdrama
+1219,34150,Fantastic Four (2005),62,3.0,6,3.207634696974364,Action|Adventure|Sci-Fi,Chris Evans,Action Adventure Sci-Fi Chris Evans
+1220,34162,Wedding Crashers (2005),336,4.0,1,3.811660199373625,Comedy|Romance,stiller,Comedy Romance stiller
+1221,34271,Hustle & Flow (2005),474,3.5,1,3.6634820617218034,Crime|Drama,hip hop,Crime Drama hip hop
+1222,34323,"Devil's Rejects, The (2005)",424,4.5,1,3.959838337025447,Action|Crime|Horror,Rob Zombie,Action Crime Horror Rob Zombie
+1223,34359,Georgy Girl (1966),474,4.0,1,3.811660199373625,Comedy,pregnancy,Comedy pregnancy
+1224,34405,Serenity (2005),305,3.5,2,3.6261088983300604,Action|Adventure|Sci-Fi,predictable,Action Adventure Sci-Fi predictable
+1225,34437,Broken Flowers (2005),474,4.0,1,3.811660199373625,Comedy|Drama,In Netflix queue,Comedy Drama In Netflix queue
+1226,34528,Junebug (2005),474,4.0,1,3.811660199373625,Comedy|Drama,pregnancy,Comedy Drama pregnancy
+1227,34542,Grizzly Man (2005),474,4.0,2,3.854716018879717,Documentary,Animal movie,Documentary Animal movie
+1228,35015,Duma (2005),474,3.5,2,3.6261088983300604,Adventure|Drama,Animal movie,Adventure Drama Animal movie
+1229,35836,"40-Year-Old Virgin, The (2005)",573,5.0,4,4.527818408155348,Comedy|Romance,BEST PICTURE,Comedy Romance BEST PICTURE
+1230,36517,"Constant Gardener, The (2005)",474,4.0,3,3.8817490321435826,Drama|Thriller,Africa,Drama Thriller Africa
+1231,36527,Proof (2005),474,3.5,1,3.6634820617218034,Drama,mathematics,Drama mathematics
+1232,36529,Lord of War (2005),336,4.0,1,3.811660199373625,Action|Crime|Drama|Thriller|War,wapendrama,Action Crime Drama Thriller War wapendrama
+1233,36535,Everything Is Illuminated (2005),474,3.5,1,3.6634820617218034,Comedy|Drama,In Netflix queue,Comedy Drama In Netflix queue
+1234,37384,Waiting... (2005),356,5.0,1,4.108016474677269,Comedy,restaurant,Comedy restaurant
+1235,37729,Corpse Bride (2005),62,3.7857142857142856,7,3.772194796335303,Animation|Comedy|Fantasy|Musical|Romance,gothic,Animation Comedy Fantasy Musical Romance gothic
+1236,37733,"History of Violence, A (2005)",474,4.0,1,3.811660199373625,Action|Crime|Drama|Thriller,In Netflix queue,Action Crime Drama Thriller In Netflix queue
+1237,37736,Oliver Twist (2005),474,3.5,1,3.6634820617218034,Drama,Dickens,Drama Dickens
+1238,37741,Capote (2005),474,4.5,1,3.959838337025447,Crime|Drama,Truman Capote,Crime Drama Truman Capote
+1239,38038,Wallace & Gromit in The Curse of the Were-Rabbit (2005),474,4.5,2,4.083323139429374,Adventure|Animation|Children|Comedy,06 Oscar Nominated Best Movie - Animation,Adventure Animation Children Comedy 06 Oscar Nominated Best Movie - Animation
+1240,38061,Kiss Kiss Bang Bang (2005),62,4.0,6,3.924111042814494,Comedy|Crime|Mystery|Thriller,black comedy,Comedy Crime Mystery Thriller black comedy
+1241,38798,In Her Shoes (2005),336,3.5,1,3.6634820617218034,Comedy|Drama,sisters,Comedy Drama sisters
+1242,38886,"Squid and the Whale, The (2005)",474,4.0,1,3.811660199373625,Comedy|Drama,divorce,Comedy Drama divorce
+1243,39234,North Country (2005),474,4.0,2,3.854716018879717,Drama,courtroom drama,Drama courtroom drama
+1244,39292,"Good Night, and Good Luck. (2005)",474,4.0,4,3.9003001912672213,Crime|Drama,In Netflix queue,Crime Drama In Netflix queue
+1245,40278,Jarhead (2005),424,4.0,2,3.854716018879717,Action|Drama|War,Jake Gyllenhaal,Action Drama War Jake Gyllenhaal
+1246,40491,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",567,5.0,1,4.108016474677269,Comedy|Drama,depression,Comedy Drama depression
+1247,40583,Syriana (2005),474,3.5,1,3.6634820617218034,Drama|Thriller,In Netflix queue,Drama Thriller In Netflix queue
+1248,40629,Pride & Prejudice (2005),474,3.5,1,3.6634820617218034,Drama|Romance,In Netflix queue,Drama Romance In Netflix queue
+1249,40815,Harry Potter and the Goblet of Fire (2005),474,5.0,2,4.31193025997903,Adventure|Fantasy|Thriller|IMAX,Magic,Adventure Fantasy Thriller IMAX Magic
+1250,40819,Walk the Line (2005),474,4.0,1,3.811660199373625,Drama|Musical|Romance,Johnny Cash,Drama Musical Romance Johnny Cash
+1251,40955,Breakfast on Pluto (2005),356,4.0,1,3.811660199373625,Comedy|Drama,transvestite,Comedy Drama transvestite
+1252,41566,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",474,4.5,1,3.959838337025447,Adventure|Children|Fantasy,C.S. Lewis,Adventure Children Fantasy C.S. Lewis
+1253,41569,King Kong (2005),477,4.0,1,3.811660199373625,Action|Adventure|Drama|Fantasy|Thriller,big budget,Action Adventure Drama Fantasy Thriller big budget
+1254,41997,Munich (2005),474,4.0,1,3.811660199373625,Action|Crime|Drama|Thriller,In Netflix queue,Action Crime Drama Thriller In Netflix queue
+1255,42002,"Producers, The (2005)",474,4.0,1,3.811660199373625,Comedy|Musical,In Netflix queue,Comedy Musical In Netflix queue
+1256,42422,Voices of a Distant Star (Hoshi no koe) (2003),477,4.5,1,3.959838337025447,Animation|Drama|Romance|Sci-Fi,love,Animation Drama Romance Sci-Fi love
+1257,42632,Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi) (2005),125,5.0,1,4.108016474677269,Crime|Drama|Mystery|Thriller,brutality,Crime Drama Mystery Thriller brutality
+1258,42740,Looking for Comedy in the Muslim World (2005),474,3.5,1,3.6634820617218034,Comedy,In Netflix queue,Comedy In Netflix queue
+1259,44665,Lucky Number Slevin (2006),18,4.5,1,3.959838337025447,Crime|Drama|Mystery,twist ending,Crime Drama Mystery twist ending
+1260,44889,Reefer Madness: The Movie Musical (2005),356,5.0,1,4.108016474677269,Comedy|Drama|Musical,satire,Comedy Drama Musical satire
+1261,45447,"Da Vinci Code, The (2006)",62,3.5,7,3.5588459184571333,Drama|Mystery|Thriller,adventure,Drama Mystery Thriller adventure
+1262,45499,X-Men: The Last Stand (2006),477,3.5,2,3.6261088983300604,Action|Sci-Fi|Thriller,Halle Berry,Action Sci-Fi Thriller Halle Berry
+1263,45730,Lady in the Water (2006),477,3.0,7,3.185485382170337,Drama|Fantasy|Mystery,bad,Drama Fantasy Mystery bad
+1264,45880,Marie Antoinette (2006),567,3.0,2,3.397501777780404,Drama|Romance,cinematography,Drama Romance cinematography
+1265,46723,Babel (2006),62,3.0,4,3.2727819743790945,Drama|Thriller,Brad Pitt,Drama Thriller Brad Pitt
+1266,46972,Night at the Museum (2006),62,4.0,2,3.854716018879717,Action|Comedy|Fantasy|IMAX,Ben Stiller,Action Comedy Fantasy IMAX Ben Stiller
+1267,46976,Stranger than Fiction (2006),62,4.0,6,3.924111042814494,Comedy|Drama|Fantasy|Romance,emma thompson,Comedy Drama Fantasy Romance emma thompson
+1268,47610,"Illusionist, The (2006)",477,4.0,4,3.9003001912672213,Drama|Fantasy|Mystery|Romance,costume drama,Drama Fantasy Mystery Romance costume drama
+1269,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",567,3.0,3,3.3235385593423623,Drama|Fantasy|Thriller,atmospheric,Drama Fantasy Thriller atmospheric
+1270,48516,"Departed, The (2006)",7,3.95,10,3.9082358900919463,Crime|Drama|Thriller,way too long,Crime Drama Thriller way too long
+1271,48780,"Prestige, The (2006)",226,3.6666666666666665,3,3.695678874543176,Drama|Mystery|Sci-Fi|Thriller,ummarti2006,Drama Mystery Sci-Fi Thriller ummarti2006
+1272,49130,"Good Year, A (2006)",62,4.0,1,3.811660199373625,Comedy|Drama|Romance,Marion Cotillard,Comedy Drama Romance Marion Cotillard
+1273,49530,Blood Diamond (2006),62,4.5,5,4.252834511384375,Action|Adventure|Crime|Drama|Thriller|War,Africa,Action Adventure Crime Drama Thriller War Africa
+1274,50872,Ratatouille (2007),291,4.5,4,4.214059299711285,Animation|Children|Drama,a clever chef rat,Animation Children Drama a clever chef rat
+1275,51255,Hot Fuzz (2007),327,3.5,1,3.6634820617218034,Action|Comedy|Crime|Mystery,british comedy,Action Comedy Crime Mystery british comedy
+1276,52287,Meet the Robinsons (2007),161,4.0,1,3.811660199373625,Action|Adventure|Animation|Children|Comedy|Sci-Fi,Something for everyone in this one... saw it without and plan on seeing it with kids!,Action Adventure Animation Children Comedy Sci-Fi Something for everyone in this one... saw it without and plan on seeing it with kids!
+1277,52604,Fracture (2007),18,4.5,3,4.160854268544193,Crime|Drama|Mystery|Thriller,Anthony Hopkins,Crime Drama Mystery Thriller Anthony Hopkins
+1278,52712,"Invisible, The (2007)",573,0.5,2,2.254466175032122,Crime|Drama|Fantasy|Mystery|Thriller,HORRIBLE ACTING,Crime Drama Fantasy Mystery Thriller HORRIBLE ACTING
+1279,52885,Paprika (Papurika) (2006),477,4.5,1,3.959838337025447,Animation|Mystery|Sci-Fi,dreamlike,Animation Mystery Sci-Fi dreamlike
+1280,53127,Bug (2007),424,3.5,6,3.5658728698944295,Drama|Horror|Thriller,based on a play,Drama Horror Thriller based on a play
+1281,53464,Fantastic Four: Rise of the Silver Surfer (2007),62,3.0,7,3.185485382170337,Action|Adventure|Sci-Fi,bad acting,Action Adventure Sci-Fi bad acting
+1282,53468,Fido (2006),477,4.0,1,3.811660199373625,Comedy|Horror|Thriller,zombies,Comedy Horror Thriller zombies
+1283,54286,"Bourne Ultimatum, The (2007)",166,5.0,4,4.527818408155348,Action|Crime|Thriller,assassin,Action Crime Thriller assassin
+1284,54503,Superbad (2007),477,5.0,7,4.678927527317524,Comedy,friendship,Comedy friendship
+1285,54997,3:10 to Yuma (2007),357,4.0,1,3.811660199373625,Action|Crime|Drama|Western,Christian Bale,Action Crime Drama Western Christian Bale
+1286,55167,Tekkonkinkreet (Tekkon kinkurîto) (2006),477,4.5,1,3.959838337025447,Action|Adventure|Animation|Crime|Fantasy,anime,Action Adventure Animation Crime Fantasy anime
+1287,55290,Gone Baby Gone (2007),357,5.0,3,4.439959504944802,Crime|Drama|Mystery,Casey Affleck,Crime Drama Mystery Casey Affleck
+1288,55721,Elite Squad (Tropa de Elite) (2007),305,5.0,1,4.108016474677269,Action|Crime|Drama|Thriller,Favelas,Action Crime Drama Thriller Favelas
+1289,55765,American Gangster (2007),537,5.0,4,4.527818408155348,Crime|Drama|Thriller,corruption,Crime Drama Thriller corruption
+1290,56174,I Am Legend (2007),477,4.0,9,3.9441269147793476,Action|Horror|Sci-Fi|Thriller|IMAX,alone in the world,Action Horror Sci-Fi Thriller IMAX alone in the world
+1291,56367,Juno (2007),477,4.0,5,3.913820061588154,Comedy|Drama|Romance,Michael Cera,Comedy Drama Romance Michael Cera
+1292,56782,There Will Be Blood (2007),567,5.0,8,4.709876309251099,Drama|Western,atmospheric,Drama Western atmospheric
+1293,57502,Cat Soup (Nekojiru-so) (2001),567,4.0,4,3.9003001912672213,Adventure|Animation|Drama|Horror,abstract,Adventure Animation Drama Horror abstract
+1294,57669,In Bruges (2008),477,5.0,8,4.709876309251099,Comedy|Crime|Drama|Thriller,black comedy,Comedy Crime Drama Thriller black comedy
+1295,58047,"Definitely, Maybe (2008)",62,3.5,2,3.6261088983300604,Comedy|Drama|Romance,Rachel Weisz,Comedy Drama Romance Rachel Weisz
+1296,58295,"Bank Job, The (2008)",537,5.0,3,4.439959504944802,Action|Crime|Thriller,heist,Action Crime Thriller heist
+1297,58301,Funny Games U.S. (2007),125,4.6,5,4.320637401343618,Drama|Thriller,dark humor,Drama Thriller dark humor
+1298,58559,"Dark Knight, The (2008)",435,4.5,4,4.214059299711285,Action|Crime|Drama|IMAX,psychology,Action Crime Drama IMAX psychology
+1299,59103,"Forbidden Kingdom, The (2008)",138,4.5,2,4.083323139429374,Action|Adventure|Comedy|Fantasy,jackie chan,Action Adventure Comedy Fantasy jackie chan
+1300,59141,Son of Rambow (2007),477,4.5,1,3.959838337025447,Children|Comedy|Drama,movies about movies,Children Comedy Drama movies about movies
+1301,59501,"Chronicles of Narnia: Prince Caspian, The (2008)",62,4.0,4,3.9003001912672213,Adventure|Children|Fantasy,fantasy,Adventure Children Fantasy fantasy
+1302,60069,WALL·E (2008),477,5.0,4,4.527818408155348,Adventure|Animation|Children|Romance|Sci-Fi,last man on earth,Adventure Animation Children Romance Sci-Fi last man on earth
+1303,60074,Hancock (2008),62,3.0,3,3.3235385593423623,Action|Adventure|Comedy|Crime|Fantasy,bad script,Action Adventure Comedy Crime Fantasy bad script
+1304,60126,Get Smart (2008),62,3.0,2,3.397501777780404,Action|Comedy,Anne Hathaway,Action Comedy Anne Hathaway
+1305,60516,Meet Dave (2008),520,4.5,1,3.959838337025447,Adventure|Children|Comedy|Romance|Sci-Fi,enjoyable,Adventure Children Comedy Romance Sci-Fi enjoyable
+1306,60756,Step Brothers (2008),2,4.1875,8,4.083329035087286,Comedy,funny,Comedy funny
+1307,60950,Vicky Cristina Barcelona (2008),125,5.0,1,4.108016474677269,Comedy|Drama|Romance,threesome,Comedy Drama Romance threesome
+1308,61024,Pineapple Express (2008),62,4.0,4,3.9003001912672213,Action|Comedy|Crime,comedy,Action Comedy Crime comedy
+1309,61323,Burn After Reading (2008),356,4.545454545454546,11,4.401103237227054,Comedy|Crime|Drama,dark comedy,Comedy Crime Drama dark comedy
+1310,62336,FLCL (2000),477,5.0,4,4.527818408155348,Animation|Comedy|Fantasy|Sci-Fi,2D animation,Animation Comedy Fantasy Sci-Fi 2D animation
+1311,62434,Zack and Miri Make a Porno (2008),125,4.5,2,4.083323139429374,Comedy|Drama|Romance,Seth Rogen,Comedy Drama Romance Seth Rogen
+1312,63062,Changeling (2008),567,3.5,1,3.6634820617218034,Crime|Drama|Mystery,emotional,Crime Drama Mystery emotional
+1313,63992,Twilight (2008),62,1.0,5,1.8797333628108288,Drama|Fantasy|Romance|Thriller,audience intelligence underestimated,Drama Fantasy Romance Thriller audience intelligence underestimated
+1314,64034,"Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",318,4.0,2,3.854716018879717,Drama|War,childish naivity,Drama War childish naivity
+1315,66097,Coraline (2009),424,4.5,6,4.282349215734559,Animation|Fantasy|Thriller,claymation,Animation Fantasy Thriller claymation
+1316,66934,Dr. Horrible's Sing-Along Blog (2008),477,5.0,4,4.527818408155348,Comedy|Drama|Musical|Sci-Fi,joss whedon,Comedy Drama Musical Sci-Fi joss whedon
+1317,67087,"I Love You, Man (2009)",477,3.5,8,3.5531736492563666,Comedy,Andy Samberg,Comedy Andy Samberg
+1318,67695,Observe and Report (2009),125,5.0,1,4.108016474677269,Action|Comedy,Seth Rogen,Action Comedy Seth Rogen
+1319,68157,Inglourious Basterds (2009),424,4.5,5,4.252834511384375,Action|Drama|War,black comedy,Action Drama War black comedy
+1320,68237,Moon (2009),477,4.5,3,4.160854268544193,Drama|Mystery|Sci-Fi|Thriller,2001-like,Drama Mystery Sci-Fi Thriller 2001-like
+1321,68319,X-Men Origins: Wolverine (2009),274,3.3333333333333335,6,3.446460145587741,Action|Sci-Fi|Thriller,comic book,Action Sci-Fi Thriller comic book
+1322,68358,Star Trek (2009),477,4.5,9,4.3397550675537895,Action|Adventure|Sci-Fi|IMAX,future,Action Adventure Sci-Fi IMAX future
+1323,68791,Terminator Salvation (2009),477,4.0,12,3.955787938837944,Action|Adventure|Sci-Fi|Thriller,artificial intelligence,Action Adventure Sci-Fi Thriller artificial intelligence
+1324,68848,"Brothers Bloom, The (2008)",62,4.0,6,3.924111042814494,Adventure|Comedy|Crime|Romance,Adrien Brody,Adventure Comedy Crime Romance Adrien Brody
+1325,68945,Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei) (1997),477,3.5,1,3.6634820617218034,Action|Animation|Mystery|Sci-Fi,Recap,Action Animation Mystery Sci-Fi Recap
+1326,68954,Up (2009),318,3.6923076923076925,13,3.6984894875113605,Adventure|Animation|Children|Drama,adventure,Adventure Animation Children Drama adventure
+1327,69122,"Hangover, The (2009)",537,4.0,5,3.913820061588154,Comedy|Crime,casino,Comedy Crime casino
+1328,69481,"Hurt Locker, The (2008)",537,3.5,1,3.6634820617218034,Action|Drama|Thriller|War,war,Action Drama Thriller War war
+1329,69526,Transformers: Revenge of the Fallen (2009),477,3.0,7,3.185485382170337,Action|Adventure|Sci-Fi|IMAX,bad plot,Action Adventure Sci-Fi IMAX bad plot
+1330,69757,(500) Days of Summer (2009),477,5.0,8,4.709876309251099,Comedy|Drama|Romance,artistic,Comedy Drama Romance artistic
+1331,70286,District 9 (2009),477,4.5,1,3.959838337025447,Mystery|Sci-Fi|Thriller,intelligent sci-fi,Mystery Sci-Fi Thriller intelligent sci-fi
+1332,71494,"Haunted World of El Superbeasto, The (2009)",318,3.5,1,3.6634820617218034,Action|Animation|Comedy|Horror|Thriller,Narrative pisstake,Action Animation Comedy Horror Thriller Narrative pisstake
+1333,71535,Zombieland (2009),62,3.5,6,3.5658728698944295,Action|Comedy|Horror,Bill Murray,Action Comedy Horror Bill Murray
+1334,71899,Mary and Max (2009),567,5.0,13,4.804229668780242,Animation|Comedy|Drama,bittersweet,Animation Comedy Drama bittersweet
+1335,72224,Gentlemen Broncos (2009),477,3.5,1,3.6634820617218034,Comedy,bad humor,Comedy bad humor
+1336,72998,Avatar (2009),477,4.444444444444445,18,4.361459078211938,Action|Adventure|Sci-Fi|IMAX,bad science,Action Adventure Sci-Fi IMAX bad science
+1337,74458,Shutter Island (2010),424,5.0,7,4.678927527317524,Drama|Mystery|Thriller,insanity,Drama Mystery Thriller insanity
+1338,74791,"Town Called Panic, A (Panique au village) (2009)",567,3.5,2,3.6261088983300604,Animation,surreal,Animation surreal
+1339,79132,Inception (2010),424,4.0576923076923075,26,4.030467053079097,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,action,Action Crime Drama Mystery Sci-Fi Thriller IMAX action
+1340,79702,Scott Pilgrim vs. the World (2010),477,5.0,4,4.527818408155348,Action|Comedy|Fantasy|Musical|Romance,geeky,Action Comedy Fantasy Musical Romance geeky
+1341,80463,"Social Network, The (2010)",567,3.5,3,3.6026437957429724,Drama,good dialogue,Drama good dialogue
+1342,80834,Sintel (2010),509,3.5,3,3.6026437957429724,Animation|Fantasy,adventure,Animation Fantasy adventure
+1343,80906,Inside Job (2010),537,5.0,6,4.640587388654625,Documentary,business,Documentary business
+1344,81158,Restrepo (2010),318,3.0,1,3.5153039240699813,Documentary|War,american idolatry,Documentary War american idolatry
+1345,81591,Black Swan (2010),424,3.5,6,3.5658728698944295,Drama|Thriller,alter ego,Drama Thriller alter ego
+1346,82242,Rare Exports: A Christmas Tale (Rare Exports) (2010),477,5.0,1,4.108016474677269,Action|Comedy,male nudity,Action Comedy male nudity
+1347,82459,True Grit (2010),318,5.0,5,4.591848961180595,Western,atmospheric,Western atmospheric
+1348,83134,Tucker & Dale vs Evil (2010),305,5.0,1,4.108016474677269,Comedy|Horror,black comedy,Comedy Horror black comedy
+1349,87430,Green Lantern (2011),62,3.5,9,3.548498762004906,Action|Adventure|Sci-Fi,audience intelligence underestimated,Action Adventure Sci-Fi audience intelligence underestimated
+1350,88094,Upside Down: The Creation Records Story (2010),18,3.0,3,3.3235385593423623,Documentary,britpop,Documentary britpop
+1351,88405,Friends with Benefits (2011),62,3.5,9,3.548498762004906,Comedy|Romance,comedy,Comedy Romance comedy
+1352,89745,"Avengers, The (2012)",537,2.5714285714285716,7,2.8654620653530825,Action|Adventure|Sci-Fi|IMAX,Captain America,Action Adventure Sci-Fi IMAX Captain America
+1353,89774,Warrior (2011),2,5.0,3,4.439959504944802,Drama,Boxing story,Drama Boxing story
+1354,90439,Margin Call (2011),537,5.0,9,4.735383220328231,Drama|Thriller,bank,Drama Thriller bank
+1355,90769,Starsuckers (2009),318,4.0,3,3.8817490321435826,Documentary,celebrity fetishism,Documentary celebrity fetishism
+1356,91500,The Hunger Games (2012),357,4.5,1,3.959838337025447,Action|Adventure|Drama|Sci-Fi|Thriller,ending,Action Adventure Drama Sci-Fi Thriller ending
+1357,91529,"Dark Knight Rises, The (2012)",357,4.5,8,4.324308755919522,Action|Adventure|Crime|IMAX,Anne Hathaway,Action Adventure Crime IMAX Anne Hathaway
+1358,94959,Moonrise Kingdom (2012),567,3.5,1,3.6634820617218034,Comedy|Drama|Romance,quirky,Comedy Drama Romance quirky
+1359,95067,"Thousand Words, A (2012)",537,3.0,1,3.5153039240699813,Comedy|Drama,interesting scenario,Comedy Drama interesting scenario
+1360,95558,Beasts of the Southern Wild (2012),567,3.0,3,3.3235385593423623,Drama|Fantasy,Beautiful,Drama Fantasy Beautiful
+1361,96079,Skyfall (2012),567,3.0,3,3.3235385593423623,Action|Adventure|Thriller|IMAX,beautiful cinematography,Action Adventure Thriller IMAX beautiful cinematography
+1362,96084,Hands Over the City (Le mani sulla città) (1963),318,4.5,3,4.160854268544193,Drama,city politics,Drama city politics
+1363,96861,Taken 2 (2012),62,3.5,5,3.574805611791933,Action|Crime|Drama|Thriller,Istanbul,Action Crime Drama Thriller Istanbul
+1364,97304,Argo (2012),537,4.5,3,4.160854268544193,Drama|Thriller,cia,Drama Thriller cia
+1365,97938,Life of Pi (2012),193,4.0,3,3.8817490321435826,Adventure|Drama|IMAX,cinematography,Adventure Drama IMAX cinematography
+1366,98809,"Hobbit: An Unexpected Journey, The (2012)",439,3.5,2,3.6261088983300604,Adventure|Fantasy|IMAX,Action,Adventure Fantasy IMAX Action
+1367,98961,Zero Dark Thirty (2012),419,5.0,5,4.591848961180595,Action|Drama|Thriller,Afghanistan,Action Drama Thriller Afghanistan
+1368,99114,Django Unchained (2012),62,4.958333333333333,12,4.755825954424335,Action|Drama|Western,action,Action Drama Western action
+1369,99764,It's Such a Beautiful Day (2012),567,5.0,4,4.527818408155348,Animation|Comedy|Drama|Fantasy|Sci-Fi,moving,Animation Comedy Drama Fantasy Sci-Fi moving
+1370,99917,Upstream Color (2013),567,3.5,6,3.5658728698944295,Romance|Sci-Fi|Thriller,artistic,Romance Sci-Fi Thriller artistic
+1371,100083,Movie 43 (2013),125,5.0,5,4.591848961180595,Comedy,embarassing scenes,Comedy embarassing scenes
+1372,101142,"Croods, The (2013)",119,4.0,3,3.8817490321435826,Adventure|Animation|Comedy,animation,Adventure Animation Comedy animation
+1373,102007,"Invincible Iron Man, The (2007)",291,3.0,1,3.5153039240699813,Animation,animation,Animation animation
+1374,102903,Now You See Me (2013),424,1.5,4,2.331504649046904,Crime|Mystery|Thriller,illusions,Crime Mystery Thriller illusions
+1375,103042,Man of Steel (2013),62,3.5,2,3.6261088983300604,Action|Adventure|Fantasy|Sci-Fi|IMAX,Amy Adams,Action Adventure Fantasy Sci-Fi IMAX Amy Adams
+1376,104218,Grown Ups 2 (2013),537,3.5,1,3.6634820617218034,Comedy,Adam Sandler,Comedy Adam Sandler
+1377,104841,Gravity (2013),537,3.0,6,3.207634696974364,Action|Sci-Fi|IMAX,cliche characters,Action Sci-Fi IMAX cliche characters
+1378,104863,What If (2013),62,4.0,2,3.854716018879717,Comedy|Drama|Romance,daniel radcliffe,Comedy Drama Romance daniel radcliffe
+1379,104875,"History of Future Folk, The (2012)",567,3.5,1,3.6634820617218034,Adventure|Comedy|Musical|Sci-Fi,quirky,Adventure Comedy Musical Sci-Fi quirky
+1380,104879,Prisoners (2013),424,5.0,8,4.709876309251099,Drama|Mystery|Thriller,absorbing,Drama Mystery Thriller absorbing
+1381,104944,Short Term 12 (2013),567,3.5,5,3.574805611791933,Drama,emotional,Drama emotional
+1382,105504,Captain Phillips (2013),537,4.2,5,4.049425841506642,Adventure|Drama|Thriller|IMAX,hostage,Adventure Drama Thriller IMAX hostage
+1383,106100,Dallas Buyers Club (2013),424,4.0,3,3.8817490321435826,Drama,Jared Leto,Drama Jared Leto
+1384,106489,"Hobbit: The Desolation of Smaug, The (2013)",106,5.0,1,4.108016474677269,Adventure|Fantasy|IMAX,adventure,Adventure Fantasy IMAX adventure
+1385,106766,Inside Llewyn Davis (2013),567,4.0,4,3.9003001912672213,Drama,atmospheric,Drama atmospheric
+1386,106782,"Wolf of Wall Street, The (2013)",2,5.0,5,4.591848961180595,Comedy|Crime|Drama,drugs,Comedy Crime Drama drugs
+1387,107348,Anchorman 2: The Legend Continues (2013),62,4.0,4,3.9003001912672213,Comedy,comedy,Comedy comedy
+1388,107406,Snowpiercer (2013),567,3.0,1,3.5153039240699813,Action|Drama|Sci-Fi,fatalistic,Action Drama Sci-Fi fatalistic
+1389,108190,Divergent (2014),62,3.0,8,3.167606095924789,Adventure|Romance|Sci-Fi|IMAX,anti-intellectual,Adventure Romance Sci-Fi IMAX anti-intellectual
+1390,108932,The Lego Movie (2014),567,4.5,7,4.305566991030727,Action|Adventure|Animation|Children|Comedy|Fantasy,cheeky,Action Adventure Animation Children Comedy Fantasy cheeky
+1391,109487,Interstellar (2014),49,3.642857142857143,7,3.6655203573962183,Sci-Fi|IMAX,black hole,Sci-Fi IMAX black hole
+1392,111364,Godzilla (2014),318,3.0,1,3.5153039240699813,Action|Adventure|Sci-Fi|IMAX,Creature Feature,Action Adventure Sci-Fi IMAX Creature Feature
+1393,111743,A Million Ways to Die in the West (2014),62,3.5,4,3.5865410828231576,Comedy|Western,Charlize Theron,Comedy Western Charlize Theron
+1394,112421,Frank (2014),567,4.5,6,4.282349215734559,Comedy|Drama|Mystery,adorable,Comedy Drama Mystery adorable
+1395,112515,"Babadook, The (2014)",424,4.5,4,4.214059299711285,Drama|Horror|Thriller,atmospheric,Drama Horror Thriller atmospheric
+1396,112552,Whiplash (2014),487,3.3333333333333335,9,3.4166227110800924,Drama,passion,Drama passion
+1397,112556,Gone Girl (2014),424,1.0,2,2.4830732955817783,Drama|Thriller,annoying,Drama Thriller annoying
+1398,112852,Guardians of the Galaxy (2014),567,3.5,4,3.5865410828231576,Action|Adventure|Sci-Fi,funny,Action Adventure Sci-Fi funny
+1399,113705,"Two Days, One Night (Deux jours, une nuit) (2014)",567,3.5,1,3.6634820617218034,Drama,bittersweet,Drama bittersweet
+1400,114180,"Maze Runner, The (2014)",62,3.5,8,3.5531736492563666,Action|Mystery|Sci-Fi,action,Action Mystery Sci-Fi action
+1401,114627,Angel's Egg (Tenshi no tamago) (1985),567,3.5,4,3.5865410828231576,Animation|Drama|Fantasy,atmospheric,Animation Drama Fantasy atmospheric
+1402,115149,John Wick (2014),62,4.833333333333333,9,4.603507169403417,Action|Thriller,dark hero,Action Thriller dark hero
+1403,115617,Big Hero 6 (2014),119,5.0,6,4.640587388654625,Action|Animation|Comedy,animation,Action Animation Comedy animation
+1404,116797,The Imitation Game (2014),567,3.0,2,3.397501777780404,Drama|Thriller|War,inspirational,Drama Thriller War inspirational
+1405,116897,Wild Tales (2014),62,4.0,6,3.924111042814494,Comedy|Drama|Thriller,black comedy,Comedy Drama Thriller black comedy
+1406,117877,The Rabbi's Cat (Le chat du rabbin) (2011),567,3.0,2,3.397501777780404,Adventure|Animation,philosophical,Adventure Animation philosophical
+1407,117887,Paddington (2014),567,3.5,1,3.6634820617218034,Children|Comedy,heartwarming,Children Comedy heartwarming
+1408,118696,The Hobbit: The Battle of the Five Armies (2014),291,4.0,1,3.811660199373625,Adventure|Fantasy,hope,Adventure Fantasy hope
+1409,118784,Good Copy Bad Copy (2007),318,3.5,3,3.6026437957429724,Documentary,documentary,Documentary documentary
+1410,119141,The Interview (2014),21,2.5833333333333335,6,2.909102886207643,Action|Comedy,bloody,Action Comedy bloody
+1411,119145,Kingsman: The Secret Service (2015),567,3.0,1,3.5153039240699813,Action|Adventure|Comedy|Crime,slick,Action Adventure Comedy Crime slick
+1412,120635,Taken 3 (2015),119,4.5,3,4.160854268544193,Action|Crime|Thriller,action,Action Crime Thriller action
+1413,122882,Mad Max: Fury Road (2015),567,4.0,3,3.8817490321435826,Action|Adventure|Sci-Fi|Thriller,beautiful,Action Adventure Sci-Fi Thriller beautiful
+1414,122912,Avengers: Infinity War - Part I (2018),62,3.6666666666666665,15,3.675640878475613,Action|Adventure|Sci-Fi,comic book,Action Adventure Sci-Fi comic book
+1415,122916,Thor: Ragnarok (2017),567,3.0,5,3.2357911619957123,Action|Adventure|Sci-Fi,awesome,Action Adventure Sci-Fi awesome
+1416,122918,Guardians of the Galaxy 2 (2017),567,3.5,1,3.6634820617218034,Action|Adventure|Sci-Fi,fun,Action Adventure Sci-Fi fun
+1417,122922,Doctor Strange (2016),567,3.0,1,3.5153039240699813,Action|Adventure|Sci-Fi,visually appealing,Action Adventure Sci-Fi visually appealing
+1418,126548,The DUFF (2015),256,4.5,2,4.083323139429374,Comedy,funny,Comedy funny
+1419,127172,A Story of Children and Film (2013),318,3.5,3,3.6026437957429724,Documentary,film history,Documentary film history
+1420,127298,A Pigeon Sat on a Branch Reflecting on Existence (2014),567,3.5,2,3.6261088983300604,Comedy|Drama,depressing,Comedy Drama depressing
+1421,128360,The Hateful Eight (2015),62,5.0,9,4.735383220328231,Western,characters,Western characters
+1422,134130,The Martian (2015),567,3.0,1,3.5153039240699813,Adventure|Drama|Sci-Fi,smart,Adventure Drama Sci-Fi smart
+1423,134170,Kung Fury (2015),567,4.5,3,4.160854268544193,Action|Comedy|Fantasy|Sci-Fi,funny,Action Comedy Fantasy Sci-Fi funny
+1424,135133,The Hunger Games: Mockingjay - Part 2 (2015),62,3.5,7,3.5588459184571333,Adventure|Sci-Fi,dystopia,Adventure Sci-Fi dystopia
+1425,135518,Self/less (2015),62,3.5,4,3.5865410828231576,Action|Mystery|Sci-Fi|Thriller,Ben Kingsley,Action Mystery Sci-Fi Thriller Ben Kingsley
+1426,135536,Suicide Squad (2016),62,4.0,19,3.9702672051932026,Action|Crime|Sci-Fi,Bad story,Action Crime Sci-Fi Bad story
+1427,136864,Batman v Superman: Dawn of Justice (2016),62,4.0,9,3.9441269147793476,Action|Adventure|Fantasy|Sci-Fi,action,Action Adventure Fantasy Sci-Fi action
+1428,138036,The Man from U.N.C.L.E. (2015),567,3.0,2,3.397501777780404,Action|Adventure|Comedy,slick,Action Adventure Comedy slick
+1429,139385,The Revenant (2015),62,3.5714285714285716,7,3.612183137926676,Adventure|Drama,leonardo DiCarpio,Adventure Drama leonardo DiCarpio
+1430,139644,Sicario (2015),567,3.5,2,3.6261088983300604,Crime|Drama|Mystery,atmospheric,Crime Drama Mystery atmospheric
+1431,140174,Room (2015),567,3.0,2,3.397501777780404,Drama,moving,Drama moving
+1432,141890,Beasts of No Nation (2015),567,3.0,1,3.5153039240699813,Drama|War,Moving,Drama War Moving
+1433,143367,Silence (2016),567,4.5,4,4.214059299711285,Drama|Thriller,contemplative,Drama Thriller contemplative
+1434,144210,Just Eat It: A Food Waste Story (2014),18,4.0,2,3.854716018879717,Documentary,dumpster diving,Documentary dumpster diving
+1435,148626,"Big Short, The (2015)",567,3.0,3,3.3235385593423623,Drama,funny,Drama funny
+1436,148881,World of Tomorrow (2015),567,5.0,2,4.31193025997903,Animation|Comedy,Existential,Animation Comedy Existential
+1437,152077,10 Cloverfield Lane (2016),567,3.0,2,3.397501777780404,Thriller,creepy,Thriller creepy
+1438,152711,Who Killed Chea Vichea? (2010),462,5.0,5,4.591848961180595,Documentary,Cambodia,Documentary Cambodia
+1439,153070,Rabbits (2002),567,3.5,1,3.6634820617218034,Comedy|Drama|Fantasy,nightmare,Comedy Drama Fantasy nightmare
+1440,155288,Eye in the Sky (2016),567,3.5,2,3.6261088983300604,Drama|Thriller|War,suspense,Drama Thriller War suspense
+1441,156371,Everybody Wants Some (2016),125,4.0,1,3.811660199373625,Comedy,80's,Comedy 80's
+1442,156605,Paterson,567,4.5,3,4.160854268544193,(no genres listed),quirky,(no genres listed) quirky
+1443,158872,Sausage Party (2016),125,5.0,5,4.591848961180595,Animation|Comedy,Crude humor,Animation Comedy Crude humor
+1444,158966,Captain Fantastic (2016),62,4.5,6,4.282349215734559,Drama,building a family,Drama building a family
+1445,161634,Don't Breathe (2016),567,3.0,1,3.5153039240699813,Thriller,intense,Thriller intense
+1446,164179,Arrival (2016),567,4.0,7,3.9322064547439304,Sci-Fi,beautiful visuals,Sci-Fi beautiful visuals
+1447,164909,La La Land (2016),567,3.0,2,3.397501777780404,Comedy|Drama|Romance,Bittersweet,Comedy Drama Romance Bittersweet
+1448,167746,The Lego Batman Movie (2017),567,3.5,2,3.6261088983300604,Action|Animation|Comedy,funny,Action Animation Comedy funny
+1449,168248,John Wick: Chapter Two (2017),62,4.5625,8,4.372504700085969,Action|Crime|Thriller,action,Action Crime Thriller action
+1450,168252,Logan (2017),567,4.0,5,3.913820061588154,Action|Sci-Fi,dark,Action Sci-Fi dark
+1451,170945,It Comes at Night (2017),567,3.5,2,3.6261088983300604,Horror|Mystery|Thriller,paranoia,Horror Mystery Thriller paranoia
+1452,174053,Black Mirror: White Christmas (2014),62,5.0,5,4.591848961180595,Drama|Horror|Mystery|Sci-Fi|Thriller,Dystopia,Drama Horror Mystery Sci-Fi Thriller Dystopia
+1453,174055,Dunkirk (2017),567,3.5,3,3.6026437957429724,Action|Drama|Thriller|War,brilliant,Action Drama Thriller War brilliant
+1454,176371,Blade Runner 2049 (2017),567,5.0,8,4.709876309251099,Sci-Fi,atmospheric,Sci-Fi atmospheric
+1455,176419,Mother! (2017),567,3.0,3,3.3235385593423623,Drama|Horror|Mystery|Thriller,allegorical,Drama Horror Mystery Thriller allegorical
+1456,179401,Jumanji: Welcome to the Jungle (2017),62,3.5,4,3.5865410828231576,Action|Adventure|Children,Action,Action Adventure Children Action
+1457,180031,The Shape of Water (2017),567,4.0,2,3.854716018879717,Adventure|Drama|Fantasy,atmospheric,Adventure Drama Fantasy atmospheric
+1458,180985,The Greatest Showman (2017),567,1.0,1,2.922591373462694,Drama,bad music,Drama bad music
+1459,183611,Game Night (2018),62,4.0,3,3.8817490321435826,Action|Comedy|Crime|Horror,Comedy,Action Comedy Crime Horror Comedy
+1460,184471,Tomb Raider (2018),62,3.5,3,3.6026437957429724,Action|Adventure|Fantasy,adventure,Action Adventure Fantasy adventure
+1461,187593,Deadpool 2 (2018),62,4.0,3,3.8817490321435826,Action|Comedy|Sci-Fi,Josh Brolin,Action Comedy Sci-Fi Josh Brolin
+1462,187595,Solo: A Star Wars Story (2018),62,4.0,2,3.854716018879717,Action|Adventure|Children|Sci-Fi,Emilia Clarke,Action Adventure Children Sci-Fi Emilia Clarke
+1463,193565,Gintama: The Movie (2010),184,3.5,4,3.5865410828231576,Action|Animation|Comedy|Sci-Fi,anime,Action Animation Comedy Sci-Fi anime

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Recommendation</title>
+    <style>
+        body{
+            margin: 50px 50px 50px 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎬 Movie Recommender</h1>
+    <form method="post">
+        {% csrf_token %}
+        <label>Enter movie title:</label>
+        <input type="text" name="title" required>
+        <button type="submit">Recommend</button>
+    </form>
+
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+
+    {% if best_match %}
+        <h2>Closest match: {{ best_match }} (Match Score: {{ match_score }})</h2>
+        <h3>Recommended Movies:</h3>
+        <ul>
+            {% for movie in recommendations %}
+                <li>
+                    <strong>{{ movie.title }}</strong> (Similarity: {{ movie.score }})<br>
+                    Genres: {{ movie.genres }}<br>
+                    Tag: {{ movie.tag }}
+                </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
